@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Vavuniya", 
+    "png_file_name": "Vavuniya.png", 
+    "top": 248, 
+    "left": 406, 
+    "height": 433, 
+    "width": 422
+  }, 
+  {
+    "label": "Mannar", 
+    "png_file_name": "Mannar.png", 
+    "top": 166, 
+    "left": 0, 
+    "height": 532, 
+    "width": 579
+  }, 
+  {
+    "label": "Mullaitivu", 
+    "png_file_name": "Mullaitivu.png", 
+    "top": 0, 
+    "left": 410, 
+    "height": 432, 
+    "width": 589
+  }
+]

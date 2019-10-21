@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Weligama", 
+    "png_file_name": "Weligama.png", 
+    "top": 682, 
+    "left": 11, 
+    "height": 280, 
+    "width": 258
+  }, 
+  {
+    "label": "Deniyaya", 
+    "png_file_name": "Deniyaya.png", 
+    "top": 0, 
+    "left": 0, 
+    "height": 501, 
+    "width": 510
+  }, 
+  {
+    "label": "Akuressa", 
+    "png_file_name": "Akuressa.png", 
+    "top": 359, 
+    "left": 12, 
+    "height": 544, 
+    "width": 338
+  }, 
+  {
+    "label": "Matara", 
+    "png_file_name": "Matara.png", 
+    "top": 839, 
+    "left": 261, 
+    "height": 134, 
+    "width": 266
+  }, 
+  {
+    "label": "Kamburupitiya", 
+    "png_file_name": "Kamburupitiya.png", 
+    "top": 608, 
+    "left": 267, 
+    "height": 290, 
+    "width": 393
+  }, 
+  {
+    "label": "Hakmana", 
+    "png_file_name": "Hakmana.png", 
+    "top": 93, 
+    "left": 312, 
+    "height": 603, 
+    "width": 352
+  }, 
+  {
+    "label": "Devinuwara", 
+    "png_file_name": "Devinuwara.png", 
+    "top": 777, 
+    "left": 424, 
+    "height": 222, 
+    "width": 302
+  }
+]

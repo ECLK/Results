@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Kalkudah", 
+    "png_file_name": "Kalkudah.png", 
+    "top": 0, 
+    "left": 0, 
+    "height": 573, 
+    "width": 417
+  }, 
+  {
+    "label": "Batticaloa", 
+    "png_file_name": "Batticaloa.png", 
+    "top": 494, 
+    "left": 6, 
+    "height": 380, 
+    "width": 545
+  }, 
+  {
+    "label": "Paddiruppu", 
+    "png_file_name": "Paddiruppu.png", 
+    "top": 572, 
+    "left": 338, 
+    "height": 427, 
+    "width": 346
+  }
+]

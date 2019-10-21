@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Kundasale", 
+    "png_file_name": "Kundasale.png", 
+    "top": 210, 
+    "left": 376, 
+    "height": 191, 
+    "width": 186
+  }, 
+  {
+    "label": "Mahanuwara", 
+    "png_file_name": "Mahanuwara.png", 
+    "top": 270, 
+    "left": 277, 
+    "height": 188, 
+    "width": 243
+  }, 
+  {
+    "label": "Senkadagala", 
+    "png_file_name": "Senkadagala.png", 
+    "top": 274, 
+    "left": 335, 
+    "height": 10, 
+    "width": 13
+  }, 
+  {
+    "label": "Harispattuwa", 
+    "png_file_name": "Harispattuwa.png", 
+    "top": 54, 
+    "left": 157, 
+    "height": 304, 
+    "width": 247
+  }, 
+  {
+    "label": "Nawalapitiya", 
+    "png_file_name": "Nawalapitiya.png", 
+    "top": 460, 
+    "left": 40, 
+    "height": 463, 
+    "width": 362
+  }, 
+  {
+    "label": "Ududumbara", 
+    "png_file_name": "Ududumbara.png", 
+    "top": 0, 
+    "left": 607, 
+    "height": 500, 
+    "width": 392
+  }, 
+  {
+    "label": "Yatinuwara", 
+    "png_file_name": "Yatinuwara.png", 
+    "top": 288, 
+    "left": 83, 
+    "height": 122, 
+    "width": 229
+  }, 
+  {
+    "label": "Gampola", 
+    "png_file_name": "Gampola.png", 
+    "top": 422, 
+    "left": 260, 
+    "height": 245, 
+    "width": 301
+  }, 
+  {
+    "label": "Pathadumbara", 
+    "png_file_name": "Pathadumbara.png", 
+    "top": 26, 
+    "left": 325, 
+    "height": 282, 
+    "width": 328
+  }, 
+  {
+    "label": "Galagedara", 
+    "png_file_name": "Galagedara.png", 
+    "top": 129, 
+    "left": 0, 
+    "height": 196, 
+    "width": 259
+  }, 
+  {
+    "label": "Udunuwara", 
+    "png_file_name": "Udunuwara.png", 
+    "top": 380, 
+    "left": 151, 
+    "height": 140, 
+    "width": 157
+  }, 
+  {
+    "label": "Teldeniya", 
+    "png_file_name": "Teldeniya.png", 
+    "top": 158, 
+    "left": 527, 
+    "height": 344, 
+    "width": 207
+  }, 
+  {
+    "label": "Hewaheta", 
+    "png_file_name": "Hewaheta.png", 
+    "top": 370, 
+    "left": 347, 
+    "height": 145, 
+    "width": 242
+  }
+]

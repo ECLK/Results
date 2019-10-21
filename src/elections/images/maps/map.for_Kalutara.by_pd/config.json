@@ -1,0 +1,66 @@
+[
+  {
+    "label": "Agalawatta", 
+    "png_file_name": "Agalawatta.png", 
+    "top": 406, 
+    "left": 346, 
+    "height": 594, 
+    "width": 640
+  }, 
+  {
+    "label": "Kalutara", 
+    "png_file_name": "Kalutara.png", 
+    "top": 267, 
+    "left": 91, 
+    "height": 297, 
+    "width": 156
+  }, 
+  {
+    "label": "Matugama", 
+    "png_file_name": "Matugama.png", 
+    "top": 385, 
+    "left": 185, 
+    "height": 447, 
+    "width": 352
+  }, 
+  {
+    "label": "Horana", 
+    "png_file_name": "Horana.png", 
+    "top": 0, 
+    "left": 162, 
+    "height": 265, 
+    "width": 475
+  }, 
+  {
+    "label": "Bandaragama", 
+    "png_file_name": "Bandaragama.png", 
+    "top": 126, 
+    "left": 73, 
+    "height": 349, 
+    "width": 304
+  }, 
+  {
+    "label": "Beruwala", 
+    "png_file_name": "Beruwala.png", 
+    "top": 537, 
+    "left": 166, 
+    "height": 260, 
+    "width": 142
+  }, 
+  {
+    "label": "Bulathsinhala", 
+    "png_file_name": "Bulathsinhala.png", 
+    "top": 199, 
+    "left": 326, 
+    "height": 324, 
+    "width": 419
+  }, 
+  {
+    "label": "Panadura", 
+    "png_file_name": "Panadura.png", 
+    "top": 98, 
+    "left": 0, 
+    "height": 255, 
+    "width": 141
+  }
+]

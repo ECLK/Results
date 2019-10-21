@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Beliatta", 
+    "png_file_name": "Beliatta.png", 
+    "top": 377, 
+    "left": 34, 
+    "height": 160, 
+    "width": 118
+  }, 
+  {
+    "label": "Tissamaharama", 
+    "png_file_name": "Tissamaharama.png", 
+    "top": 0, 
+    "left": 284, 
+    "height": 432, 
+    "width": 716
+  }, 
+  {
+    "label": "Mulkirigala", 
+    "png_file_name": "Mulkirigala.png", 
+    "top": 247, 
+    "left": 0, 
+    "height": 193, 
+    "width": 213
+  }, 
+  {
+    "label": "Tangalle", 
+    "png_file_name": "Tangalle.png", 
+    "top": 277, 
+    "left": 95, 
+    "height": 276, 
+    "width": 291
+  }
+]
