@@ -1,7 +1,10 @@
 // eslint-disable-next-line no-unused-vars
 import React, {Component} from 'react';
-
 import PARTY_TO_HUE from './data/party_to_hue.json';
+
+import {
+  cleanName,
+} from './DataUtils.js';
 
 /**
  * Displays a map of regions, and colors them according to
@@ -12,10 +15,10 @@ export default class ResultsMap extends Component {
    * @return {jsx}
    */
   render() {
-    const byChild = this.props.resultsByChild;
     const childLabelField = this.props.childLabelField;
+    const partyResults = this.props.partyResults;
 
-    const winningPartyByChild = byChild.reduce(
+    const winningPartyByChild = partyResults.reduce(
         function(winningPartyByChild, forChild, i) {
           const childLabel = forChild[childLabelField];
           const byParty = forChild['by_party'];
@@ -43,23 +46,26 @@ export default class ResultsMap extends Component {
 
     // render
     const mapDir = this.props.mapDir;
+    if (mapDir.indexOf('Cumulative') !== -1) {
+      return null;
+    }
 
-    const allHeight = this.props.height;
-    const allTop = this.props.top;
-    const allLeft = this.props.left;
+    const allHeight = 300;
+    const allTop = 0;
+    const allLeft = 0;
 
     const config = require(mapDir + '/config.json');
 
 
-    const ALL_HEIGHT_DATA = 1000;
     const t = function(x, k=1.0) {
+      const ALL_HEIGHT_DATA = 1000;
       return parseInt(x) * allHeight * k / ALL_HEIGHT_DATA;
     };
     const _imageList = config.map(
         function(info, i) {
           const key = 'image-' + i;
           const pngFileName= info['png_file_name'];
-          const label = info['label'];
+          const label = cleanName(info['label']);
 
           const imgSrc = require('' + mapDir + '/' + pngFileName);
 
@@ -70,8 +76,10 @@ export default class ResultsMap extends Component {
           let filter = 'grayscale(100%) opacity(10%)';
 
           const winningParty = winningPartyByChild[label];
-          const h = PARTY_TO_HUE[winningParty];
-          filter = 'hue-rotate(' + h + 'deg)';
+          if (winningParty) {
+            const h = PARTY_TO_HUE[winningParty];
+            filter = 'hue-rotate(' + h + 'deg)';
+          }
 
           const isActiveLabel = (label === this.props.activeLabel);
           if (!isActiveLabel) {
@@ -107,7 +115,7 @@ export default class ResultsMap extends Component {
     );
 
     return (
-      <div className="div-results-map">
+      <div className="div-results-map div-results-view-item">
         {_imageList}
       </div>
     );

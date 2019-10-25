@@ -1,18 +1,12 @@
 // eslint-disable-next-line no-unused-vars
 import React, {Component, JSX} from 'react';
+
+import {COLOR} from './Constants.js';
+
+import {formatPercent} from './DataUtils.js';
+
 import PARTY_TO_HUE from './data/party_to_hue.json';
 
-/**
- * @param {float} x
- * @return {int} Formats x as percentage
- * @example 0.54321 -> 54.3%
- */
-function formatPercent(x) {
-  return x.toLocaleString('en-us', {
-    style: 'percent',
-    minimumFractionDigits: 1,
-  });
-}
 
 /**
  * Simple table cell
@@ -95,7 +89,11 @@ export class CellPartyVotes extends Component {
     let color = 'white';
     if (isWinningParty) {
       const h = PARTY_TO_HUE[party];
-      color = 'hsla(' + h + ', 100%, 50%, 0.2)';
+      color = 'hsla(' +
+        h + ',' +
+        COLOR.PARTY_HSLA.S + ',' +
+        COLOR.PARTY_HSLA.L + ',' +
+        COLOR.PARTY_HSLA.A + ')';
     }
 
     return (<td className={className} style={{backgroundColor: color}}>

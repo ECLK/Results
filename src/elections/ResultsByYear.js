@@ -1,9 +1,20 @@
 import React, {Component} from 'react';
 // eslint-disable-next-line no-unused-vars
+import ResultsSummary from './ResultsSummary.js';
+// eslint-disable-next-line no-unused-vars
 import ResultsView from './ResultsView.js';
 
+import {
+  RESULT,
+} from './Constants.js';
+
+import {
+  decleanName,
+  filterMapAndFilter,
+  formatPercent,
+} from './DataUtils.js';
+
 const MAPS_DIR = './images/maps';
-const COUNTRY_MAP_DIR = MAPS_DIR + '/map.by_ed_name';
 
 /**
  * Displays election results for a particular year
@@ -21,68 +32,12 @@ export default class ResultsByYear extends Component {
    * @return {jsx}
    */
   render() {
-    const data = this.props.dataForYear;
-    const byED = data['by_ed'];
-
-    const forCountry = byED.reduce(
-        function(forCountry, forED, i) {
-          const edName = forED['ed_name'];
-          const byPD = forED['by_pd'];
-          const [summaryStats, partyToVotes] = byPD.reduce(
-              function([summaryStats, partyToVotes], forPD, j) {
-                const childSummaryStats= forPD['summary_stats'];
-                const childByParty = forPD['by_party'];
-
-                summaryStats['rejected_votes'] +=
-                  childSummaryStats['rejected_votes'];
-                summaryStats['total_polled'] +=
-                  childSummaryStats['total_polled'];
-                if (childSummaryStats['registered_voters']) {
-                  summaryStats['registered_voters'] +=
-                    childSummaryStats['registered_voters'];
-                } else {
-                  summaryStats['registered_voters'] +=
-                    childSummaryStats['total_polled'];
-                }
-
-                partyToVotes = childByParty.reduce(
-                    function(partyToVotes, forParty, k) {
-                      const party = forParty['party'];
-                      if (!(party in partyToVotes)) {
-                        partyToVotes[party] = 0;
-                      }
-                      partyToVotes[party] += forParty['votes'];
-                      return partyToVotes;
-                    },
-                    partyToVotes,
-                );
-
-                return [summaryStats, partyToVotes];
-              },
-              [{
-                'rejected_votes': 0,
-                'total_polled': 0,
-                'registered_voters': 0,
-              }, []],
-          );
-
-          const byParty = Object.entries(partyToVotes).map(
-              function([party, votes], i) {
-                return {
-                  party: party,
-                  votes: votes,
-                };
-              },
-          );
-
-          forCountry.push({
-            'ed_name': edName,
-            'summary_stats': summaryStats,
-            'by_party': byParty,
-          });
-          return forCountry;
-        },
-        [],
+    const resultList = this.props.dataForYear;
+    const byED = filterMapAndFilter(
+        resultList,
+        RESULT.LEVEL.PD,
+        'ed_name',
+        this.props.maxTimestamp,
     );
 
     const HEIGHT = 250;
@@ -97,20 +52,34 @@ export default class ResultsByYear extends Component {
     }.bind(this);
 
     const _byEDList = byED.map(
-        function(forED, i) {
+        function([
+          edName,
+          partyResults,
+          summaryResults,
+          totalElectors,
+          totalElectorsOriginal,
+        ], i) {
           const key = 'results-for-ed-' + i;
-          // map.for_kandy.by_polling_division
-          const edName = forED['ed_name'];
           this.myRef[edName] = React.createRef();
-
           const mapDir = MAPS_DIR + '/map.for_' +
-          edName + '.by_pd';
+            decleanName(edName) + '.by_pd';
+
+          if (totalElectors === 0) {
+            return null;
+          }
+
+          const label = edName + ' (' +
+            formatPercent(totalElectors / totalElectorsOriginal) +
+            ' Reporting)';
+
           return (
             <div ref={this.myRef[edName]} key={key}>
               <ResultsView
-                resultsByChild={forED['by_pd']}
+                partyResults={partyResults}
+                summaryResults={summaryResults}
+
                 childLabelField="pd_name"
-                label={edName + ' Electoral District'}
+                label={label}
                 mapDir={mapDir}
                 height={HEIGHT}
                 width={WIDTH}
@@ -123,23 +92,16 @@ export default class ResultsByYear extends Component {
         }.bind(this),
     );
 
-    const _forCountry = (
-      <ResultsView
-        resultsByChild={forCountry}
-        childLabelField="ed_name"
-        label="Sri Lanka (Final Results)"
-        mapDir={COUNTRY_MAP_DIR}
-        height={HEIGHT}
-        width={WIDTH}
-        top={TOP}
-        left={LEFT}
-        onClickMap={onClickMap}
-      />
-    );
 
+    const mapDir = MAPS_DIR + '/map.by_ed_name';
     return (
       <div className="div-results-by-year">
-        {_forCountry}
+        <ResultsSummary
+          resultList={resultList}
+          maxTimestamp={this.props.maxTimestamp}
+          onClickMap={onClickMap}
+          mapDir={mapDir}
+        />
         {_byEDList}
       </div>
     );

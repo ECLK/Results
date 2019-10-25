@@ -24,14 +24,14 @@
   --font-weight-normal: 300;
 
   --font-size-normal: 12px;
-  --font-size-small: 9px;
+  --font-size-small: 8px;
 
   --dim-image: 32px;
   --border-width-default: 1px;
-  --padding-cell-default: 2px;
+  --padding-cell-default: 6px;
 
-  --width-table-column-default: 100px;
-  --width-table-column-number: 72px;
+  --width-table-column-default: 36px;
+  --width-table-column-number: 60px;
 }
 
 /* HTML Classes */
@@ -75,16 +75,12 @@ th {
 }
 
 /* Customer Classes */
-.div-home-page {
-  background-color: 'white';
-}
-
 .div-fixed-header {
   position: fixed;
   top: 0;
   width: 100%;
 
-  height: 120px;
+  height: 160px;
   background-color: var(--color-lighter-gray);
   vertical-align: middle;
 
@@ -93,31 +89,33 @@ th {
 }
 
 .div-moving-body {
-  padding-top: 150px;
+  padding-top: 200px;
   padding-left: 24px;
-}
-
-.div-results-by-ed {
-  top: 500px;
 }
 
 .div-results-view {
   display: table;
   height: 400px;
-  top: 500px;
+}
+
+.div-results-view-item {
+  position: relative;
+  display: table-cell;
+  vertical-align: top;
+  padding: 24px;
 }
 
 .div-results-map {
-  position: relative;
-  display: table-cell;
-  vertical-align: middle;
-  text-align: center;
 }
 
 .div-results-table {
-  position: relative;
-  display: table-cell;
-  width: 1000px;
+}
+
+.div-results-pie-chart {
+}
+
+.download-link {
+  color: 'red';
 }
 
 .h2-label {
@@ -149,6 +147,15 @@ th {
   vertical-align: middle;
 }
 
+.input-slider {
+  width: 90%;
+  background: var(--color-gray);
+}
+
+.p-slider {
+  color: var(--color-flag-green);
+}
+
 .p-source {
   color: var(--color-gray);
 }
@@ -167,8 +174,6 @@ th {
 
 .td-number-percent {
   font-size: var(--font-size-small);
-  text-align: right;
-  width: var(--width-table-column-number);
 }
 
 .tr-totals {

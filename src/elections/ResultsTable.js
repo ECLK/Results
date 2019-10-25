@@ -13,6 +13,11 @@ import {
 } from './CellHeader.js';
 
 import {
+  DISPLAY_PARTY_THRESHOLD,
+} from './Constants.js';
+
+import {
+  formatPercent,
   getAggregateStats,
   getDisplayPartyList,
   getSortedPartyAndVotes,
@@ -40,6 +45,8 @@ export default class ResultsTable extends Component {
   renderHeaderRow(displayPartyList) {
     const label = this.props.label;
     const keyPrefix = label + '-';
+    const otherPartyLabel = 'Other Parties (< ' +
+      (DISPLAY_PARTY_THRESHOLD * 100).toFixed(0) + '%)';
 
     return (
       <tr>{
@@ -56,7 +63,7 @@ export default class ResultsTable extends Component {
         ).concat([
           <CellHeader
             key={keyPrefix + 'header-other-parties'}
-            text="Other Parties"
+            text={otherPartyLabel}
           />,
           <CellHeader
             key={keyPrefix + 'header-total-votes'}
@@ -85,14 +92,15 @@ export default class ResultsTable extends Component {
    * @param {function} onMouseOver
    * @param {function} onClick
    * @param {string} label
+   * @param {string} resultCode
 
    * @param {array} displayPartyList
    * @param {object} votesByParty
 
-   * @param {int} totalVotes
-   * @param {int} rejectedVotes
+   * @param {int} totalValid
+   * @param {int} totalRejected
    * @param {int} totalPolled
-   * @param {int} registeredVoters
+   * @param {int} totalElectors
 
    * @return {jsx}
    **/
@@ -102,14 +110,15 @@ export default class ResultsTable extends Component {
       onMouseOver,
       onClick,
       label,
+      resultCode,
 
       displayPartyList,
       votesByParty,
 
-      totalVotes,
-      rejectedVotes,
+      totalValid,
+      totalRejected,
       totalPolled,
-      registeredVoters,
+      totalElectors,
   ) {
     const sortedPartyAndVotes = getSortedPartyAndVotes(votesByParty);
     const winningParty = sortedPartyAndVotes[0][0];
@@ -123,13 +132,20 @@ export default class ResultsTable extends Component {
         <CellPartyVotes
           key={key}
           value={votes}
-          valuePercent={votes / totalVotes}
+          valuePercent={votes / totalValid}
           party={party}
           isWinningParty={party === winningParty}
         />
       );
     });
-    const otherPartyVotes = totalVotes - displayPartyVotes;
+    const otherPartyVotes = totalValid - displayPartyVotes;
+
+    if (label === 'Final Results') {
+      className += ' tr-totals';
+    }
+    if (label === 'Postal Votes') {
+      label = '✉ Postal Votes';
+    }
 
     return (
       <tr
@@ -147,25 +163,25 @@ export default class ResultsTable extends Component {
           <CellNumberPercent
             key={key + '-other-party-votes'}
             value={otherPartyVotes}
-            valuePercent={otherPartyVotes / totalVotes}
+            valuePercent={otherPartyVotes / totalValid}
           />,
           <CellNumber
             key={key + '-total-votes'}
-            value={totalVotes}
+            value={totalValid}
           />,
           <CellNumberPercent
             key={key + '-rejected-votes'}
-            value={rejectedVotes}
-            valuePercent={rejectedVotes / totalPolled}
+            value={totalRejected}
+            valuePercent={totalRejected / totalPolled}
           />,
           <CellNumberPercent
             key={key + '-total-polled-votes'}
             value={totalPolled}
-            valuePercent={totalPolled / registeredVoters}
+            valuePercent={totalPolled / totalElectors}
           />,
           <CellNumber
             key={key + '-total-registered-voters'}
-            value={registeredVoters}
+            value={totalElectors}
           />,
         ])}
       </tr>
@@ -176,38 +192,54 @@ export default class ResultsTable extends Component {
    * @return {jsx}
    **/
   render() {
-    // data
+    // eslint-disable-next-line no-unused-vars
     const label = this.props.label;
-    const keyPrefix = label + '-';
-    const resultsByChild = this.props.resultsByChild;
     const childLabelField = this.props.childLabelField;
+    const childCodeField = childLabelField.replace('_name', '_code');
+
+    const partyResults = this.props.partyResults;
+    const summaryResults = this.props.summaryResults;
 
     const [
-      votesByChildByParty,
-      totalVotesByChild,
       votesByParty,
-      totalVotes,
-      rejectedVotes,
+      votesByChildByParty,
+
+      totalValid,
+      totalRejected,
       totalPolled,
-      registeredVoters,
-    ] = getAggregateStats(resultsByChild, childLabelField);
+      totalElectors,
+
+      combinedResults,
+
+    ] = getAggregateStats(
+        partyResults,
+        summaryResults,
+        childLabelField,
+    );
+
+    if (totalValid === 0) {
+      return null;
+    }
 
     const displayPartyList = getDisplayPartyList(
         votesByParty,
-        totalVotes,
+        totalValid,
     );
 
-    const _tableRowList = resultsByChild.map(
-        function(resultsForChild, i) {
+    const _tableRowList = combinedResults.map(
+        function(result, i) {
           const key = 'table-row-' + i;
-          const childLabel = resultsForChild[childLabelField];
-          const summaryStats = resultsForChild['summary_stats'];
+          const childLabel = result[childLabelField];
+          const childResultCode = result[childCodeField];
 
-          const childTotalPolled = summaryStats['total_polled'];
-          let childRegisteredVoters = summaryStats['registered_voters'];
-          if (!childRegisteredVoters) {
-            childRegisteredVoters = childTotalPolled;
+          const electors = result['electors'];
+          if (electors === 0) {
+            return null;
           }
+
+          const rejected = result['rejected'];
+          const valid = result['valid'];
+          const polled = result['polled'];
 
           const onClick = function(e) {
             this.props.onClickMap(childLabel);
@@ -228,34 +260,37 @@ export default class ResultsTable extends Component {
               onMouseOver,
               onClick,
               childLabel,
+              childResultCode,
+
               displayPartyList,
               votesByChildByParty[childLabel],
-              totalVotesByChild[childLabel],
-              summaryStats['rejected_votes'],
-              childTotalPolled,
-              childRegisteredVoters,
+
+              valid,
+              rejected,
+              polled,
+              electors,
           );
         }.bind(this),
     );
 
     const _totalsRow = this.renderRow(
         'tr-totals',
-        keyPrefix + 'tr-totals',
-        undefined,
-        undefined,
-        'Total Results',
+        'table-row-totals',
+        null,
+        null,
+        'Total',
+        '',
         displayPartyList,
         votesByParty,
-        totalVotes,
-        rejectedVotes,
+
+        totalValid,
+        totalRejected,
         totalPolled,
-        registeredVoters,
+        totalElectors,
     );
 
-    // render
     return (
-      <div className="div-results-table">
-        <h2 className='h2-label'>{label}</h2>
+      <div className="div-results-table div-results-view-item">
         <table>
           <tbody>
             {this.renderHeaderRow(displayPartyList)}
