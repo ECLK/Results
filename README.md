@@ -14,8 +14,6 @@ This system will receive the same results feed that is being delivered to media 
 npm install
 ```
 
-##### Setup DB
-
 
 ##### Development mode
 
