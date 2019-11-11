@@ -1,39 +1,35 @@
 // eslint-disable-next-line no-unused-vars
 import React, {Component} from 'react';
 
+import {formatTimestamp} from './DataUtils.js';
+import {TOTAL_RESULT_COUNT} from './Constants.js';
+
 /**
  * Displays a Slider
  **/
 export default class Slider extends Component {
   // eslint-disable-next-line require-jsdoc
-  constructor(props) {
-    super(props);
-    this.state = {value: props.value};
-  }
-
-  // eslint-disable-next-line require-jsdoc
   render() {
-    const max = this.props.max;
     const onChange = function(e) {
-      const value = e.target.value;
-      this.setState({value: value}, function() {
-        this.props.onChange(value);
-      }.bind(this));
+      const currentTimestamp = e.target.value;
+      this.props.onChange(currentTimestamp);
     }.bind(this);
 
-    const label = 'After ' + this.state.value + '/' + max + ' Results';
+    const label = this.props.resultsCount + '/' +
+      TOTAL_RESULT_COUNT + ' results as of ' +
+      formatTimestamp(this.props.currentTimestamp);
 
     return (
       <div className='div-slider'>
-        <p className='p-slider'>
+        <p>
           {label}
         </p>
         <input
           className='input-slider'
           type="range"
-          min={1}
-          max={max}
-          value={this.state.value}
+          min={this.props.minTimestamp}
+          max={this.props.maxTimestamp}
+          value={this.props.currentTimestamp}
           onChange={onChange}
         />
 

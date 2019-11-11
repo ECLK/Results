@@ -19,6 +19,7 @@ export default class ResultsView extends Component {
     this.state = {activeLabel: undefined};
   }
 
+
   /**
    * @return {jsx}
    **/
@@ -27,14 +28,37 @@ export default class ResultsView extends Component {
       this.setState({activeLabel: label});
     }.bind(this);
 
+    let renderedResultsMap = null;
+    let renderedPieChart = null;
+    let showTotals = false;
+    if (this.props.mapDir) {
+      renderedResultsMap = (
+        <ResultsMap
+          results={this.props.results}
+          childLabelPrefix={this.props.childLabelPrefix}
+
+          mapDir={this.props.mapDir}
+          onClickMap={this.props.onClickMap}
+          onSelectLabel={onSelectLabel}
+          activeLabel={this.state.activeLabel}
+        />
+      );
+      renderedPieChart = (
+        <ResultsPieChart
+          results={this.props.results}
+          childLabelPrefix={this.props.childLabelPrefix}
+        />
+      );
+      showTotals = true;
+    }
+
     return (
       <div className="div-results-view-outer">
         <h2 className='h2-label'>{this.props.label}</h2>
         <div className="div-results-view">
           <ResultsTable
-            partyResults={this.props.partyResults}
-            summaryResults={this.props.summaryResults}
-            childLabelField={this.props.childLabelField}
+            results={this.props.results}
+            childLabelPrefix={this.props.childLabelPrefix}
             label={this.props.label}
 
             height={this.props.height}
@@ -44,23 +68,11 @@ export default class ResultsView extends Component {
             onClickMap={this.props.onClickMap}
             onSelectLabel={onSelectLabel}
             activeLabel={this.state.activeLabel}
-          />
-          <ResultsPieChart
-            partyResults={this.props.partyResults}
-            summaryResults={this.props.summaryResults}
-            childLabelField={this.props.childLabelField}
-          />
-          <ResultsMap
-            partyResults={this.props.partyResults}
-            summaryResults={this.props.summaryResults}
-            childLabelField={this.props.childLabelField}
 
-            mapDir={this.props.mapDir}
-            onClickMap={this.props.onClickMap}
-            onSelectLabel={onSelectLabel}
-            activeLabel={this.state.activeLabel}
+            showTotals={showTotals}
           />
-
+          {renderedPieChart}
+          {renderedResultsMap}
         </div>
       </div>
     );

@@ -21,6 +21,7 @@ import {
   getAggregateStats,
   getDisplayPartyList,
   getSortedPartyAndVotes,
+  formatTimestamp,
 } from './DataUtils.js';
 
 /* eslint-enable no-unused-vars */
@@ -51,6 +52,10 @@ export default class ResultsTable extends Component {
     return (
       <tr>{
         [
+          <CellHeader
+            key={keyPrefix + 'header-result-code'}
+            text=""
+          />,
           <CellHeader
             key={keyPrefix + 'header-polling-division'}
             text="Polling Division"
@@ -157,6 +162,10 @@ export default class ResultsTable extends Component {
         {[
           <Cell
             key={key + '-label'}
+            text={resultCode}
+          />,
+          <Cell
+            key={key + '-label'}
             text={label}
           />,
         ].concat(_displayPartyList).concat([
@@ -194,11 +203,11 @@ export default class ResultsTable extends Component {
   render() {
     // eslint-disable-next-line no-unused-vars
     const label = this.props.label;
-    const childLabelField = this.props.childLabelField;
-    const childCodeField = childLabelField.replace('_name', '_code');
+    const childLabelPrefix = this.props.childLabelPrefix;
+    const childCodeField = childLabelPrefix + '_code';
+    const childLabelField = childLabelPrefix + '_name';
 
-    const partyResults = this.props.partyResults;
-    const summaryResults = this.props.summaryResults;
+    const results = this.props.results;
 
     const [
       votesByParty,
@@ -209,12 +218,9 @@ export default class ResultsTable extends Component {
       totalPolled,
       totalElectors,
 
-      combinedResults,
-
     ] = getAggregateStats(
-        partyResults,
-        summaryResults,
-        childLabelField,
+        results,
+        childLabelPrefix,
     );
 
     if (totalValid === 0) {
@@ -226,20 +232,21 @@ export default class ResultsTable extends Component {
         totalValid,
     );
 
-    const _tableRowList = combinedResults.map(
+    const _tableRowList = results.map(
         function(result, i) {
           const key = 'table-row-' + i;
           const childLabel = result[childLabelField];
           const childResultCode = result[childCodeField];
 
-          const electors = result['electors'];
+          const summary = result['summary'];
+          const electors = summary['electors'];
           if (electors === 0) {
             return null;
           }
 
-          const rejected = result['rejected'];
-          const valid = result['valid'];
-          const polled = result['polled'];
+          const rejected = summary['rejected'];
+          const valid = summary['valid'];
+          const polled = summary['polled'];
 
           const onClick = function(e) {
             this.props.onClickMap(childLabel);
@@ -263,7 +270,7 @@ export default class ResultsTable extends Component {
               childResultCode,
 
               displayPartyList,
-              votesByChildByParty[childLabel],
+              votesByChildByParty[childResultCode],
 
               valid,
               rejected,
@@ -273,21 +280,23 @@ export default class ResultsTable extends Component {
         }.bind(this),
     );
 
-    const _totalsRow = this.renderRow(
-        'tr-totals',
-        'table-row-totals',
-        null,
-        null,
-        'Total',
-        '',
-        displayPartyList,
-        votesByParty,
+    const _totalsRow = (this.props.showTotals) ?
+      this.renderRow(
+          'tr-totals',
+          'table-row-totals',
+          null,
+          null,
+          'Total',
+          '',
+          displayPartyList,
+          votesByParty,
 
-        totalValid,
-        totalRejected,
-        totalPolled,
-        totalElectors,
-    );
+          totalValid,
+          totalRejected,
+          totalPolled,
+          totalElectors,
+      ) : null;
+
 
     return (
       <div className="div-results-table div-results-view-item">

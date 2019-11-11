@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Maharagama", 
+    "png_file_name": "img.pd.01M.png", 
+    "top": 237, 
+    "left": 169, 
+    "height": 147, 
+    "width": 253
+  }, 
+  {
+    "label": "Kesbewa", 
+    "png_file_name": "img.pd.01N.png", 
+    "top": 295, 
+    "left": 152, 
+    "height": 287, 
+    "width": 206
+  }, 
+  {
+    "label": "Colombo East", 
+    "png_file_name": "img.pd.01D.png", 
+    "top": 158, 
+    "left": 94, 
+    "height": 121, 
+    "width": 73
+  }, 
+  {
+    "label": "Borella", 
+    "png_file_name": "img.pd.01C.png", 
+    "top": 94, 
+    "left": 84, 
+    "height": 115, 
+    "width": 77
+  }, 
+  {
+    "label": "Colombo West", 
+    "png_file_name": "img.pd.01E.png", 
+    "top": 144, 
+    "left": 57, 
+    "height": 152, 
+    "width": 65
+  }, 
+  {
+    "label": "Ratmalana", 
+    "png_file_name": "img.pd.01G.png", 
+    "top": 329, 
+    "left": 96, 
+    "height": 109, 
+    "width": 94
+  }, 
+  {
+    "label": "Kolonnawa", 
+    "png_file_name": "img.pd.01H.png", 
+    "top": 57, 
+    "left": 130, 
+    "height": 114, 
+    "width": 210
+  }, 
+  {
+    "label": "Dehiwala", 
+    "png_file_name": "img.pd.01F.png", 
+    "top": 267, 
+    "left": 92, 
+    "height": 85, 
+    "width": 84
+  }, 
+  {
+    "label": "Kaduwela", 
+    "png_file_name": "img.pd.01J.png", 
+    "top": 85, 
+    "left": 198, 
+    "height": 221, 
+    "width": 358
+  }, 
+  {
+    "label": "Moratuwa", 
+    "png_file_name": "img.pd.01O.png", 
+    "top": 405, 
+    "left": 117, 
+    "height": 258, 
+    "width": 98
+  }, 
+  {
+    "label": "Homagama", 
+    "png_file_name": "img.pd.01L.png", 
+    "top": 164, 
+    "left": 318, 
+    "height": 390, 
+    "width": 325
+  }, 
+  {
+    "label": "Kotte", 
+    "png_file_name": "img.pd.01I.png", 
+    "top": 142, 
+    "left": 150, 
+    "height": 167, 
+    "width": 98
+  }, 
+  {
+    "label": "Colombo Central", 
+    "png_file_name": "img.pd.01B.png", 
+    "top": 38, 
+    "left": 0, 
+    "height": 132, 
+    "width": 139
+  }, 
+  {
+    "label": "Colombo North", 
+    "png_file_name": "img.pd.01A.png", 
+    "top": 0, 
+    "left": 76, 
+    "height": 92, 
+    "width": 79
+  }, 
+  {
+    "label": "Avissawella", 
+    "png_file_name": "img.pd.01K.png", 
+    "top": 3, 
+    "left": 543, 
+    "height": 523, 
+    "width": 456
+  }
+]

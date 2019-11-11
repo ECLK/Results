@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Chilaw", 
+    "png_file_name": "img.pd.16C.png", 
+    "top": 451, 
+    "left": 40, 
+    "height": 393, 
+    "width": 179
+  }, 
+  {
+    "label": "Puttalam", 
+    "png_file_name": "img.pd.16A.png", 
+    "top": 0, 
+    "left": 0, 
+    "height": 490, 
+    "width": 269
+  }, 
+  {
+    "label": "Anamaduwa", 
+    "png_file_name": "img.pd.16B.png", 
+    "top": 215, 
+    "left": 129, 
+    "height": 514, 
+    "width": 224
+  }, 
+  {
+    "label": "Wennappuwa", 
+    "png_file_name": "img.pd.16E.png", 
+    "top": 908, 
+    "left": 103, 
+    "height": 91, 
+    "width": 88
+  }, 
+  {
+    "label": "Nattandiya", 
+    "png_file_name": "img.pd.16D.png", 
+    "top": 804, 
+    "left": 77, 
+    "height": 127, 
+    "width": 104
+  }
+]
