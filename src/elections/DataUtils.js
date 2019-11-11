@@ -1,58 +1,21 @@
 import {
   DISPLAY_PARTY_THRESHOLD,
   RESULT,
+  DISPLAY_MOST_RECENT_COUNT,
 } from './Constants.js';
 
-const CLEAN_NAME_MAP = {
-  'Monaragala': 'Moneragala',
-  'Kandy': 'Mahanuwara',
-  'Nuwara Eliya': 'Nuwara-Eliya',
-};
-
 /**
- * @param {dict} m
- * @return {dict} Given a map, returns a map with the keys and values
- *   inverted
- */
-function reverseMap(m) {
-  return Object.entries(m).reduce(
-      function(rm, [k, v]) {
-        rm[v] = k;
-        return rm;
-      },
-      {},
-  );
-}
-
-const REV_CLEAN_NAME_MAP = reverseMap(CLEAN_NAME_MAP);
-
-/**
- * @param {string} name
- * @return {string} Given a name, returns its cannonical form
- */
-export function cleanName(name) {
-  if (CLEAN_NAME_MAP[name]) {
-    return CLEAN_NAME_MAP[name];
-  }
-  return name;
+ * @param {object} x
+ * @return {object} - Creates and returns a deep copy of an object
+ **/
+export function copy(x) {
+  return JSON.parse(JSON.stringify(x));
 }
 
 /**
- * @param {string} name
- * @return {string} Given a cannonical name,
- *   returns its un-cannonical form
- */
-export function decleanName(name) {
-  if (REV_CLEAN_NAME_MAP[name]) {
-    return REV_CLEAN_NAME_MAP[name];
-  }
-  return name;
-}
-
-/**
- * @param {list} numberList - list of numbers
- * @return {int/float} Given a list of numbers, returns its sum
- */
+ * @param {array} numberList - array of numbers
+ * @return {int/float} Given a array of numbers, returns its sum
+ **/
 export function sum(numberList) {
   return numberList.reduce(
       function(s, number) {
@@ -63,21 +26,23 @@ export function sum(numberList) {
 }
 
 /**
- * @param {list} partyResults
- * @param {list} summaryResults
- * @param {list} mapField
- * @return {list} Given election results, returns various aggregate stats
- */
-export function getAggregateStats(partyResults, summaryResults, mapField) {
+ * @param {array} results
+ * @param {string} mapFieldPrefix
+ * @return {array} - Computers various aggregate stats for election results
+ **/
+export function getAggregateStats(results, mapFieldPrefix) {
   const [
     votesByParty,
     votesByChildByParty,
-  ] = partyResults.reduce(
+  ] = results.reduce(
       function([
         votesByParty,
         votesByChildByParty,
       ], result) {
-        const mapValue = (mapField) ? result[mapField] : 'Sri Lanka';
+        const mapValue = (mapFieldPrefix) ?
+          result[mapFieldPrefix + '_code'] :
+          'Sri Lanka';
+
         if (!votesByChildByParty[mapValue]) {
           votesByChildByParty[mapValue] = {};
         }
@@ -86,7 +51,7 @@ export function getAggregateStats(partyResults, summaryResults, mapField) {
               votesByParty,
               votesByChildByParty,
             ], forParty) {
-              const party = forParty['party'];
+              const party = forParty['party_code'];
               const votes = forParty['votes'];
               if (!votesByParty[party]) {
                 votesByParty[party] = 0;
@@ -116,7 +81,7 @@ export function getAggregateStats(partyResults, summaryResults, mapField) {
     totalRejected,
     totalPolled,
     totalElectors,
-  ] = summaryResults.reduce(
+  ] = results.reduce(
       function([
       // reduce fields
         totalValid,
@@ -124,11 +89,17 @@ export function getAggregateStats(partyResults, summaryResults, mapField) {
         totalPolled,
         totalElectors,
       ], result) {
-        const valid = result['valid'];
+        const pdName = result['pd_name']
+        const summary = result['summary'];
+        const valid = summary['valid'];
+
         totalValid += valid;
-        totalRejected += result['rejected'];
-        totalPolled += result['polled'];
-        totalElectors += result['electors'];
+        totalRejected += summary['rejected'];
+        totalPolled += summary['polled'];
+
+        if (pdName !== 'Postal Votes')  {
+          totalElectors += summary['electors'];
+        }
 
         return [
         // reduce fields
@@ -142,24 +113,6 @@ export function getAggregateStats(partyResults, summaryResults, mapField) {
       [0, 0, 0, 0],
   );
 
-  const combinedResults = Object.values(
-      (partyResults.concat(summaryResults)).reduce(
-          function(combinedResultsMap, result) {
-            const mapValue = result[mapField];
-            if (!combinedResultsMap[mapValue]) {
-              combinedResultsMap[mapValue] = {};
-            }
-
-            combinedResultsMap[mapValue] = {
-              ...combinedResultsMap[mapValue],
-              ...result,
-            };
-            delete combinedResultsMap[mapValue]['type'];
-            return combinedResultsMap;
-          },
-          {},
-      ));
-
   return [
     votesByParty,
     votesByChildByParty,
@@ -169,7 +122,6 @@ export function getAggregateStats(partyResults, summaryResults, mapField) {
     totalPolled,
     totalElectors,
 
-    combinedResults,
   ];
 }
 
@@ -187,12 +139,30 @@ export function formatPercent(x) {
 
 /**
  * @param {int} year
- * @return {array} Given an year, returns the election results, for that
+  * @param {function} callback - callback function
+ * Given an year, async returns the election results, for that
  *  year.
  **/
-export function getDataForYear(year) {
-  const fileName = './data/elections.lk.presidential.' + year + '.json';
-  return require('' + fileName);
+export function getDataForYear(year, callback) {
+  // TODO only for testing
+  const getDataForYearStatic = function(year) {
+    const fileName = './data/elections.lk.presidential.' +
+      year + '.json';
+    const resultList = require('' + fileName);
+    return resultList;
+  };
+  callback(getDataForYearStatic(year));
+
+  // const url = DATA_URL + '/?year=' + year;
+  // fetch(url).then(
+  //   function(response) {
+  //     return response.json();
+  //   },
+  // ).then(
+  //   function(resultList) {
+  //     callback(resultList);
+  //   },
+  // );
 }
 
 /**
@@ -228,83 +198,170 @@ export function getDisplayPartyList(votesByParty, totalVotes) {
   );
 }
 
+
 /**
- * @param {list} resultList
- * @param {string} filterLevel
- * @param {string} mapField
- * @param {int} maxTimestamp
- * @return {array} Given a list of election results, filters results
- *  by a specified level, maps results by a given map fields, and finally
- *  filters results by timestamp.
+ * Given a set of election results (by polling division), aggregates
+ * results by electoral district
+ * @param {array} resultList
+ * @return {array}
  **/
-export function filterMapAndFilter(
-    resultList,
-    filterLevel,
-    mapField,
-    maxTimestamp,
-) {
-  const filteredResultList = resultList.filter(
-      function(result) {
-        return result['level'] === filterLevel;
+export function aggregateByED(resultList) {
+  return mapResultsByED(resultList).map(
+      function([edCode, edResultList]) {
+        const first = edResultList[0];
+
+        const [
+          maxTimestamp,
+          maxSequenceNumber,
+          aggrByParty,
+          aggrSummary,
+        ] = edResultList.reduce(
+            function([
+              maxTimestamp,
+              maxSequenceNumber,
+              aggrByParty,
+              aggrSummary,
+            ], result) {
+              if (!maxTimestamp) {
+                maxTimestamp = result['timestamp'];
+              } else {
+                maxTimestamp = Math.max(result['timestamp'], maxTimestamp);
+              }
+
+              if (!maxSequenceNumber) {
+                maxSequenceNumber = result['timestamp'];
+              } else {
+                maxSequenceNumber =
+              Math.max(result['sequence_number'], maxSequenceNumber);
+              }
+
+              if (!aggrByParty) {
+                aggrByParty = copy(result['by_party']);
+              } else {
+                const votesToParty = result['by_party'].reduce(
+                    function(votesToParty, forParty) {
+                      const partyCode = forParty['party_code'];
+                      const votes = forParty['votes'];
+                      votesToParty[partyCode] = votes;
+                      return votesToParty;
+                    },
+                    {},
+                );
+                aggrByParty = aggrByParty.map(
+                    function(forParty) {
+                      const partyCode = forParty['party_code'];
+                      forParty['votes'] += votesToParty[partyCode];
+                      return forParty;
+                    },
+                );
+              }
+
+              if (!aggrSummary) {
+                aggrSummary = copy(result['summary']);
+              } else {
+                aggrSummary = Object.entries(result['summary']).reduce(
+                    function(aggrSummary, [key, value]) {
+                      const pdName = result['pd_name'];
+                      if (pdName !== 'Postal Votes' || key !== 'electors') {
+                        aggrSummary[key] += value;
+                      }
+                      return aggrSummary;
+                    },
+                    aggrSummary,
+                );
+              }
+
+              return [
+                maxTimestamp,
+                maxSequenceNumber,
+                aggrByParty,
+                aggrSummary,
+              ];
+            },
+            [undefined, undefined, undefined, undefined],
+        );
+
+        return {
+          'type': RESULT.TYPE.PRESIDENTIAL_FIRST,
+          'level': RESULT.LEVEL.ED,
+          'timestamp': maxTimestamp,
+          'sequence_number': maxSequenceNumber,
+
+          'ed_name': first['ed_name'],
+          'ed_code': first['ed_code'],
+
+          'by_party': aggrByParty,
+          'summary': aggrSummary,
+        };
       },
   );
-
-  const dataMap = filteredResultList.reduce(
+}
+/**
+ * Given a set of election results (by polling division),
+ * groups them by electoral district
+ * @param {array} resultList
+ * @return {array}
+ **/
+export function mapResultsByED(resultList) {
+  const dataMap = resultList.reduce(
       function(dataMap, data, i) {
-        const mapValue = data[mapField];
-
-        if (!dataMap[mapValue]) {
-          dataMap[mapValue] = [];
+        const edCode = data['ed_code'];
+        if (!dataMap[edCode]) {
+          dataMap[edCode] = [];
         }
-        dataMap[mapValue].push(data);
+        dataMap[edCode].push(data);
         return dataMap;
       },
       {},
   );
-
-  return Object.entries(dataMap).map(
-      function([mapValue, childDataListOriginal]) {
-        const summaryResultsOriginal = childDataListOriginal.filter(
-            function(data) {
-              return data['type'] === RESULT.TYPE.SUMMARY;
-            },
-        );
-        const totalElectorsOriginal = sum(summaryResultsOriginal.map(
-            function(data) {
-              return data['electors'];
-            },
-        ));
-
-        const childDataList = childDataListOriginal.filter(
-            function(data) {
-              return data['timestamp'] <= maxTimestamp;
-            },
-        );
-
-        const summaryResults = childDataList.filter(
-            function(data) {
-              return data['type'] === RESULT.TYPE.SUMMARY;
-            },
-        );
-        const totalElectors = sum(summaryResults.map(
-            function(data) {
-              return data['electors'];
-            },
-        ));
-
-        const partyResults = childDataList.filter(
-            function(data) {
-              return data['type'] === RESULT.TYPE.PARTY;
-            },
-        );
-
-        return [
-          mapValue,
-          partyResults,
-          summaryResults,
-          totalElectors,
-          totalElectorsOriginal,
-        ];
+  return Object.entries(dataMap).sort(
+      function(a, b) {
+        return a[0].localeCompare(b[0]);
       },
   );
+}
+
+/**
+ * @return {int} - current unix timestamp
+ **/
+export function getTimestampNow() {
+  return Math.round((new Date()).getTime() / 1000);
+}
+
+/**
+ * @param {int} timestamp  unix timestamp
+ * @return {string} - formats a given unix timestamp
+ **/
+export function formatTimestamp(timestamp) {
+  return new Date(timestamp * 1000).toLocaleTimeString('en-US') + ', ' +
+    new Date(timestamp * 1000).toLocaleDateString('en-US');
+}
+
+/**
+ * Given a set of election results (by polling division),
+ * filters results before a given timestamp
+ * @param {array} resultList
+ * @param {int} timestamp
+ * @return {array}
+ **/
+export function filterByTimestamp(resultList, timestamp) {
+  return resultList.filter(
+      function(result) {
+        return result['timestamp'] <= timestamp;
+      },
+  );
+}
+
+/**
+ * Given a set of election results (by polling division),
+ * returns the DISPLAY_MOST_RECENT_COUNT of the most recent results
+ * @param {array} resultList
+ * @return {array}
+ **/
+export function filterMostRecentResults(resultList) {
+  return resultList.sort(
+      function(a, b) {
+        return b['timestamp'] - a['timestamp'];
+      },
+  ).slice(0, DISPLAY_MOST_RECENT_COUNT);
 }

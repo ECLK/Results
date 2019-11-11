@@ -4,7 +4,7 @@ import React, {Component} from 'react';
 import DownloadLink from 'react-download-link';
 
 // eslint-disable-next-line no-unused-vars
-import ResultsByYear from './ResultsByYear.js';
+import ResultsForYear from './ResultsForYear.js';
 // eslint-disable-next-line no-unused-vars
 import Slider from './Slider.js';
 // eslint-disable-next-line no-unused-vars
@@ -12,7 +12,14 @@ import YearSelector from './YearSelector.js';
 
 import {
   getDataForYear,
+  getTimestampNow,
+  filterByTimestamp,
 } from './DataUtils.js';
+
+import {
+  PLAYBACK,
+  DEFAULT_YEAR,
+} from './Constants.js';
 
 const STYLE_DOWNLOAD_LINK = {
   textDecoration: 'none',
@@ -27,48 +34,94 @@ export default class HomePage extends Component {
   // eslint-disable-next-line require-jsdoc
   constructor(props) {
     super(props);
-    const DEFAULT_YEAR = 2015;
-    this.state = this.getData(DEFAULT_YEAR);
-  }
-
-  /**
-   * @param {int} year
-   * @return {dict} Given an year, returns the corresponding state
-   */
-  getData(year) {
-    const resultsList = getDataForYear(year);
-    const maxTimestampAll = resultsList.reduce(
-        function(maxTimestampAll, result) {
-          return Math.max(result['timestamp'], maxTimestampAll);
-        },
-        0,
-    );
-    console.debug('maxTimestampAll', maxTimestampAll);
-
-    return {
-      selectedYear: year,
-      maxTimestampAll: maxTimestampAll,
-      maxTimestamp: maxTimestampAll,
+    this.interval = undefined;
+    this.state = {
+      resultList: undefined,
     };
   }
 
   // eslint-disable-next-line require-jsdoc
+  componentDidMount() {
+    this.getAndSetData(DEFAULT_YEAR);
+  }
+
+  /**
+   * @param {int} year
+   * Given an year, gets data and updates state
+   **/
+  getAndSetData(year) {
+    getDataForYear(year, function(resultList) {
+      const [
+        minTimestamp,
+        maxTimestamp,
+      ] = resultList.reduce(
+          function([
+            minTimestamp,
+            maxTimestamp,
+          ], result) {
+            return [
+              Math.min(result['timestamp'], minTimestamp),
+              Math.max(result['timestamp'], maxTimestamp),
+            ];
+          },
+          [
+            getTimestampNow(),
+            0,
+          ],
+      );
+
+      const timeSpan = maxTimestamp - minTimestamp;
+
+      this.interval = setInterval(
+          function() {
+            const newCurrentTimestamp = this.state.currentTimestamp +
+            timeSpan / PLAYBACK.STEPS;
+            if (newCurrentTimestamp < maxTimestamp) {
+              this.setState({currentTimestamp: newCurrentTimestamp});
+            } else {
+              this.setState({currentTimestamp: maxTimestamp});
+              clearInterval(this.interval);
+            }
+          }.bind(this),
+          PLAYBACK.DURATION / PLAYBACK.STEPS,
+      );
+
+      this.setState({
+        selectedYear: year,
+        resultList: resultList,
+
+        minTimestamp: minTimestamp,
+        maxTimestamp: maxTimestamp,
+        currentTimestamp: minTimestamp,
+      });
+    }.bind(this));
+  }
+
+  // eslint-disable-next-line require-jsdoc
   render() {
+    if (!this.state.resultList) {
+      return 'Data loading...';
+    }
+    const resultList = filterByTimestamp(
+        this.state.resultList,
+        this.state.currentTimestamp,
+    );
+    const resultsCount = resultList.length;
+
     const onUpdateSelectedYear = function(year) {
-      this.setState(this.getData(year));
+      this.getAndSetData(year);
     }.bind(this);
 
     const sourceHRef = 'https://elections.gov.lk' +
       '/web/en/elections/elections-results/presidential-elections-results/';
     const selectedYear = this.state.selectedYear;
-    const selectedYearData = getDataForYear(selectedYear);
 
-    const onChange = function(maxTimestamp) {
-      this.setState({maxTimestamp: maxTimestamp});
+    const onChange = function(currentTimestamp) {
+      this.setState({currentTimestamp: currentTimestamp});
     }.bind(this);
 
     const exportData = function() {
-      return JSON.stringify(selectedYearData);
+      return JSON.stringify(resultList);
     };
 
     return (
@@ -94,14 +147,16 @@ export default class HomePage extends Component {
           )
           <Slider
             onChange={onChange}
-            value={this.state.maxTimestamp}
-            max={this.state.maxTimestampAll}
+            resultsCount={resultsCount}
+            minTimestamp={this.state.minTimestamp}
+            maxTimestamp={this.state.maxTimestamp}
+            currentTimestamp={this.state.currentTimestamp}
           />
         </div>
         <div className='div-moving-body'>
-          <ResultsByYear
-            dataForYear={selectedYearData}
-            maxTimestamp={this.state.maxTimestamp}
+          <ResultsForYear
+            resultList={resultList}
+            currentTimestamp={this.state.currentTimestamp}
           />
         </div>
       </div>

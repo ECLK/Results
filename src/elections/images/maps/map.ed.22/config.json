@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Deraniyagala", 
+    "png_file_name": "img.pd.22I.png", 
+    "top": 619, 
+    "left": 109, 
+    "height": 380, 
+    "width": 533
+  }, 
+  {
+    "label": "Aranayake", 
+    "png_file_name": "img.pd.22F.png", 
+    "top": 290, 
+    "left": 403, 
+    "height": 257, 
+    "width": 238
+  }, 
+  {
+    "label": "Kegalle", 
+    "png_file_name": "img.pd.22C.png", 
+    "top": 188, 
+    "left": 293, 
+    "height": 309, 
+    "width": 174
+  }, 
+  {
+    "label": "Yatiyanthota", 
+    "png_file_name": "img.pd.22G.png", 
+    "top": 398, 
+    "left": 204, 
+    "height": 381, 
+    "width": 369
+  }, 
+  {
+    "label": "Rambukkana", 
+    "png_file_name": "img.pd.22D.png", 
+    "top": 0, 
+    "left": 281, 
+    "height": 273, 
+    "width": 279
+  }, 
+  {
+    "label": "Galigamuwa", 
+    "png_file_name": "img.pd.22B.png", 
+    "top": 136, 
+    "left": 205, 
+    "height": 369, 
+    "width": 167
+  }, 
+  {
+    "label": "Dedigama", 
+    "png_file_name": "img.pd.22A.png", 
+    "top": 138, 
+    "left": 0, 
+    "height": 395, 
+    "width": 257
+  }, 
+  {
+    "label": "Ruwanwella", 
+    "png_file_name": "img.pd.22H.png", 
+    "top": 418, 
+    "left": 32, 
+    "height": 323, 
+    "width": 211
+  }, 
+  {
+    "label": "Mawanella", 
+    "png_file_name": "img.pd.22E.png", 
+    "top": 166, 
+    "left": 427, 
+    "height": 271, 
+    "width": 280
+  }
+]

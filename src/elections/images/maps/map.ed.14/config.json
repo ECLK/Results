@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Seruvila", 
+    "png_file_name": "img.pd.14A.png", 
+    "top": 27, 
+    "left": 0, 
+    "height": 973, 
+    "width": 774
+  }, 
+  {
+    "label": "Trincomalee", 
+    "png_file_name": "img.pd.14B.png", 
+    "top": 0, 
+    "left": 144, 
+    "height": 574, 
+    "width": 443
+  }, 
+  {
+    "label": "Mutur", 
+    "png_file_name": "img.pd.14C.png", 
+    "top": 551, 
+    "left": 406, 
+    "height": 234, 
+    "width": 331
+  }
+]

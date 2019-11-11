@@ -57,9 +57,8 @@ export default class ResultsPieChart extends Component {
     const cx = r;
     const cy = r;
 
-    const childLabelField = this.props.childLabelField;
-    const partyResults = this.props.partyResults;
-    const summaryResults = this.props.summaryResults;
+    const childLabelPrefix = this.props.childLabelPrefix;
+    const results = this.props.results;
 
     const [
       // eslint-disable-next-line no-unused-vars
@@ -74,13 +73,9 @@ export default class ResultsPieChart extends Component {
       totalPolled,
       // eslint-disable-next-line no-unused-vars
       totalElectors,
-      // eslint-disable-next-line no-unused-vars
-      combinedResults,
-
     ] = getAggregateStats(
-        partyResults,
-        summaryResults,
-        childLabelField,
+        results,
+        childLabelPrefix,
     );
 
     // eslint-disable-next-line no-unused-vars

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Wellawaya",
+    "png_file_name": "img.pd.20C.png",
+    "top": 539,
+    "left": 0,
+    "height": 461,
+    "width": 670
+  },
+  {
+    "label": "Monaragala",
+    "png_file_name": "img.pd.20B.png", 
+    "top": 250,
+    "left": 242,
+    "height": 507,
+    "width": 452
+  },
+  {
+    "label": "Bibile",
+    "png_file_name": "img.pd.20A.png",
+    "top": 0,
+    "left": 251,
+    "height": 477,
+    "width": 375
+  }
+]

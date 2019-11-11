@@ -4,11 +4,7 @@ import React, {Component} from 'react';
 import ResultsView from './ResultsView.js';
 
 import {
-  RESULT,
-} from './Constants.js';
-
-import {
-  filterMapAndFilter,
+  aggregateByED,
 } from './DataUtils.js';
 
 /**
@@ -20,33 +16,19 @@ export default class ResultsSummary extends Component {
    */
   render() {
     const resultList = this.props.resultList;
-    const [
-      // eslint-disable-next-line no-unused-vars
-      mapValue,
-      partyResults,
-      summaryResults,
-      // eslint-disable-next-line no-unused-vars
-      totalElectors,
-      totalElectorsOriginal,
-    ] = filterMapAndFilter(
-        resultList,
-        RESULT.LEVEL.ED,
-        undefined,
-        this.props.maxTimestamp,
-    )[0];
+    const nResults = resultList.length;
+    const aggrResultList = aggregateByED(resultList);
 
-    const label = (totalElectorsOriginal) ?
-      ('Complete Electoral District Results (' +
-        summaryResults.length +
-        ' Reporting)'
-      ) : 'No Results';
+    const label = (aggrResultList) ?
+      'Electoral District Results (' +
+      nResults + ' Polling Divisions Reporting)' :
+       'No Results';
 
     return (
       <div className="div-results-summary">
         <ResultsView
-          partyResults={partyResults}
-          summaryResults={summaryResults}
-          childLabelField="ed_name"
+          results={aggrResultList}
+          childLabelPrefix="ed"
           label={label}
           mapDir={this.props.mapDir}
           onClickMap={this.props.onClickMap}

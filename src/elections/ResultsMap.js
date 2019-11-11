@@ -2,10 +2,6 @@
 import React, {Component} from 'react';
 import PARTY_TO_HUE from './data/party_to_hue.json';
 
-import {
-  cleanName,
-} from './DataUtils.js';
-
 /**
  * Displays a map of regions, and colors them according to
  * election results
@@ -15,18 +11,19 @@ export default class ResultsMap extends Component {
    * @return {jsx}
    */
   render() {
-    const childLabelField = this.props.childLabelField;
-    const partyResults = this.props.partyResults;
+    const childLabelPrefix = this.props.childLabelPrefix;
+    const childCodeField = childLabelPrefix + '_code';
+    const results = this.props.results;
 
-    const winningPartyByChild = partyResults.reduce(
+    const winningPartyByChild = results.reduce(
         function(winningPartyByChild, forChild, i) {
-          const childLabel = forChild[childLabelField];
+          const childCode = forChild[childCodeField];
           const byParty = forChild['by_party'];
 
           // eslint-disable-next-line
         const [winningParty, maxVotes] = byParty.reduce(
               function([winningParty, maxVotes], forParty, j) {
-                const party = forParty['party'];
+                const party = forParty['party_code'];
                 const votes = forParty['votes'];
 
                 if (maxVotes < votes) {
@@ -38,7 +35,7 @@ export default class ResultsMap extends Component {
               ['', 0],
           );
 
-          winningPartyByChild[childLabel] = winningParty;
+          winningPartyByChild[childCode] = winningParty;
           return winningPartyByChild;
         },
         {},
@@ -65,8 +62,10 @@ export default class ResultsMap extends Component {
         function(info, i) {
           const key = 'image-' + i;
           const pngFileName= info['png_file_name'];
-          const label = cleanName(info['label']);
 
+          const code = pngFileName.replace(
+              'img.' + childLabelPrefix + '.', ''
+          ).replace('.png', '');
           const imgSrc = require('' + mapDir + '/' + pngFileName);
 
           const top = allTop + t(info['top']);
@@ -75,41 +74,43 @@ export default class ResultsMap extends Component {
 
           let filter = 'grayscale(100%) opacity(10%)';
 
-          const winningParty = winningPartyByChild[label];
+          const winningParty = winningPartyByChild[code];
           if (winningParty) {
             const h = PARTY_TO_HUE[winningParty];
             filter = 'hue-rotate(' + h + 'deg)';
           }
 
-          const isActiveLabel = (label === this.props.activeLabel);
-          if (!isActiveLabel) {
+          const isActiveCode = (code === this.props.activeCode);
+          if (!isActiveCode) {
             filter += ' opacity(50%)';
           }
 
           const onClick = function(e) {
-            this.props.onClickMap(label);
+            this.props.onClickMap(code);
           }.bind(this);
 
           const onMouseOver = function(e) {
-            this.props.onSelectLabel(label);
+            this.props.onSelectLabel(code);
           }.bind(this);
 
           return (
-            <img
-              className="img-map"
-              onMouseOver={onMouseOver}
-              key={key}
-              onClick={onClick}
-              src={imgSrc}
-              alt={label}
-              style={{
-                position: 'absolute',
-                top: top,
-                left: left,
-                height: height,
-                filter: filter,
-              }}
-            />
+            <span>
+              <img
+                className="img-map"
+                onMouseOver={onMouseOver}
+                key={key}
+                onClick={onClick}
+                src={imgSrc}
+                alt={code}
+                style={{
+                  position: 'absolute',
+                  top: top,
+                  left: left,
+                  height: height,
+                  filter: filter,
+                }}
+              />
+            </span>
           );
         }.bind(this),
     );
