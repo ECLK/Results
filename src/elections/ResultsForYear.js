@@ -57,24 +57,28 @@ export default class ResultsByYear extends Component {
             return null;
           }
           const edName = results[0]['ed_name'];
+          
           const label = edName + ' (' + nResults +
             ' Polling Divisions Reporting)';
 
-          return (
-            <div ref={this.myRef[edName]} key={key}>
-              <ResultsView
-                results={results}
-                childLabelPrefix="pd"
-                label={label}
-                mapDir={mapDir}
-                height={HEIGHT}
-                width={WIDTH}
-                top={TOP}
-                left={LEFT}
-                onClickMap={onClickMap}
-              />
-            </div>
-          );
+            if(edName){
+              return (
+                <div ref={this.myRef[edName]} key={key}>
+                  <ResultsView
+                    results={results}
+                    childLabelPrefix="pd"
+                    label={label}
+                    mapDir={mapDir}
+                    height={HEIGHT}
+                    width={WIDTH}
+                    top={TOP}
+                    left={LEFT}
+                    onClickMap={onClickMap}
+                  />
+                </div>
+              );
+            }
+          
         }.bind(this),
     );
 
