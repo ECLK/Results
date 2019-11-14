@@ -52,7 +52,6 @@ export default class ResultsMap extends Component {
     const allLeft = 0;
     let config = [];
 
-    // TODO: [BUG] Sometimes in 2019 results, the ed_code is undefined, leading to a not found error
     try {
       config = require(mapDir + '/config.json');
     } catch (e) {
