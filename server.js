@@ -21,26 +21,26 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
 
     var options = {
       uri: file_url,
-      json: true 
+      json: true
     };
 
     rp(options)
       .then((res) => {
         console.log("Result recieved")
-        res = res.map((o)=> {
+        res = res.map((o) => {
           return {
             ...o,
-            timestamp: (moment(o.timestamp).toDate().getTime()) / 1000 
+            timestamp: (moment(o.timestamp).toDate().getTime()) / 1000
             // TODO: [BUG] Requires date in format of 757399980.0 but actual format recieved by url is 2019-11-13T13:00:53.566+0000
             // FIXED: by adding the above moment script. Remove if the date format is fixed from the original url
           }
 
         })
-        fs.writeFile(FILE_URL, JSON.stringify(res, null, 2), (err)  =>{
+        fs.writeFile(FILE_URL, JSON.stringify(res, null, 2), (err) => {
           if (err) {
             console.log("File save failed")
-             console.error(err);
-             reject(err)
+            console.error(err);
+            reject(err)
           }
           console.log("File was saved!");
           resolve(file_name);
@@ -54,12 +54,25 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
   })
 };
 
-download_file_with_wget(process.env.RESULT_URL).then(file => console.log(file)).catch(e => console.log(e));
-
-setInterval(() => {
+if (process.env.RESULT_URL) {
   download_file_with_wget(process.env.RESULT_URL).then(file => console.log(file)).catch(e => console.log(e));
-}, process.env.REFRESH_INTERVAL || 300000)
 
+  setInterval(() => {
+    download_file_with_wget(process.env.RESULT_URL).then(file => console.log(file)).catch(e => console.log(e));
+  }, process.env.REFRESH_INTERVAL || 300000)
+
+} else {
+  const file = 'elections/data/elections.lk.presidential.2019.json';
+  fs.writeFile(file, JSON.stringify([], null, 2), (err) => {
+    if (err) {
+      console.log("Empty File save failed")
+      console.error(err);
+
+    }
+    console.log("Empty File was saved!");
+
+  });
+}
 
 // create a GET route
 app.get('/express_backend', (req, res) => {
@@ -71,6 +84,10 @@ app.use(express.static(path.join(__dirname, './elections')));
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, './build', 'index.html'));
+});
+
+app.get('/healthz', function (req, res) {
+  res.status(200).send('healthy');
 });
 
 
