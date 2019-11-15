@@ -28,7 +28,7 @@ export default class Slider extends Component {
           className='input-slider'
           type="range"
           min={this.props.minTimestamp}
-          max={this.props.maxTimestamp}
+          max={this.props.maxTimestamp + 200}
           value={this.props.currentTimestamp}
           onChange={onChange}
         />

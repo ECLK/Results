@@ -83,20 +83,25 @@ export default class ResultsByYear extends Component {
     );
 
     const mostRecentResults = filterMostRecentResults(resultList);
+    let recentResultComponent;
+    
+    if(sessionStorage.getItem('maxTimestamp') >= this.props.currentTimestamp && (sessionStorage.getItem('maxTimestamp')!=0)){
+     recentResultComponent = <ResultsView
+                                results={mostRecentResults}
+                                childLabelPrefix="pd"
+                                label={'Most Recent Results'}
+                                mapDir={undefined}
+                                height={HEIGHT}
+                                width={WIDTH}
+                                top={TOP}
+                                left={LEFT}
+                                onClickMap={onClickMap}
+                              />
+                              }
 
     return (
       <div className="div-results-by-year">
-        <ResultsView
-          results={mostRecentResults}
-          childLabelPrefix="pd"
-          label={'Most Recent Results'}
-          mapDir={undefined}
-          height={HEIGHT}
-          width={WIDTH}
-          top={TOP}
-          left={LEFT}
-          onClickMap={onClickMap}
-        />
+        {recentResultComponent}
         <ResultsSummary
           resultList={resultList}
           maxTimestamp={this.props.maxTimestamp}
