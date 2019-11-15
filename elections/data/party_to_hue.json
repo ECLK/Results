@@ -1,10 +1,12 @@
 {
   "UNP": 120,
-  "NDF": 350,
+  "NDF": 120,
   "SLFP": 210,
   "PA": 210,
   "UPFA": 210,
+  "SLPFA": 0,
   "JVP": 0,
+  "NPP": 0,
   "SLMP": 0,
   "SLPP": 0,
   "ACTC": 60
