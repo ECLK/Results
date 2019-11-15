@@ -69,6 +69,7 @@ export default class HomePage extends Component {
             0,
           ],
       );
+      sessionStorage.setItem("maxTimestamp", maxTimestamp);
 
       const timeSpan = maxTimestamp - minTimestamp;
 
@@ -106,6 +107,7 @@ export default class HomePage extends Component {
         this.state.resultList,
         this.state.currentTimestamp,
     );
+
     const resultsCount = resultList.length;
 
     const onUpdateSelectedYear = function(year) {
