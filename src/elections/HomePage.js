@@ -103,6 +103,8 @@ export default class HomePage extends Component {
     if (!this.state.resultList) {
       return 'Data loading...';
     }
+    const maxResultsCount = this.state.resultList.length;
+
     const resultList = filterByTimestamp(
         this.state.resultList,
         this.state.currentTimestamp,
@@ -153,6 +155,7 @@ export default class HomePage extends Component {
             minTimestamp={this.state.minTimestamp}
             maxTimestamp={this.state.maxTimestamp}
             currentTimestamp={this.state.currentTimestamp}
+            maxResultsCount={maxResultsCount}
           />
         </div>
         <div className='div-moving-body'>
