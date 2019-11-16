@@ -21,7 +21,12 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
 
     var options = {
       uri: file_url,
-      json: true
+      json: true,
+      auth:{
+        username: process.env.username,
+        password: process.env.password
+      }
+      
     };
 
     rp(options)
@@ -53,6 +58,7 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
       });
   })
 };
+
 
 if (process.env.RESULT_URL) {
   download_file_with_wget(process.env.RESULT_URL).then(file => console.log(file)).catch(e => console.log(e));
