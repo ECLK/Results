@@ -8,7 +8,6 @@ ReactGA.pageview(window.location.pathname + window.location.search);
 
 
 function App() {
-  initializeReactGA();
   return <HomePage />;
 }
  
