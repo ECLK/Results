@@ -21,7 +21,7 @@ export default class ResultsSummary extends Component {
 
     const label = (aggrResultList) ?
       'Electoral District Results (' +
-      nResults + ' Polling Divisions Reporting)' :
+      nResults + ' Polling Divisions / District Postal Results Reporting)' :
        'No Results';
 
     return (
