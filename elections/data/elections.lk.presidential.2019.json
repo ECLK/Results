@@ -1,0 +1,800 @@
+[
+  {
+    "timestamp": 1573938153.015,
+    "level": "POLLING-DIVISION",
+    "ed_code": "11",
+    "ed_name": "Vanni",
+    "pd_code": "11P",
+    "pd_name": "Postal Votes",
+    "by_party": [
+      {
+        "party_code": "IND01",
+        "votes": 7,
+        "percentage": "0.07",
+        "party_name": "Independent Candidate-01",
+        "candidate": "Aparakke Pungngananda Thero"
+      },
+      {
+        "party_code": "IND02",
+        "votes": 13,
+        "percentage": "0.12",
+        "party_name": "Independent Candidate-02",
+        "candidate": "S. Amarasinghe"
+      },
+      {
+        "party_code": "IND03",
+        "votes": 6,
+        "percentage": "0.06",
+        "party_name": "Independent Candidate-03",
+        "candidate": "Idroos Mohamadhu Illiyas"
+      },
+      {
+        "party_code": "IND04",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "Independent Candidate-04",
+        "candidate": "A. H. M. Alavi"
+      },
+      {
+        "party_code": "DUNF",
+        "votes": 48,
+        "percentage": "0.45",
+        "party_name": "Democratic United National Front",
+        "candidate": "Ariyawansha Dissanayake"
+      },
+      {
+        "party_code": "OWORS",
+        "votes": 4,
+        "percentage": "0.04",
+        "party_name": "Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya",
+        "candidate": "P. M. Edirisinghe"
+      },
+      {
+        "party_code": "IND05",
+        "votes": 10,
+        "percentage": "0.09",
+        "party_name": "Independent Candidate-05",
+        "candidate": "Sarath Keerthirathne"
+      },
+      {
+        "party_code": "IND06",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "Independent Candidate-06",
+        "candidate": "Chandrasekara Herath Hitihami Koralalage Samansiri"
+      },
+      {
+        "party_code": "USP",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "United Socialist Party",
+        "candidate": "Sirithunga Jayasuriya"
+      },
+      {
+        "party_code": "RJA",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "Ruhuna Janatha Alliance",
+        "candidate": "Ajantha De Zoysa"
+      },
+      {
+        "party_code": "DNM",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "Democratic National Movement",
+        "candidate": "Aruna De Zoysa"
+      },
+      {
+        "party_code": "NMPP",
+        "votes": 147,
+        "percentage": "1.39",
+        "party_name": "National Movement for People's Power",
+        "candidate": "Anura Kumara Dissanayaka"
+      },
+      {
+        "party_code": "FSP",
+        "votes": 0,
+        "percentage": "0",
+        "party_name": "Frontline Socialist Party",
+        "candidate": "Duminda Nagamuwa"
+      },
+      {
+        "party_code": "JSWP",
+        "votes": 4,
+        "percentage": "0.04",
+        "party_name": "Jathika Sangwardhena Peramuna",
+        "candidate": "Rohan Pallewatta"
+      },
+      {
+        "party_code": "IND07",
+        "votes": 6,
+        "percentage": "0.06",
+        "party_name": "Independent Candidate-07",
+        "candidate": "Ketagoda Jayantha"
+      },
+      {
+        "party_code": "OPPP",
+        "votes": 2,
+        "percentage": "0.02",
+        "party_name": "Our Power of People Party",
+        "candidate": "Saman Perera"
+      },
+      {
+        "party_code": "IND08",
+        "votes": 2,
+        "percentage": "0.02",
+        "party_name": "Independent Candidate-08",
+        "candidate": "Anuruddha Polgampala"
+      },
+      {
+        "party_code": "IND09",
+        "votes": 4,
+        "percentage": "0.04",
+        "party_name": "Independent Candidate-09",
+        "candidate": "Warnakulasooriya Milroy Surgeus Fernando"
+      },
+      {
+        "party_code": "NDF",
+        "votes": 8402,
+        "percentage": "79.30",
+        "party_name": "New Democratic Front",
+        "candidate": "Sajith Premadasa"
+      },
+      {
+        "party_code": "JSP",
+        "votes": 5,
+        "percentage": "0.05",
+        "party_name": "Jana Setha Peramuna",
+        "candidate": "Battaramulle Seelarathana Thero"
+      },
+      {
+        "party_code": "NSSP",
+        "votes": 1,
+        "percentage": "0.01",
+        "party_name": "Nawa Sama Samaja Party",
+        "candidate": "Badde Gamage Nandimithra"
+      },
+      {
+        "party_code": "NSU",
+        "votes": 3,
+        "percentage": "0.03",
+        "party_name": "Nawa Sihala Urumaya",
+        "candidate": "Sarath Manamendra"
+      },
+      {
+        "party_code": "IND10",
+        "votes": 144,
+        "percentage": "1.36",
+        "party_name": "Independent Candidate-10",
+        "candidate": "M. K. Shivajilingam"
+      },
+      {
+        "party_code": "IND11",
+        "votes": 11,
+        "percentage": "0.10",
+        "party_name": "Independent Candidate-11",
+        "candidate": "M. L. A. M. Hizbullah"
+      },
+      {
+        "party_code": "SLPP",
+        "votes": 1703,
+        "percentage": "16.07",
+        "party_name": "Sri Lanka Podujana Peramuna",
+        "candidate": "Gotabaya Rajapaksa"
+      },
+      {
+        "party_code": "NUA",
+        "votes": 4,
+        "percentage": "0.04",
+        "party_name": "National Unity Alliance",
+        "candidate": "Namal Rajapaksha"
+      },
+      {
+        "party_code": "SLLP",
+        "votes": 4,
+        "percentage": "0.04",
+        "party_name": "Sri Lanka Labour Party",
+        "candidate": "A. S. P. Liyanage"
+      },
+      {
+        "party_code": "IND12",
+        "votes": 1,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-12",
+        "candidate": "Ashoka Wadigamangawa"
+      },
+      {
+        "party_code": "IND13",
+        "votes": 5,
+        "percentage": "0.05",
+        "party_name": "Independent Candidate-13",
+        "candidate": "Piyasiri Wijenayake"
+      },
+      {
+        "party_code": "SPSL",
+        "votes": 14,
+        "percentage": "0.13",
+        "party_name": "Socialist Party of Sri Lanka",
+        "candidate": "Ajantha Perera"
+      },
+      {
+        "party_code": "IND14",
+        "votes": 2,
+        "percentage": "0.02",
+        "party_name": "Independent Candidate-14",
+        "candidate": "Rajiva Wijesinha"
+      },
+      {
+        "party_code": "SEP",
+        "votes": 2,
+        "percentage": "0.02",
+        "party_name": "Socialist Equality Party",
+        "candidate": "Pani Wijesiriwardane"
+      },
+      {
+        "party_code": "IND15",
+        "votes": 2,
+        "percentage": "0.02",
+        "party_name": "Independent Candidate-15",
+        "candidate": "Samaraweera Weerawanni"
+      },
+      {
+        "party_code": "ONF",
+        "votes": 10,
+        "percentage": "0.09",
+        "party_name": "Our National Front",
+        "candidate": "Subbramaniyam Gunarathnam"
+      },
+      {
+        "party_code": "NPP",
+        "votes": 14,
+        "percentage": "0.13",
+        "party_name": "National Peoples Party",
+        "candidate": "Mahesh Senanayake"
+      }
+    ],
+    "summary": {
+      "valid": 10595,
+      "rejected": 147,
+      "polled": 10742,
+      "electors": 10994,
+      "percent_valid": "96.37",
+      "percent_rejected": "1.34",
+      "percent_polled": "97.71"
+    },
+    "type": "PRESIDENTIAL-FIRST",
+    "sequence_number": "0005"
+  },
+  {
+    "timestamp": 1573937478.631,
+    "level": "POLLING-DIVISION",
+    "ed_code": "10",
+    "ed_name": "Jaffna",
+    "pd_code": "10I",
+    "pd_name": "Nallur",
+    "by_party": [
+      {
+        "party_code": "IND01",
+        "votes": 82,
+        "percentage": "0.26",
+        "party_name": "Independent Candidate-01",
+        "candidate": "Aparakke Pungngananda Thero"
+      },
+      {
+        "party_code": "IND02",
+        "votes": 147,
+        "percentage": "0.46",
+        "party_name": "Independent Candidate-02",
+        "candidate": "S. Amarasinghe"
+      },
+      {
+        "party_code": "IND03",
+        "votes": 31,
+        "percentage": "0.10",
+        "party_name": "Independent Candidate-03",
+        "candidate": "Idroos Mohamadhu Illiyas"
+      },
+      {
+        "party_code": "IND04",
+        "votes": 23,
+        "percentage": "0.07",
+        "party_name": "Independent Candidate-04",
+        "candidate": "A. H. M. Alavi"
+      },
+      {
+        "party_code": "DUNF",
+        "votes": 475,
+        "percentage": "1.48",
+        "party_name": "Democratic United National Front",
+        "candidate": "Ariyawansha Dissanayake"
+      },
+      {
+        "party_code": "OWORS",
+        "votes": 22,
+        "percentage": "0.07",
+        "party_name": "Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya",
+        "candidate": "P. M. Edirisinghe"
+      },
+      {
+        "party_code": "IND05",
+        "votes": 111,
+        "percentage": "0.35",
+        "party_name": "Independent Candidate-05",
+        "candidate": "Sarath Keerthirathne"
+      },
+      {
+        "party_code": "IND06",
+        "votes": 6,
+        "percentage": "0.02",
+        "party_name": "Independent Candidate-06",
+        "candidate": "Chandrasekara Herath Hitihami Koralalage Samansiri"
+      },
+      {
+        "party_code": "USP",
+        "votes": 37,
+        "percentage": "0.12",
+        "party_name": "United Socialist Party",
+        "candidate": "Sirithunga Jayasuriya"
+      },
+      {
+        "party_code": "RJA",
+        "votes": 32,
+        "percentage": "0.10",
+        "party_name": "Ruhuna Janatha Alliance",
+        "candidate": "Ajantha De Zoysa"
+      },
+      {
+        "party_code": "DNM",
+        "votes": 31,
+        "percentage": "0.10",
+        "party_name": "Democratic National Movement",
+        "candidate": "Aruna De Zoysa"
+      },
+      {
+        "party_code": "NMPP",
+        "votes": 166,
+        "percentage": "0.52",
+        "party_name": "National Movement for People's Power",
+        "candidate": "Anura Kumara Dissanayaka"
+      },
+      {
+        "party_code": "FSP",
+        "votes": 19,
+        "percentage": "0.06",
+        "party_name": "Frontline Socialist Party",
+        "candidate": "Duminda Nagamuwa"
+      },
+      {
+        "party_code": "JSWP",
+        "votes": 40,
+        "percentage": "0.12",
+        "party_name": "Jathika Sangwardhena Peramuna",
+        "candidate": "Rohan Pallewatta"
+      },
+      {
+        "party_code": "IND07",
+        "votes": 72,
+        "percentage": "0.22",
+        "party_name": "Independent Candidate-07",
+        "candidate": "Ketagoda Jayantha"
+      },
+      {
+        "party_code": "OPPP",
+        "votes": 18,
+        "percentage": "0.06",
+        "party_name": "Our Power of People Party",
+        "candidate": "Saman Perera"
+      },
+      {
+        "party_code": "IND08",
+        "votes": 68,
+        "percentage": "0.21",
+        "party_name": "Independent Candidate-08",
+        "candidate": "Anuruddha Polgampala"
+      },
+      {
+        "party_code": "IND09",
+        "votes": 89,
+        "percentage": "0.28",
+        "party_name": "Independent Candidate-09",
+        "candidate": "Warnakulasooriya Milroy Surgeus Fernando"
+      },
+      {
+        "party_code": "NDF",
+        "votes": 27605,
+        "percentage": "86.02",
+        "party_name": "New Democratic Front",
+        "candidate": "Sajith Premadasa"
+      },
+      {
+        "party_code": "JSP",
+        "votes": 78,
+        "percentage": "0.24",
+        "party_name": "Jana Setha Peramuna",
+        "candidate": "Battaramulle Seelarathana Thero"
+      },
+      {
+        "party_code": "NSSP",
+        "votes": 7,
+        "percentage": "0.02",
+        "party_name": "Nawa Sama Samaja Party",
+        "candidate": "Badde Gamage Nandimithra"
+      },
+      {
+        "party_code": "NSU",
+        "votes": 17,
+        "percentage": "0.05",
+        "party_name": "Nawa Sihala Urumaya",
+        "candidate": "Sarath Manamendra"
+      },
+      {
+        "party_code": "IND10",
+        "votes": 659,
+        "percentage": "2.05",
+        "party_name": "Independent Candidate-10",
+        "candidate": "M. K. Shivajilingam"
+      },
+      {
+        "party_code": "IND11",
+        "votes": 74,
+        "percentage": "0.23",
+        "party_name": "Independent Candidate-11",
+        "candidate": "M. L. A. M. Hizbullah"
+      },
+      {
+        "party_code": "SLPP",
+        "votes": 1836,
+        "percentage": "5.72",
+        "party_name": "Sri Lanka Podujana Peramuna",
+        "candidate": "Gotabaya Rajapaksa"
+      },
+      {
+        "party_code": "NUA",
+        "votes": 19,
+        "percentage": "0.06",
+        "party_name": "National Unity Alliance",
+        "candidate": "Namal Rajapaksha"
+      },
+      {
+        "party_code": "SLLP",
+        "votes": 56,
+        "percentage": "0.17",
+        "party_name": "Sri Lanka Labour Party",
+        "candidate": "A. S. P. Liyanage"
+      },
+      {
+        "party_code": "IND12",
+        "votes": 30,
+        "percentage": "0.09",
+        "party_name": "Independent Candidate-12",
+        "candidate": "Ashoka Wadigamangawa"
+      },
+      {
+        "party_code": "IND13",
+        "votes": 27,
+        "percentage": "0.08",
+        "party_name": "Independent Candidate-13",
+        "candidate": "Piyasiri Wijenayake"
+      },
+      {
+        "party_code": "SPSL",
+        "votes": 46,
+        "percentage": "0.14",
+        "party_name": "Socialist Party of Sri Lanka",
+        "candidate": "Ajantha Perera"
+      },
+      {
+        "party_code": "IND14",
+        "votes": 35,
+        "percentage": "0.11",
+        "party_name": "Independent Candidate-14",
+        "candidate": "Rajiva Wijesinha"
+      },
+      {
+        "party_code": "SEP",
+        "votes": 18,
+        "percentage": "0.06",
+        "party_name": "Socialist Equality Party",
+        "candidate": "Pani Wijesiriwardane"
+      },
+      {
+        "party_code": "IND15",
+        "votes": 16,
+        "percentage": "0.05",
+        "party_name": "Independent Candidate-15",
+        "candidate": "Samaraweera Weerawanni"
+      },
+      {
+        "party_code": "ONF",
+        "votes": 51,
+        "percentage": "0.16",
+        "party_name": "Our National Front",
+        "candidate": "Subbramaniyam Gunarathnam"
+      },
+      {
+        "party_code": "NPP",
+        "votes": 50,
+        "percentage": "0.16",
+        "party_name": "National Peoples Party",
+        "candidate": "Mahesh Senanayake"
+      }
+    ],
+    "summary": {
+      "valid": 32093,
+      "rejected": 848,
+      "polled": 32941,
+      "electors": 46888,
+      "percent_valid": "68.45",
+      "percent_rejected": "1.81",
+      "percent_polled": "70.25"
+    },
+    "type": "PRESIDENTIAL-FIRST",
+    "sequence_number": "0003"
+  },
+  {
+    "timestamp": 1573935954.393,
+    "level": "POLLING-DIVISION",
+    "ed_code": "07",
+    "ed_name": "Galle",
+    "pd_code": "07P",
+    "pd_name": "Postal Votes",
+    "by_party": [
+      {
+        "party_code": "IND01",
+        "votes": 11,
+        "percentage": "0.03",
+        "party_name": "Independent Candidate-01",
+        "candidate": "Aparakke Pungngananda Thero"
+      },
+      {
+        "party_code": "IND02",
+        "votes": 9,
+        "percentage": "0.02",
+        "party_name": "Independent Candidate-02",
+        "candidate": "S. Amarasinghe"
+      },
+      {
+        "party_code": "IND03",
+        "votes": 1,
+        "percentage": "0.00",
+        "party_name": "Independent Candidate-03",
+        "candidate": "Idroos Mohamadhu Illiyas"
+      },
+      {
+        "party_code": "IND04",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-04",
+        "candidate": "A. H. M. Alavi"
+      },
+      {
+        "party_code": "DUNF",
+        "votes": 5,
+        "percentage": "0.01",
+        "party_name": "Democratic United National Front",
+        "candidate": "Ariyawansha Dissanayake"
+      },
+      {
+        "party_code": "OWORS",
+        "votes": 1,
+        "percentage": "0.00",
+        "party_name": "Okkoma Wasiyo Okkoma Rajawaru Sanvidanaya",
+        "candidate": "P. M. Edirisinghe"
+      },
+      {
+        "party_code": "IND05",
+        "votes": 4,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-05",
+        "candidate": "Sarath Keerthirathne"
+      },
+      {
+        "party_code": "IND06",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-06",
+        "candidate": "Chandrasekara Herath Hitihami Koralalage Samansiri"
+      },
+      {
+        "party_code": "USP",
+        "votes": 5,
+        "percentage": "0.01",
+        "party_name": "United Socialist Party",
+        "candidate": "Sirithunga Jayasuriya"
+      },
+      {
+        "party_code": "RJA",
+        "votes": 11,
+        "percentage": "0.03",
+        "party_name": "Ruhuna Janatha Alliance",
+        "candidate": "Ajantha De Zoysa"
+      },
+      {
+        "party_code": "DNM",
+        "votes": 6,
+        "percentage": "0.02",
+        "party_name": "Democratic National Movement",
+        "candidate": "Aruna De Zoysa"
+      },
+      {
+        "party_code": "NMPP",
+        "votes": 2450,
+        "percentage": "6.59",
+        "party_name": "National Movement for People's Power",
+        "candidate": "Anura Kumara Dissanayaka"
+      },
+      {
+        "party_code": "FSP",
+        "votes": 52,
+        "percentage": "0.14",
+        "party_name": "Frontline Socialist Party",
+        "candidate": "Duminda Nagamuwa"
+      },
+      {
+        "party_code": "JSWP",
+        "votes": 40,
+        "percentage": "0.11",
+        "party_name": "Jathika Sangwardhena Peramuna",
+        "candidate": "Rohan Pallewatta"
+      },
+      {
+        "party_code": "IND07",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-07",
+        "candidate": "Ketagoda Jayantha"
+      },
+      {
+        "party_code": "OPPP",
+        "votes": 5,
+        "percentage": "0.01",
+        "party_name": "Our Power of People Party",
+        "candidate": "Saman Perera"
+      },
+      {
+        "party_code": "IND08",
+        "votes": 4,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-08",
+        "candidate": "Anuruddha Polgampala"
+      },
+      {
+        "party_code": "IND09",
+        "votes": 11,
+        "percentage": "0.03",
+        "party_name": "Independent Candidate-09",
+        "candidate": "Warnakulasooriya Milroy Surgeus Fernando"
+      },
+      {
+        "party_code": "NDF",
+        "votes": 9093,
+        "percentage": "24.45",
+        "party_name": "New Democratic Front",
+        "candidate": "Sajith Premadasa"
+      },
+      {
+        "party_code": "JSP",
+        "votes": 12,
+        "percentage": "0.03",
+        "party_name": "Jana Setha Peramuna",
+        "candidate": "Battaramulle Seelarathana Thero"
+      },
+      {
+        "party_code": "NSSP",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Nawa Sama Samaja Party",
+        "candidate": "Badde Gamage Nandimithra"
+      },
+      {
+        "party_code": "NSU",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Nawa Sihala Urumaya",
+        "candidate": "Sarath Manamendra"
+      },
+      {
+        "party_code": "IND10",
+        "votes": 4,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-10",
+        "candidate": "M. K. Shivajilingam"
+      },
+      {
+        "party_code": "IND11",
+        "votes": 14,
+        "percentage": "0.04",
+        "party_name": "Independent Candidate-11",
+        "candidate": "M. L. A. M. Hizbullah"
+      },
+      {
+        "party_code": "SLPP",
+        "votes": 25099,
+        "percentage": "67.49",
+        "party_name": "Sri Lanka Podujana Peramuna",
+        "candidate": "Gotabaya Rajapaksa"
+      },
+      {
+        "party_code": "NUA",
+        "votes": 10,
+        "percentage": "0.03",
+        "party_name": "National Unity Alliance",
+        "candidate": "Namal Rajapaksha"
+      },
+      {
+        "party_code": "SLLP",
+        "votes": 4,
+        "percentage": "0.01",
+        "party_name": "Sri Lanka Labour Party",
+        "candidate": "A. S. P. Liyanage"
+      },
+      {
+        "party_code": "IND12",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-12",
+        "candidate": "Ashoka Wadigamangawa"
+      },
+      {
+        "party_code": "IND13",
+        "votes": 2,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-13",
+        "candidate": "Piyasiri Wijenayake"
+      },
+      {
+        "party_code": "SPSL",
+        "votes": 18,
+        "percentage": "0.05",
+        "party_name": "Socialist Party of Sri Lanka",
+        "candidate": "Ajantha Perera"
+      },
+      {
+        "party_code": "IND14",
+        "votes": 0,
+        "percentage": "0",
+        "party_name": "Independent Candidate-14",
+        "candidate": "Rajiva Wijesinha"
+      },
+      {
+        "party_code": "SEP",
+        "votes": 4,
+        "percentage": "0.01",
+        "party_name": "Socialist Equality Party",
+        "candidate": "Pani Wijesiriwardane"
+      },
+      {
+        "party_code": "IND15",
+        "votes": 3,
+        "percentage": "0.01",
+        "party_name": "Independent Candidate-15",
+        "candidate": "Samaraweera Weerawanni"
+      },
+      {
+        "party_code": "ONF",
+        "votes": 1,
+        "percentage": "0.00",
+        "party_name": "Our National Front",
+        "candidate": "Subbramaniyam Gunarathnam"
+      },
+      {
+        "party_code": "NPP",
+        "votes": 301,
+        "percentage": "0.81",
+        "party_name": "National Peoples Party",
+        "candidate": "Mahesh Senanayake"
+      }
+    ],
+    "summary": {
+      "valid": 37192,
+      "rejected": 393,
+      "polled": 37585,
+      "electors": 38045,
+      "percent_valid": "97.76",
+      "percent_rejected": "1.03",
+      "percent_polled": "98.79"
+    },
+    "type": "PRESIDENTIAL-FIRST",
+    "sequence_number": "0001"
+  }
+]
