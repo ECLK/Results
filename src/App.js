@@ -9,6 +9,6 @@ function App() {
 
 function initializeReactGA() {
   ReactGA.initialize('UA-152722495-1');
-  ReactGA.pageview('/homepage');
+  ReactGA.pageview('/');
 }
 export default App;
