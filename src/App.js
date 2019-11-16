@@ -3,12 +3,13 @@ import HomePage from './elections/HomePage.js';
 import './App.css';
 import ReactGA from 'react-ga';
 
+ReactGA.initialize('UA-152722495-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
+
 function App() {
+  initializeReactGA();
   return <HomePage />;
 }
-
-function initializeReactGA() {
-  ReactGA.initialize('UA-152722495-1');
-  ReactGA.pageview('/');
-}
+ 
 export default App;
