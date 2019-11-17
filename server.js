@@ -29,6 +29,7 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
       
     };
 
+
     rp(options)
       .then((res) => {
         console.log("Result recieved")
@@ -40,7 +41,7 @@ function download_file_with_wget(file_url, DOWNLOAD_DIR, DOWNLOADABLE_EXTENTIONS
             // FIXED: by adding the above moment script. Remove if the date format is fixed from the original url
           }
 
-        })
+        }).filter((o)=> !!o.pd_code)
         fs.writeFile(FILE_URL, JSON.stringify(res, null, 2), (err) => {
           if (err) {
             console.log("File save failed")
