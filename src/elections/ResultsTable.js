@@ -262,12 +262,6 @@ export default class ResultsTable extends Component {
           if (childLabel === this.props.activeLabel) {
             className += ' tr-selected';
           }
-          
-          // const _tableRowList = results.map(
-          //   function(result, i) {
-          // if (childLabel === 'Postal Votes') {
-          //   postalVotes = totalElectors;
-          // }
 
           return this.renderRow(
               className,
@@ -288,53 +282,6 @@ export default class ResultsTable extends Component {
         }.bind(this),
     );
 
-
-    // var postalVotes = 0;
-    //  results.map = (d) => {
-       
-    //   const childLabel = d.childLabelField;
-
-        // if (childLabel === 'Postal Votes') {
-        //   postalVotes = d.electors;
-        // }
-        // return postalVotes;
-      // }
-        
-
-      // results.forEach(function(d) {
-      //   const childLabel = result[childLabelField];
-      //   if (d.childLabel === "Postal Votes" ) {
-      //     postalVotes = d.electors;
-      //   }
-      // });
-
-
-debugger;
-      // results.map = (result) => {
-      //     const childLabel = result.childLabelField;
-      //     if (childLabel === "Postal Votes" ) {
-      //           postalVotes = result.electors;
-      //         }else{
-      //           postalVotes = "result.electors";
-      //         }
-      //   }
-
-      const postalVotes = results.map(
-        function(result, i) {
-          const childLabel = result[childLabelField];
-
-          let Electors = '';
-          if (result.pd_name === "Postal Votes") {
-            Electors = result.electors;
-          }
-          
-         return Electors;
-
-        }.bind(this),
-    );
-        
-    
-
     const _totalsRow = (this.props.showTotals) ?
       this.renderRow(
           'tr-totals',
@@ -349,7 +296,7 @@ debugger;
           totalValid,
           totalRejected,
           totalPolled,
-          totalElectors + "ttfghfghss" + postalVotes,
+          totalElectors,
       ) : null;
 
 
