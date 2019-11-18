@@ -82,10 +82,10 @@ export default class ResultsTable extends Component {
             key={keyPrefix + 'header-total-polled'}
             text="Total Polled"
           />,
-          <CellHeader
-            key={keyPrefix + 'header-registed-votes'}
-            text="Registered Votes"
-          />,
+          // <CellHeader
+          //   key={keyPrefix + 'header-registed-votes'}
+          //   text="Registered Votes"
+          // />,
         ])
       }</tr>
     );
@@ -144,7 +144,7 @@ export default class ResultsTable extends Component {
       );
     });
     const otherPartyVotes = totalValid - displayPartyVotes;
-
+    
     if (label === 'Final Results') {
       className += ' tr-totals';
     }
@@ -186,12 +186,14 @@ export default class ResultsTable extends Component {
           <CellNumberPercent
             key={key + '-total-polled-votes'}
             value={totalPolled}
-            valuePercent={totalPolled / totalElectors}
+            valuePercent={null}
+            // valuePercent={totalPolled / totalElectors}
+
           />,
-          <CellNumber
-            key={key + '-total-registered-voters'}
-            value={totalElectors}
-          />,
+          // <CellNumber
+          //   key={key + '-total-registered-voters'}
+          //   value={totalElectors}
+          // />,
         ])}
       </tr>
     );
@@ -231,7 +233,7 @@ export default class ResultsTable extends Component {
         votesByParty,
         totalValid,
     );
-
+    
     const _tableRowList = results.map(
         function(result, i) {
           const key = 'table-row-' + i;
