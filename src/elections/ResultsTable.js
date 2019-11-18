@@ -82,10 +82,10 @@ export default class ResultsTable extends Component {
             key={keyPrefix + 'header-total-polled'}
             text="Total Polled"
           />,
-          // <CellHeader
-          //   key={keyPrefix + 'header-registed-votes'}
-          //   text="Registered Votes"
-          // />,
+          <CellHeader
+            key={keyPrefix + 'header-registed-votes'}
+            text="Registered Votes"
+          />,
         ])
       }</tr>
     );
@@ -123,7 +123,7 @@ export default class ResultsTable extends Component {
       totalValid,
       totalRejected,
       totalPolled,
-      totalElectors,
+      totalElectors
   ) {
     const sortedPartyAndVotes = getSortedPartyAndVotes(votesByParty);
     const winningParty = sortedPartyAndVotes[0][0];
@@ -186,14 +186,12 @@ export default class ResultsTable extends Component {
           <CellNumberPercent
             key={key + '-total-polled-votes'}
             value={totalPolled}
-            valuePercent={null}
-            // valuePercent={totalPolled / totalElectors}
-
+            valuePercent={totalPolled / totalElectors}
           />,
-          // <CellNumber
-          //   key={key + '-total-registered-voters'}
-          //   value={totalElectors}
-          // />,
+          <CellNumber
+            key={key + '-total-registered-voters'}
+            value={totalElectors}
+          />,
         ])}
       </tr>
     );
@@ -218,7 +216,7 @@ export default class ResultsTable extends Component {
       totalValid,
       totalRejected,
       totalPolled,
-      totalElectors,
+      totalElectors
 
     ] = getAggregateStats(
         results,
@@ -281,6 +279,17 @@ export default class ResultsTable extends Component {
           );
         }.bind(this),
     );
+    var postalVotes = 0;
+
+      results.map(
+        function(result, i) {
+          if (result.pd_name === "Postal Votes") {
+            return postalVotes = result.summary.electors;
+          }
+        }.bind(this)
+    );
+    
+    const totalElectorsWithPostal = totalElectors + postalVotes;
 
     const _totalsRow = (this.props.showTotals) ?
       this.renderRow(
@@ -296,7 +305,7 @@ export default class ResultsTable extends Component {
           totalValid,
           totalRejected,
           totalPolled,
-          totalElectors,
+          totalElectorsWithPostal
       ) : null;
 
 
