@@ -131,10 +131,12 @@ export function getAggregateStats(results, mapFieldPrefix) {
  * @example 0.54321 -> 54.3%
  */
 export function formatPercent(x) {
+  if(x != null){
   return x.toLocaleString('en-us', {
     style: 'percent',
     minimumFractionDigits: 2,
-  });
+  });}
+
 }
 
 /**

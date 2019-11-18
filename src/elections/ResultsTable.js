@@ -82,10 +82,10 @@ export default class ResultsTable extends Component {
             key={keyPrefix + 'header-total-polled'}
             text="Total Polled"
           />,
-          <CellHeader
-            key={keyPrefix + 'header-registed-votes'}
-            text="Registered Votes"
-          />,
+          // <CellHeader
+          //   key={keyPrefix + 'header-registed-votes'}
+          //   text="Registered Votes"
+          // />,
         ])
       }</tr>
     );
@@ -144,7 +144,7 @@ export default class ResultsTable extends Component {
       );
     });
     const otherPartyVotes = totalValid - displayPartyVotes;
-
+    
     if (label === 'Final Results') {
       className += ' tr-totals';
     }
@@ -186,12 +186,14 @@ export default class ResultsTable extends Component {
           <CellNumberPercent
             key={key + '-total-polled-votes'}
             value={totalPolled}
-            valuePercent={totalPolled / totalElectors}
+            valuePercent={null}
+            // valuePercent={totalPolled / totalElectors}
+
           />,
-          <CellNumber
-            key={key + '-total-registered-voters'}
-            value={totalElectors}
-          />,
+          // <CellNumber
+          //   key={key + '-total-registered-voters'}
+          //   value={totalElectors}
+          // />,
         ])}
       </tr>
     );
@@ -231,7 +233,7 @@ export default class ResultsTable extends Component {
         votesByParty,
         totalValid,
     );
-
+    
     const _tableRowList = results.map(
         function(result, i) {
           const key = 'table-row-' + i;
@@ -260,6 +262,12 @@ export default class ResultsTable extends Component {
           if (childLabel === this.props.activeLabel) {
             className += ' tr-selected';
           }
+          
+          // const _tableRowList = results.map(
+          //   function(result, i) {
+          // if (childLabel === 'Postal Votes') {
+          //   postalVotes = totalElectors;
+          // }
 
           return this.renderRow(
               className,
@@ -280,6 +288,53 @@ export default class ResultsTable extends Component {
         }.bind(this),
     );
 
+
+    // var postalVotes = 0;
+    //  results.map = (d) => {
+       
+    //   const childLabel = d.childLabelField;
+
+        // if (childLabel === 'Postal Votes') {
+        //   postalVotes = d.electors;
+        // }
+        // return postalVotes;
+      // }
+        
+
+      // results.forEach(function(d) {
+      //   const childLabel = result[childLabelField];
+      //   if (d.childLabel === "Postal Votes" ) {
+      //     postalVotes = d.electors;
+      //   }
+      // });
+
+
+debugger;
+      // results.map = (result) => {
+      //     const childLabel = result.childLabelField;
+      //     if (childLabel === "Postal Votes" ) {
+      //           postalVotes = result.electors;
+      //         }else{
+      //           postalVotes = "result.electors";
+      //         }
+      //   }
+
+      const postalVotes = results.map(
+        function(result, i) {
+          const childLabel = result[childLabelField];
+
+          let Electors = '';
+          if (result.pd_name === "Postal Votes") {
+            Electors = result.electors;
+          }
+          
+         return Electors;
+
+        }.bind(this),
+    );
+        
+    
+
     const _totalsRow = (this.props.showTotals) ?
       this.renderRow(
           'tr-totals',
@@ -294,7 +349,7 @@ export default class ResultsTable extends Component {
           totalValid,
           totalRejected,
           totalPolled,
-          totalElectors,
+          totalElectors + "ttfghfghss" + postalVotes,
       ) : null;
 
 
