@@ -147,24 +147,24 @@ export function formatPercent(x) {
  **/
 export function getDataForYear(year, callback) {
   // TODO only for testing
-  // const getDataForYearStatic = function(year) {
-  //   const fileName = './data/elections.lk.presidential.' +
-  //     year + '.json';
-  //   const resultList = require('' + fileName);
-  //   return resultList;
-  // };
-  // callback(getDataForYearStatic(year));
+  const getDataForYearStatic = function(year) {
+    const fileName = './data/elections.lk.presidential.' +
+      year + '.json';
+    const resultList = require('' + fileName);
+    return resultList;
+  };
+  callback(getDataForYearStatic(year));
 
-  const url = '/data/elections.lk.presidential.' +    year + '.json';
-  fetch(url).then(
-    function(response) {
-      return response.json();
-    },
-  ).then(
-    function(resultList) {
-      callback(resultList);
-    },
-  );
+  // const url = '/data/elections.lk.presidential.' +    year + '.json';
+  // fetch(url).then(
+  //   function(response) {
+  //     return response.json();
+  //   },
+  // ).then(
+  //   function(resultList) {
+  //     callback(resultList);
+  //   },
+  // );
 }
 
 /**

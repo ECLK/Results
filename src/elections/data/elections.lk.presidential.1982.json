@@ -1,0 +1,8738 @@
+[
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0159", 
+    "timestamp": 378709740.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01K", 
+    "pd_name": "Avissawella", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26648, 
+        "percentage": 50.92
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23481, 
+        "percentage": 44.87
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1687, 
+        "percentage": 3.22
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 238, 
+        "percentage": 0.45
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 70, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 205, 
+        "percentage": 0.39
+      }
+    ], 
+    "summary": {
+      "valid": 52329, 
+      "rejected": 551, 
+      "polled": 52880, 
+      "electors": 62628
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0071", 
+    "timestamp": 378704460.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01C", 
+    "pd_name": "Borella", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21383, 
+        "percentage": 62.93
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10946, 
+        "percentage": 32.22
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1058, 
+        "percentage": 3.11
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 395, 
+        "percentage": 1.16
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 132, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 63, 
+        "percentage": 0.19
+      }
+    ], 
+    "summary": {
+      "valid": 33977, 
+      "rejected": 305, 
+      "polled": 34282, 
+      "electors": 47123
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0182", 
+    "timestamp": 378711120.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01B", 
+    "pd_name": "Colombo Central", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 68346, 
+        "percentage": 72.81
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22061, 
+        "percentage": 23.5
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2121, 
+        "percentage": 2.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 415, 
+        "percentage": 0.44
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 810, 
+        "percentage": 0.86
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 110, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 93863, 
+      "rejected": 740, 
+      "polled": 94603, 
+      "electors": 127452
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0085", 
+    "timestamp": 378705300.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01D", 
+    "pd_name": "Colombo East", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21367, 
+        "percentage": 60.57
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11268, 
+        "percentage": 31.94
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1352, 
+        "percentage": 3.83
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 828, 
+        "percentage": 2.35
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 320, 
+        "percentage": 0.91
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 142, 
+        "percentage": 0.4
+      }
+    ], 
+    "summary": {
+      "valid": 35277, 
+      "rejected": 426, 
+      "polled": 35703, 
+      "electors": 48760
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0112", 
+    "timestamp": 378706920.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01A", 
+    "pd_name": "Colombo North", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 29380, 
+        "percentage": 69.03
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10641, 
+        "percentage": 25.0
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1645, 
+        "percentage": 3.86
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 361, 
+        "percentage": 0.85
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 477, 
+        "percentage": 1.12
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 60, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 42564, 
+      "rejected": 575, 
+      "polled": 43139, 
+      "electors": 57534
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0049", 
+    "timestamp": 378703140.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01E", 
+    "pd_name": "Colombo West", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22115, 
+        "percentage": 77.52
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 4751, 
+        "percentage": 16.65
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 576, 
+        "percentage": 2.02
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 409, 
+        "percentage": 1.43
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 521, 
+        "percentage": 1.83
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 156, 
+        "percentage": 0.55
+      }
+    ], 
+    "summary": {
+      "valid": 28528, 
+      "rejected": 314, 
+      "polled": 28842, 
+      "electors": 40375
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0099", 
+    "timestamp": 378706140.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01F", 
+    "pd_name": "Dehiwala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23730, 
+        "percentage": 60.73
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13194, 
+        "percentage": 33.76
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1139, 
+        "percentage": 2.91
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 695, 
+        "percentage": 1.78
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 201, 
+        "percentage": 0.51
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 117, 
+        "percentage": 0.3
+      }
+    ], 
+    "summary": {
+      "valid": 39076, 
+      "rejected": 406, 
+      "polled": 39482, 
+      "electors": 51622
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0165", 
+    "timestamp": 378710100.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01L", 
+    "pd_name": "Homagama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27981, 
+        "percentage": 51.72
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23135, 
+        "percentage": 42.76
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2140, 
+        "percentage": 3.96
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 591, 
+        "percentage": 1.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 50, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 205, 
+        "percentage": 0.38
+      }
+    ], 
+    "summary": {
+      "valid": 54102, 
+      "rejected": 548, 
+      "polled": 54650, 
+      "electors": 68955
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0175", 
+    "timestamp": 378710700.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01J", 
+    "pd_name": "Kaduwela", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27963, 
+        "percentage": 48.8
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 25275, 
+        "percentage": 44.11
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3338, 
+        "percentage": 5.83
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 569, 
+        "percentage": 0.99
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 33, 
+        "percentage": 0.06
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 119, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 57297, 
+      "rejected": 719, 
+      "polled": 58016, 
+      "electors": 73006
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0171", 
+    "timestamp": 378710460.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01N", 
+    "pd_name": "Kesbewa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25576, 
+        "percentage": 46.16
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 26553, 
+        "percentage": 47.92
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2248, 
+        "percentage": 4.06
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 851, 
+        "percentage": 1.54
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 29, 
+        "percentage": 0.05
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 150, 
+        "percentage": 0.27
+      }
+    ], 
+    "summary": {
+      "valid": 55407, 
+      "rejected": 530, 
+      "polled": 55937, 
+      "electors": 71002
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0144", 
+    "timestamp": 378708840.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01H", 
+    "pd_name": "Kolonnawa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25221, 
+        "percentage": 51.35
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21153, 
+        "percentage": 43.07
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2125, 
+        "percentage": 4.33
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 504, 
+        "percentage": 1.03
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 29, 
+        "percentage": 0.06
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 86, 
+        "percentage": 0.18
+      }
+    ], 
+    "summary": {
+      "valid": 49118, 
+      "rejected": 545, 
+      "polled": 49663, 
+      "electors": 62523
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0110", 
+    "timestamp": 378706800.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01I", 
+    "pd_name": "Kotte", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25129, 
+        "percentage": 59.35
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14814, 
+        "percentage": 34.99
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1731, 
+        "percentage": 4.09
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 527, 
+        "percentage": 1.24
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.08
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 108, 
+        "percentage": 0.26
+      }
+    ], 
+    "summary": {
+      "valid": 42341, 
+      "rejected": 374, 
+      "polled": 42715, 
+      "electors": 59048
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0167", 
+    "timestamp": 378710220.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01M", 
+    "pd_name": "Maharagama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26967, 
+        "percentage": 49.46
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23874, 
+        "percentage": 43.79
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2595, 
+        "percentage": 4.76
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 946, 
+        "percentage": 1.73
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 27, 
+        "percentage": 0.05
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 116, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 54525, 
+      "rejected": 593, 
+      "polled": 55118, 
+      "electors": 71597
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0179", 
+    "timestamp": 378710940.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01O", 
+    "pd_name": "Moratuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 32096, 
+        "percentage": 54.6
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22744, 
+        "percentage": 38.69
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2625, 
+        "percentage": 4.47
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 1137, 
+        "percentage": 1.93
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 43, 
+        "percentage": 0.07
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 137, 
+        "percentage": 0.23
+      }
+    ], 
+    "summary": {
+      "valid": 58782, 
+      "rejected": 707, 
+      "polled": 59489, 
+      "electors": 80297
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0097", 
+    "timestamp": 378706020.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01G", 
+    "pd_name": "Ratmalana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21280, 
+        "percentage": 55.88
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14111, 
+        "percentage": 37.05
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1670, 
+        "percentage": 4.39
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 778, 
+        "percentage": 2.04
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 99, 
+        "percentage": 0.26
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 146, 
+        "percentage": 0.38
+      }
+    ], 
+    "summary": {
+      "valid": 38084, 
+      "rejected": 415, 
+      "polled": 38499, 
+      "electors": 50269
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0026", 
+    "timestamp": 378701760.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "01", 
+    "ed_name": "Colombo", 
+    "pd_code": "01P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 11108, 
+        "percentage": 59.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 6475, 
+        "percentage": 34.51
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 530, 
+        "percentage": 2.83
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 411, 
+        "percentage": 2.19
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 149, 
+        "percentage": 0.79
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 88, 
+        "percentage": 0.47
+      }
+    ], 
+    "summary": {
+      "valid": 18761, 
+      "rejected": 242, 
+      "polled": 19003, 
+      "electors": 19003
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0174", 
+    "timestamp": 378710640.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02G", 
+    "pd_name": "Attanagalla", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22531, 
+        "percentage": 40.0
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 31495, 
+        "percentage": 55.92
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1926, 
+        "percentage": 3.42
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 272, 
+        "percentage": 0.48
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 65, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 56321, 
+      "rejected": 430, 
+      "polled": 56751, 
+      "electors": 67061
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0127", 
+    "timestamp": 378707820.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02L", 
+    "pd_name": "Biyagama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25398, 
+        "percentage": 55.67
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18539, 
+        "percentage": 40.64
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1389, 
+        "percentage": 3.04
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 237, 
+        "percentage": 0.52
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 47, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 13, 
+        "percentage": 0.03
+      }
+    ], 
+    "summary": {
+      "valid": 45623, 
+      "rejected": 410, 
+      "polled": 46033, 
+      "electors": 55457
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0155", 
+    "timestamp": 378709500.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02D", 
+    "pd_name": "Divulapitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25974, 
+        "percentage": 50.63
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23447, 
+        "percentage": 45.7
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1547, 
+        "percentage": 3.02
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 231, 
+        "percentage": 0.45
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 79, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 28, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 51306, 
+      "rejected": 432, 
+      "polled": 51738, 
+      "electors": 61494
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0173", 
+    "timestamp": 378710580.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02K", 
+    "pd_name": "Dompe", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26573, 
+        "percentage": 47.38
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 27508, 
+        "percentage": 49.04
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1670, 
+        "percentage": 2.98
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 247, 
+        "percentage": 0.44
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 57, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 33, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 56088, 
+      "rejected": 519, 
+      "polled": 56607, 
+      "electors": 66207
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0178", 
+    "timestamp": 378710880.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02H", 
+    "pd_name": "Gampaha", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27845, 
+        "percentage": 47.36
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 28532, 
+        "percentage": 48.53
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1942, 
+        "percentage": 3.3
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 336, 
+        "percentage": 0.57
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 101, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 33, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 58789, 
+      "rejected": 517, 
+      "polled": 59306, 
+      "electors": 72371
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0172", 
+    "timestamp": 378710520.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02I", 
+    "pd_name": "Ja-Ela", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 32420, 
+        "percentage": 58.2
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21074, 
+        "percentage": 37.83
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1683, 
+        "percentage": 3.02
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 346, 
+        "percentage": 0.62
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 157, 
+        "percentage": 0.28
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 29, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 55709, 
+      "rejected": 488, 
+      "polled": 56197, 
+      "electors": 69624
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0151", 
+    "timestamp": 378709260.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02C", 
+    "pd_name": "Katana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26504, 
+        "percentage": 52.63
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22027, 
+        "percentage": 43.74
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1356, 
+        "percentage": 2.69
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 334, 
+        "percentage": 0.66
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 104, 
+        "percentage": 0.21
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 36, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 50361, 
+      "rejected": 437, 
+      "polled": 50798, 
+      "electors": 60560
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0132", 
+    "timestamp": 378708120.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02M", 
+    "pd_name": "Kelaniya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24732, 
+        "percentage": 53.33
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19050, 
+        "percentage": 41.08
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2179, 
+        "percentage": 4.7
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 312, 
+        "percentage": 0.67
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 74, 
+        "percentage": 0.16
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 25, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 46372, 
+      "rejected": 480, 
+      "polled": 46852, 
+      "electors": 58671
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0164", 
+    "timestamp": 378710040.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02J", 
+    "pd_name": "Mahara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25853, 
+        "percentage": 48.07
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 25580, 
+        "percentage": 47.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1952, 
+        "percentage": 3.63
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 307, 
+        "percentage": 0.57
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 69, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 17, 
+        "percentage": 0.03
+      }
+    ], 
+    "summary": {
+      "valid": 53778, 
+      "rejected": 418, 
+      "polled": 54196, 
+      "electors": 65660
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0176", 
+    "timestamp": 378710760.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02F", 
+    "pd_name": "Minuwangoda", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 29672, 
+        "percentage": 51.27
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 25849, 
+        "percentage": 44.67
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1992, 
+        "percentage": 3.44
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 260, 
+        "percentage": 0.45
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 70, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 27, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 57870, 
+      "rejected": 399, 
+      "polled": 58269, 
+      "electors": 69566
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0177", 
+    "timestamp": 378710820.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02E", 
+    "pd_name": "Mirigama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 30289, 
+        "percentage": 52.2
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 24143, 
+        "percentage": 41.6
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3186, 
+        "percentage": 5.49
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 316, 
+        "percentage": 0.54
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 67, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 29, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 58030, 
+      "rejected": 478, 
+      "polled": 58508, 
+      "electors": 70695
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0123", 
+    "timestamp": 378707580.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02B", 
+    "pd_name": "Negombo", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 30346, 
+        "percentage": 67.14
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13345, 
+        "percentage": 29.52
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1049, 
+        "percentage": 2.32
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 236, 
+        "percentage": 0.52
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 127, 
+        "percentage": 0.28
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 97, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 45200, 
+      "rejected": 412, 
+      "polled": 45612, 
+      "electors": 59884
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0134", 
+    "timestamp": 378708240.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02A", 
+    "pd_name": "Wattala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 29387, 
+        "percentage": 62.64
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15717, 
+        "percentage": 33.5
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1402, 
+        "percentage": 2.99
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 232, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 59, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 119, 
+        "percentage": 0.25
+      }
+    ], 
+    "summary": {
+      "valid": 46916, 
+      "rejected": 425, 
+      "polled": 47341, 
+      "electors": 58015
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0021", 
+    "timestamp": 378701460.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "02", 
+    "ed_name": "Gampaha", 
+    "pd_code": "02P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 8323, 
+        "percentage": 57.46
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 5502, 
+        "percentage": 37.99
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 428, 
+        "percentage": 2.95
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 169, 
+        "percentage": 1.17
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 46, 
+        "percentage": 0.32
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 16, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 14484, 
+      "rejected": 147, 
+      "polled": 14631, 
+      "electors": 14631
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0156", 
+    "timestamp": 378709560.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03H", 
+    "pd_name": "Agalawatta", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25681, 
+        "percentage": 50.35
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21041, 
+        "percentage": 41.25
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2043, 
+        "percentage": 4.01
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 2079, 
+        "percentage": 4.08
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 79, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 80, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 51003, 
+      "rejected": 944, 
+      "polled": 51947, 
+      "electors": 62890
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0168", 
+    "timestamp": 378710280.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03B", 
+    "pd_name": "Bandaragama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26631, 
+        "percentage": 48.81
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 25500, 
+        "percentage": 46.74
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1583, 
+        "percentage": 2.9
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 730, 
+        "percentage": 1.34
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 81, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 35, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 54560, 
+      "rejected": 628, 
+      "polled": 55188, 
+      "electors": 65013
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0161", 
+    "timestamp": 378709860.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03G", 
+    "pd_name": "Beruwala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27951, 
+        "percentage": 52.94
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22349, 
+        "percentage": 42.33
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1812, 
+        "percentage": 3.43
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 608, 
+        "percentage": 1.15
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 42, 
+        "percentage": 0.08
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 39, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 52801, 
+      "rejected": 544, 
+      "polled": 53345, 
+      "electors": 64357
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0117", 
+    "timestamp": 378707220.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03D", 
+    "pd_name": "Bulathsinhala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21486, 
+        "percentage": 49.74
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20068, 
+        "percentage": 46.46
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 998, 
+        "percentage": 2.31
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 521, 
+        "percentage": 1.21
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 57, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 64, 
+        "percentage": 0.15
+      }
+    ], 
+    "summary": {
+      "valid": 43194, 
+      "rejected": 582, 
+      "polled": 43776, 
+      "electors": 51297
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0160", 
+    "timestamp": 378709800.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03C", 
+    "pd_name": "Horana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27056, 
+        "percentage": 51.51
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23518, 
+        "percentage": 44.77
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1361, 
+        "percentage": 2.59
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 359, 
+        "percentage": 0.68
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 186, 
+        "percentage": 0.35
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 48, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 52528, 
+      "rejected": 459, 
+      "polled": 52987, 
+      "electors": 61356
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0163", 
+    "timestamp": 378709980.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03F", 
+    "pd_name": "Kalutara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26167, 
+        "percentage": 49.07
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22992, 
+        "percentage": 43.12
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2306, 
+        "percentage": 4.32
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 1707, 
+        "percentage": 3.2
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 112, 
+        "percentage": 0.21
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 39, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 53323, 
+      "rejected": 612, 
+      "polled": 53935, 
+      "electors": 64944
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0154", 
+    "timestamp": 378709440.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03E", 
+    "pd_name": "Matugama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24494, 
+        "percentage": 48.46
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23154, 
+        "percentage": 45.81
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2164, 
+        "percentage": 4.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 537, 
+        "percentage": 1.06
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 89, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 107, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 50545, 
+      "rejected": 741, 
+      "polled": 51286, 
+      "electors": 61809
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0169", 
+    "timestamp": 378710340.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03A", 
+    "pd_name": "Panadura", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26648, 
+        "percentage": 48.88
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23861, 
+        "percentage": 43.77
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2011, 
+        "percentage": 3.69
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 1776, 
+        "percentage": 3.26
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 189, 
+        "percentage": 0.35
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 27, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 54512, 
+      "rejected": 677, 
+      "polled": 55189, 
+      "electors": 67549
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0018", 
+    "timestamp": 378701280.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "03", 
+    "ed_name": "Kalutara", 
+    "pd_code": "03P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 5478, 
+        "percentage": 58.12
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3391, 
+        "percentage": 35.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 221, 
+        "percentage": 2.34
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 296, 
+        "percentage": 3.14
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 36, 
+        "percentage": 0.38
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 4, 
+        "percentage": 0.04
+      }
+    ], 
+    "summary": {
+      "valid": 9426, 
+      "rejected": 103, 
+      "polled": 9529, 
+      "electors": 9529
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0059", 
+    "timestamp": 378703740.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04A", 
+    "pd_name": "Galagedara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17778, 
+        "percentage": 57.56
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11874, 
+        "percentage": 38.44
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1092, 
+        "percentage": 3.54
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 98, 
+        "percentage": 0.32
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 28, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 18, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 30888, 
+      "rejected": 214, 
+      "polled": 31102, 
+      "electors": 35940
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0111", 
+    "timestamp": 378706860.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04L", 
+    "pd_name": "Gampola", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26380, 
+        "percentage": 62.01
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15340, 
+        "percentage": 36.06
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 528, 
+        "percentage": 1.24
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 188, 
+        "percentage": 0.44
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 45, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 60, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 42541, 
+      "rejected": 394, 
+      "polled": 42935, 
+      "electors": 50563
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0180", 
+    "timestamp": 378711000.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04B", 
+    "pd_name": "Harispattuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 43186, 
+        "percentage": 61.5
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23301, 
+        "percentage": 33.18
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3374, 
+        "percentage": 4.8
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 230, 
+        "percentage": 0.33
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 91, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 42, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 70224, 
+      "rejected": 605, 
+      "polled": 70829, 
+      "electors": 82590
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0067", 
+    "timestamp": 378704220.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04G", 
+    "pd_name": "Hewaheta", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20296, 
+        "percentage": 61.06
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12286, 
+        "percentage": 36.96
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 419, 
+        "percentage": 1.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 165, 
+        "percentage": 0.5
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 31, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 43, 
+        "percentage": 0.13
+      }
+    ], 
+    "summary": {
+      "valid": 33240, 
+      "rejected": 414, 
+      "polled": 33654, 
+      "electors": 38947
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0034", 
+    "timestamp": 378702240.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04I", 
+    "pd_name": "Mahanuwara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15729, 
+        "percentage": 68.6
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 6498, 
+        "percentage": 28.34
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 408, 
+        "percentage": 1.78
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 149, 
+        "percentage": 0.65
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 82, 
+        "percentage": 0.36
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 64, 
+        "percentage": 0.28
+      }
+    ], 
+    "summary": {
+      "valid": 22930, 
+      "rejected": 203, 
+      "polled": 23133, 
+      "electors": 29751
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0080", 
+    "timestamp": 378705000.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04F", 
+    "pd_name": "Kundasale", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20421, 
+        "percentage": 58.78
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12898, 
+        "percentage": 37.12
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1138, 
+        "percentage": 3.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 180, 
+        "percentage": 0.52
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 46, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 60, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 34743, 
+      "rejected": 355, 
+      "polled": 35098, 
+      "electors": 41314
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0100", 
+    "timestamp": 378706200.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04M", 
+    "pd_name": "Nawalapitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24586, 
+        "percentage": 62.32
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13512, 
+        "percentage": 34.25
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 961, 
+        "percentage": 2.44
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 264, 
+        "percentage": 0.67
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 66, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 64, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 39453, 
+      "rejected": 411, 
+      "polled": 39864, 
+      "electors": 47445
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0081", 
+    "timestamp": 378705060.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04C", 
+    "pd_name": "Pathadumbara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22158, 
+        "percentage": 63.56
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11783, 
+        "percentage": 33.8
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 669, 
+        "percentage": 1.92
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 161, 
+        "percentage": 0.46
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 54, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 37, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 34862, 
+      "rejected": 382, 
+      "polled": 35244, 
+      "electors": 41888
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0074", 
+    "timestamp": 378704640.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04H", 
+    "pd_name": "Senkadagala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20105, 
+        "percentage": 58.67
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13219, 
+        "percentage": 38.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 621, 
+        "percentage": 1.81
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 199, 
+        "percentage": 0.58
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 93, 
+        "percentage": 0.27
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 34269, 
+      "rejected": 277, 
+      "polled": 34546, 
+      "electors": 43442
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0043", 
+    "timestamp": 378702780.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04E", 
+    "pd_name": "Teldeniya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 13258, 
+        "percentage": 49.08
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12747, 
+        "percentage": 47.19
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 821, 
+        "percentage": 3.04
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 100, 
+        "percentage": 0.37
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 30, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 56, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 27012, 
+      "rejected": 267, 
+      "polled": 27279, 
+      "electors": 3145
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0047", 
+    "timestamp": 378703020.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04D", 
+    "pd_name": "Ududumbara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15284, 
+        "percentage": 54.14
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12242, 
+        "percentage": 43.37
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 456, 
+        "percentage": 1.62
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 157, 
+        "percentage": 0.56
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 51, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 38, 
+        "percentage": 0.13
+      }
+    ], 
+    "summary": {
+      "valid": 28228, 
+      "rejected": 358, 
+      "polled": 28586, 
+      "electors": 31788
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0089", 
+    "timestamp": 378705540.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04K", 
+    "pd_name": "Udunuwara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23440, 
+        "percentage": 64.02
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12100, 
+        "percentage": 33.05
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 852, 
+        "percentage": 2.33
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 150, 
+        "percentage": 0.41
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 47, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 27, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 36616, 
+      "rejected": 246, 
+      "polled": 36862, 
+      "electors": 43223
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0102", 
+    "timestamp": 378706320.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04J", 
+    "pd_name": "Yatinuwara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20848, 
+        "percentage": 52.66
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17596, 
+        "percentage": 44.45
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 964, 
+        "percentage": 2.43
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 131, 
+        "percentage": 0.33
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 36, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 15, 
+        "percentage": 0.04
+      }
+    ], 
+    "summary": {
+      "valid": 39590, 
+      "rejected": 325, 
+      "polled": 39915, 
+      "electors": 46731
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0020", 
+    "timestamp": 378701400.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "04", 
+    "ed_name": "Mahanuwara", 
+    "pd_code": "04P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 6152, 
+        "percentage": 63.42
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3251, 
+        "percentage": 33.51
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 190, 
+        "percentage": 1.96
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 84, 
+        "percentage": 0.87
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 18, 
+        "percentage": 0.19
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 6, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 9701, 
+      "rejected": 97, 
+      "polled": 9798, 
+      "electors": 9798
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0158", 
+    "timestamp": 378709680.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "05", 
+    "ed_name": "Matale", 
+    "pd_code": "05A", 
+    "pd_name": "Dambulla", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27368, 
+        "percentage": 52.62
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21748, 
+        "percentage": 41.81
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2501, 
+        "percentage": 4.81
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 309, 
+        "percentage": 0.59
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 46, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 40, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 52012, 
+      "rejected": 385, 
+      "polled": 52397, 
+      "electors": 60536
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0060", 
+    "timestamp": 378703800.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "05", 
+    "ed_name": "Matale", 
+    "pd_code": "05B", 
+    "pd_name": "Laggala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17354, 
+        "percentage": 56.18
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12149, 
+        "percentage": 39.33
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1158, 
+        "percentage": 3.75
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 155, 
+        "percentage": 0.5
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 39, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 34, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 30889, 
+      "rejected": 272, 
+      "polled": 31161, 
+      "electors": 35129
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0088", 
+    "timestamp": 378705480.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "05", 
+    "ed_name": "Matale", 
+    "pd_code": "05C", 
+    "pd_name": "Matale", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22452, 
+        "percentage": 62.77
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11632, 
+        "percentage": 32.52
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1400, 
+        "percentage": 3.91
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 153, 
+        "percentage": 0.43
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 85, 
+        "percentage": 0.24
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 49, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 35771, 
+      "rejected": 332, 
+      "polled": 36103, 
+      "electors": 43705
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0106", 
+    "timestamp": 378706560.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "05", 
+    "ed_name": "Matale", 
+    "pd_code": "05D", 
+    "pd_name": "Rattota", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25183, 
+        "percentage": 62.06
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12982, 
+        "percentage": 31.99
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2033, 
+        "percentage": 5.01
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 239, 
+        "percentage": 0.59
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 82, 
+        "percentage": 0.2
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 61, 
+        "percentage": 0.15
+      }
+    ], 
+    "summary": {
+      "valid": 40580, 
+      "rejected": 396, 
+      "polled": 40976, 
+      "electors": 47906
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0009", 
+    "timestamp": 378700740.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "05", 
+    "ed_name": "Matale", 
+    "pd_code": "05P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 1674, 
+        "percentage": 65.34
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 788, 
+        "percentage": 30.76
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 77, 
+        "percentage": 3.01
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 10, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1, 
+        "percentage": 0.04
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 12, 
+        "percentage": 0.47
+      }
+    ], 
+    "summary": {
+      "valid": 2562, 
+      "rejected": 29, 
+      "polled": 2591, 
+      "electors": 2591
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0077", 
+    "timestamp": 378704820.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "06", 
+    "ed_name": "Nuwara-Eliya", 
+    "pd_code": "06C", 
+    "pd_name": "Hanguranketha", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20672, 
+        "percentage": 60.1
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12414, 
+        "percentage": 36.09
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 983, 
+        "percentage": 2.86
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 202, 
+        "percentage": 0.59
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 50, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 77, 
+        "percentage": 0.22
+      }
+    ], 
+    "summary": {
+      "valid": 34398, 
+      "rejected": 368, 
+      "polled": 34766, 
+      "electors": 39853
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0064", 
+    "timestamp": 378704040.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "06", 
+    "ed_name": "Nuwara-Eliya", 
+    "pd_code": "06B", 
+    "pd_name": "Kotmale", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18684, 
+        "percentage": 59.19
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12036, 
+        "percentage": 38.13
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 616, 
+        "percentage": 1.95
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 146, 
+        "percentage": 0.46
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 51, 
+        "percentage": 0.16
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 32, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 31565, 
+      "rejected": 320, 
+      "polled": 31885, 
+      "electors": 37124
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0181", 
+    "timestamp": 378711060.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "06", 
+    "ed_name": "Nuwara-Eliya", 
+    "pd_code": "06A", 
+    "pd_name": "Nuwara Eliya-Maskeliya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 49414, 
+        "percentage": 69.59
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18543, 
+        "percentage": 26.11
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1892, 
+        "percentage": 2.66
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 632, 
+        "percentage": 0.89
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 380, 
+        "percentage": 0.54
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 145, 
+        "percentage": 0.2
+      }
+    ], 
+    "summary": {
+      "valid": 71006, 
+      "rejected": 950, 
+      "polled": 71956, 
+      "electors": 86487
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0069", 
+    "timestamp": 378704340.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "06", 
+    "ed_name": "Nuwara-Eliya", 
+    "pd_code": "06D", 
+    "pd_name": "Walapane", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18957, 
+        "percentage": 56.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13391, 
+        "percentage": 39.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1023, 
+        "percentage": 3.03
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 208, 
+        "percentage": 0.62
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 74, 
+        "percentage": 0.22
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 70, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 33723, 
+      "rejected": 397, 
+      "polled": 34120, 
+      "electors": 38414
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0007", 
+    "timestamp": 378700620.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "06", 
+    "ed_name": "Nuwara-Eliya", 
+    "pd_code": "06P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 1290, 
+        "percentage": 62.11
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 709, 
+        "percentage": 34.14
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 55, 
+        "percentage": 2.65
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 13, 
+        "percentage": 0.63
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 3, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 7, 
+        "percentage": 0.34
+      }
+    ], 
+    "summary": {
+      "valid": 2077, 
+      "rejected": 13, 
+      "polled": 2090, 
+      "electors": 2090
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0109", 
+    "timestamp": 378706740.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07I", 
+    "pd_name": "Akmeemana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20269, 
+        "percentage": 48.51
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19623, 
+        "percentage": 46.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1533, 
+        "percentage": 3.67
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 188, 
+        "percentage": 0.45
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 135, 
+        "percentage": 0.32
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 41780, 
+      "rejected": 389, 
+      "polled": 42169, 
+      "electors": 51073
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0091", 
+    "timestamp": 378705660.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07B", 
+    "pd_name": "Ambalangoda", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17784, 
+        "percentage": 48.22
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 16225, 
+        "percentage": 43.99
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2271, 
+        "percentage": 6.16
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 515, 
+        "percentage": 1.4
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 64, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 22, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 36881, 
+      "rejected": 474, 
+      "polled": 37355, 
+      "electors": 45086
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0141", 
+    "timestamp": 378708660.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07F", 
+    "pd_name": "Baddegama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22301, 
+        "percentage": 45.92
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 23689, 
+        "percentage": 48.78
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1981, 
+        "percentage": 4.08
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 381, 
+        "percentage": 0.78
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 129, 
+        "percentage": 0.27
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 79, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 48560, 
+      "rejected": 540, 
+      "polled": 49100, 
+      "electors": 59040
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0052", 
+    "timestamp": 378703320.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07A", 
+    "pd_name": "Balapitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 14949, 
+        "percentage": 52.38
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9295, 
+        "percentage": 32.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1178, 
+        "percentage": 4.13
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 3060, 
+        "percentage": 10.72
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 45, 
+        "percentage": 0.16
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 14, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 28541, 
+      "rejected": 546, 
+      "polled": 29087, 
+      "electors": 37444
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0139", 
+    "timestamp": 378708540.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07D", 
+    "pd_name": "Bentara-Elpitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23668, 
+        "percentage": 49.33
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21805, 
+        "percentage": 45.45
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2106, 
+        "percentage": 4.39
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 294, 
+        "percentage": 0.61
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 69, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 36, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 47978, 
+      "rejected": 686, 
+      "polled": 48664, 
+      "electors": 58596
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0096", 
+    "timestamp": 378705960.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07H", 
+    "pd_name": "Galle", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23785, 
+        "percentage": 62.57
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11508, 
+        "percentage": 30.27
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2279, 
+        "percentage": 6.0
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 255, 
+        "percentage": 0.67
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 125, 
+        "percentage": 0.33
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 63, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 38015, 
+      "rejected": 389, 
+      "polled": 38404, 
+      "electors": 51574
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0119", 
+    "timestamp": 378707340.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07J", 
+    "pd_name": "Habaraduwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18960, 
+        "percentage": 42.97
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22600, 
+        "percentage": 51.22
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2239, 
+        "percentage": 5.07
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 180, 
+        "percentage": 0.41
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 113, 
+        "percentage": 0.26
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 34, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 44126, 
+      "rejected": 361, 
+      "polled": 44487, 
+      "electors": 56053
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0143", 
+    "timestamp": 378708780.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07E", 
+    "pd_name": "Hiniduma", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27209, 
+        "percentage": 55.73
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19649, 
+        "percentage": 40.25
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1629, 
+        "percentage": 3.34
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 210, 
+        "percentage": 0.43
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 64, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 60, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 48821, 
+      "rejected": 605, 
+      "polled": 49426, 
+      "electors": 57075
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0066", 
+    "timestamp": 378704160.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07C", 
+    "pd_name": "Karandeniya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17060, 
+        "percentage": 51.57
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12732, 
+        "percentage": 38.48
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3026, 
+        "percentage": 9.15
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 181, 
+        "percentage": 0.55
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 40, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 45, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 33084, 
+      "rejected": 367, 
+      "polled": 33451, 
+      "electors": 41355
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0125", 
+    "timestamp": 378707700.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07G", 
+    "pd_name": "Ratgama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20801, 
+        "percentage": 46.2
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20798, 
+        "percentage": 46.19
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2409, 
+        "percentage": 5.35
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 907, 
+        "percentage": 2.01
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 71, 
+        "percentage": 0.16
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 39, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 45025, 
+      "rejected": 748, 
+      "polled": 45773, 
+      "electors": 55193
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0017", 
+    "timestamp": 378701220.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "07", 
+    "ed_name": "Galle", 
+    "pd_code": "07P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 4758, 
+        "percentage": 57.14
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3001, 
+        "percentage": 36.04
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 311, 
+        "percentage": 3.73
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 220, 
+        "percentage": 2.64
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 36, 
+        "percentage": 0.43
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1, 
+        "percentage": 0.01
+      }
+    ], 
+    "summary": {
+      "valid": 8327, 
+      "rejected": 93, 
+      "polled": 8420, 
+      "electors": 8420
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0126", 
+    "timestamp": 378707760.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "09", 
+    "ed_name": "Hambantota", 
+    "pd_code": "09B", 
+    "pd_name": "Beliatta", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21056, 
+        "percentage": 46.25
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18150, 
+        "percentage": 39.86
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 5957, 
+        "percentage": 13.08
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 227, 
+        "percentage": 0.5
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 78, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 63, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 45531, 
+      "rejected": 378, 
+      "polled": 45909, 
+      "electors": 56254
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0122", 
+    "timestamp": 378707520.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "09", 
+    "ed_name": "Hambantota", 
+    "pd_code": "09A", 
+    "pd_name": "Mulkirigala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18964, 
+        "percentage": 42.15
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19605, 
+        "percentage": 43.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 5966, 
+        "percentage": 13.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 247, 
+        "percentage": 0.55
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 114, 
+        "percentage": 0.25
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 97, 
+        "percentage": 0.22
+      }
+    ], 
+    "summary": {
+      "valid": 44993, 
+      "rejected": 484, 
+      "polled": 45477, 
+      "electors": 57491
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0148", 
+    "timestamp": 378709080.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "09", 
+    "ed_name": "Hambantota", 
+    "pd_code": "09C", 
+    "pd_name": "Tangalle", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23196, 
+        "percentage": 46.64
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17253, 
+        "percentage": 34.69
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 8966, 
+        "percentage": 18.03
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 183, 
+        "percentage": 0.37
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 78, 
+        "percentage": 0.16
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 57, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 49733, 
+      "rejected": 397, 
+      "polled": 50130, 
+      "electors": 58690
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0166", 
+    "timestamp": 378710160.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "09", 
+    "ed_name": "Hambantota", 
+    "pd_code": "09D", 
+    "pd_name": "Tissamaharama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25656, 
+        "percentage": 47.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20624, 
+        "percentage": 37.95
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 7724, 
+        "percentage": 14.21
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 212, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 65, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 58, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 54339, 
+      "rejected": 523, 
+      "polled": 54862, 
+      "electors": 69521
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0010", 
+    "timestamp": 378700800.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "09", 
+    "ed_name": "Hambantota", 
+    "pd_code": "09P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 1673, 
+        "percentage": 62.38
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 770, 
+        "percentage": 28.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 222, 
+        "percentage": 8.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 8, 
+        "percentage": 0.3
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 9, 
+        "percentage": 0.34
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 0, 
+        "percentage": 0.0
+      }
+    ], 
+    "summary": {
+      "valid": 2682, 
+      "rejected": 22, 
+      "polled": 2704, 
+      "electors": 2704
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0150", 
+    "timestamp": 378709200.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08C", 
+    "pd_name": "Akuressa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24667, 
+        "percentage": 49.08
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20389, 
+        "percentage": 40.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 4781, 
+        "percentage": 9.51
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 246, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 70, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 108, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 50261, 
+      "rejected": 421, 
+      "polled": 50682, 
+      "electors": 59798
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0113", 
+    "timestamp": 378706980.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08A", 
+    "pd_name": "Deniyaya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22457, 
+        "percentage": 52.41
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18147, 
+        "percentage": 42.36
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1886, 
+        "percentage": 4.4
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 220, 
+        "percentage": 0.51
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 63, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 72, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 42845, 
+      "rejected": 428, 
+      "polled": 43273, 
+      "electors": 49817
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0128", 
+    "timestamp": 378707880.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08E", 
+    "pd_name": "Devinuwara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22605, 
+        "percentage": 49.59
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17757, 
+        "percentage": 38.96
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 4874, 
+        "percentage": 10.69
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 246, 
+        "percentage": 0.54
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 52, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 49, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 45583, 
+      "rejected": 457, 
+      "polled": 46040, 
+      "electors": 56693
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0138", 
+    "timestamp": 378708480.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08B", 
+    "pd_name": "Hakmana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22146, 
+        "percentage": 45.95
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22984, 
+        "percentage": 47.68
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2711, 
+        "percentage": 5.62
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 228, 
+        "percentage": 0.47
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 71, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 61, 
+        "percentage": 0.13
+      }
+    ], 
+    "summary": {
+      "valid": 48201, 
+      "rejected": 420, 
+      "polled": 48621, 
+      "electors": 57203
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0129", 
+    "timestamp": 378707940.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08D", 
+    "pd_name": "Kamburupitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20549, 
+        "percentage": 45.05
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21408, 
+        "percentage": 46.93
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3267, 
+        "percentage": 7.16
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 229, 
+        "percentage": 0.5
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 78, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 83, 
+        "percentage": 0.18
+      }
+    ], 
+    "summary": {
+      "valid": 45614, 
+      "rejected": 437, 
+      "polled": 46051, 
+      "electors": 57400
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0121", 
+    "timestamp": 378707460.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08F", 
+    "pd_name": "Matara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23221, 
+        "percentage": 51.76
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19333, 
+        "percentage": 43.09
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2067, 
+        "percentage": 4.61
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 156, 
+        "percentage": 0.35
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 67, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 22, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 44866, 
+      "rejected": 408, 
+      "polled": 45274, 
+      "electors": 56252
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0149", 
+    "timestamp": 378709140.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08G", 
+    "pd_name": "Weligama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25051, 
+        "percentage": 50.13
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 22282, 
+        "percentage": 44.59
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2276, 
+        "percentage": 4.55
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 198, 
+        "percentage": 0.4
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 90, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 78, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 49975, 
+      "rejected": 451, 
+      "polled": 50426, 
+      "electors": 62725
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0016", 
+    "timestamp": 378701160.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "08", 
+    "ed_name": "Matara", 
+    "pd_code": "08P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 4029, 
+        "percentage": 60.7
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 2287, 
+        "percentage": 34.45
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 255, 
+        "percentage": 3.84
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 48, 
+        "percentage": 0.72
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 18, 
+        "percentage": 0.27
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1, 
+        "percentage": 0.02
+      }
+    ], 
+    "summary": {
+      "valid": 6638, 
+      "rejected": 69, 
+      "polled": 6707, 
+      "electors": 6707
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0031", 
+    "timestamp": 378702060.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10H", 
+    "pd_name": "Chavakachcheri", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 9742, 
+        "percentage": 48.12
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 6128, 
+        "percentage": 30.27
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3629, 
+        "percentage": 17.92
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 419, 
+        "percentage": 2.07
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 204, 
+        "percentage": 1.01
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 125, 
+        "percentage": 0.62
+      }
+    ], 
+    "summary": {
+      "valid": 20247, 
+      "rejected": 1205, 
+      "polled": 21452, 
+      "electors": 44597
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0029", 
+    "timestamp": 378701940.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10J", 
+    "pd_name": "Jaffna", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 9319, 
+        "percentage": 47.81
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3258, 
+        "percentage": 16.71
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 6419, 
+        "percentage": 32.93
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 134, 
+        "percentage": 0.69
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 176, 
+        "percentage": 0.9
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 186, 
+        "percentage": 0.95
+      }
+    ], 
+    "summary": {
+      "valid": 19502, 
+      "rejected": 711, 
+      "polled": 20213, 
+      "electors": 42296
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0030", 
+    "timestamp": 378702000.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10C", 
+    "pd_name": "Kankesanthurai", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 6065, 
+        "percentage": 30.03
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9523, 
+        "percentage": 47.16
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3771, 
+        "percentage": 18.67
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 310, 
+        "percentage": 1.54
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 341, 
+        "percentage": 1.69
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 184, 
+        "percentage": 0.91
+      }
+    ], 
+    "summary": {
+      "valid": 20194, 
+      "rejected": 1078, 
+      "polled": 21272, 
+      "electors": 51681
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0023", 
+    "timestamp": 378701580.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10A", 
+    "pd_name": "Kayts", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 8353, 
+        "percentage": 51.6
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3393, 
+        "percentage": 20.96
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 4067, 
+        "percentage": 25.13
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 157, 
+        "percentage": 0.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 119, 
+        "percentage": 0.74
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 98, 
+        "percentage": 0.61
+      }
+    ], 
+    "summary": {
+      "valid": 16187, 
+      "rejected": 943, 
+      "polled": 17130, 
+      "electors": 42563
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0027", 
+    "timestamp": 378701820.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10K", 
+    "pd_name": "Kilinochchi", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 9822, 
+        "percentage": 54.3
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 4188, 
+        "percentage": 23.15
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3616, 
+        "percentage": 19.99
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 171, 
+        "percentage": 0.95
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 188, 
+        "percentage": 1.04
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 102, 
+        "percentage": 0.56
+      }
+    ], 
+    "summary": {
+      "valid": 18087, 
+      "rejected": 1012, 
+      "polled": 19099, 
+      "electors": 39773
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0038", 
+    "timestamp": 378702480.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10E", 
+    "pd_name": "Kopay", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 4984, 
+        "percentage": 21.49
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13678, 
+        "percentage": 58.98
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3546, 
+        "percentage": 15.29
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 423, 
+        "percentage": 1.82
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 379, 
+        "percentage": 1.63
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 182, 
+        "percentage": 0.78
+      }
+    ], 
+    "summary": {
+      "valid": 23282, 
+      "rejected": 1023, 
+      "polled": 24305, 
+      "electors": 49577
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0036", 
+    "timestamp": 378702360.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10D", 
+    "pd_name": "Manipay", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 7514, 
+        "percentage": 33.66
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9008, 
+        "percentage": 40.35
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 4463, 
+        "percentage": 19.99
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 483, 
+        "percentage": 2.16
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 559, 
+        "percentage": 2.5
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 298, 
+        "percentage": 1.33
+      }
+    ], 
+    "summary": {
+      "valid": 22330, 
+      "rejected": 1069, 
+      "polled": 23399, 
+      "electors": 48930
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0028", 
+    "timestamp": 378701880.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10I", 
+    "pd_name": "Nallur", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 8979, 
+        "percentage": 47.36
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 4330, 
+        "percentage": 22.84
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 4831, 
+        "percentage": 25.48
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 332, 
+        "percentage": 1.75
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 244, 
+        "percentage": 1.29
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 243, 
+        "percentage": 1.28
+      }
+    ], 
+    "summary": {
+      "valid": 18959, 
+      "rejected": 894, 
+      "polled": 19853, 
+      "electors": 49233
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0022", 
+    "timestamp": 378701520.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10G", 
+    "pd_name": "Point Pedro", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 5367, 
+        "percentage": 34.7
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 6348, 
+        "percentage": 41.04
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3198, 
+        "percentage": 20.67
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 217, 
+        "percentage": 1.4
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 189, 
+        "percentage": 1.22
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 150, 
+        "percentage": 0.97
+      }
+    ], 
+    "summary": {
+      "valid": 15469, 
+      "rejected": 585, 
+      "polled": 16054, 
+      "electors": 34859
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0025", 
+    "timestamp": 378701700.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10F", 
+    "pd_name": "Udupiddy", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 5779, 
+        "percentage": 33.99
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8155, 
+        "percentage": 47.97
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 2282, 
+        "percentage": 13.42
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 353, 
+        "percentage": 2.08
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 208, 
+        "percentage": 1.22
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 224, 
+        "percentage": 1.32
+      }
+    ], 
+    "summary": {
+      "valid": 17001, 
+      "rejected": 816, 
+      "polled": 17817, 
+      "electors": 43990
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0035", 
+    "timestamp": 378702300.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10B", 
+    "pd_name": "Vaddukoddai", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 9741, 
+        "percentage": 44.07
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 7770, 
+        "percentage": 35.15
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 3700, 
+        "percentage": 16.74
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 257, 
+        "percentage": 1.16
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 380, 
+        "percentage": 1.72
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 255, 
+        "percentage": 1.15
+      }
+    ], 
+    "summary": {
+      "valid": 22103, 
+      "rejected": 1076, 
+      "polled": 23179, 
+      "electors": 46206
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0014", 
+    "timestamp": 378701040.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "10", 
+    "ed_name": "Jaffna", 
+    "pd_code": "10P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "ACTC", 
+        "votes": 1598, 
+        "percentage": 34.42
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 1431, 
+        "percentage": 30.83
+      }, 
+      {
+        "party_code": "UNP", 
+        "votes": 1253, 
+        "percentage": 26.99
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 120, 
+        "percentage": 2.59
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 111, 
+        "percentage": 2.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 129, 
+        "percentage": 2.78
+      }
+    ], 
+    "summary": {
+      "valid": 4642, 
+      "rejected": 198, 
+      "polled": 4840, 
+      "electors": 4840
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0045", 
+    "timestamp": 378702900.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "11", 
+    "ed_name": "Vanni", 
+    "pd_code": "11A", 
+    "pd_name": "Mannar", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17008, 
+        "percentage": 61.84
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8039, 
+        "percentage": 29.23
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1891, 
+        "percentage": 6.88
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 279, 
+        "percentage": 1.01
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 174, 
+        "percentage": 0.63
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 111, 
+        "percentage": 0.4
+      }
+    ], 
+    "summary": {
+      "valid": 27502, 
+      "rejected": 486, 
+      "polled": 27988, 
+      "electors": 40965
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0024", 
+    "timestamp": 378701640.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "11", 
+    "ed_name": "Vanni", 
+    "pd_code": "11C", 
+    "pd_name": "Mullaitivu", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 3678, 
+        "percentage": 22.65
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 5471, 
+        "percentage": 33.69
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 6654, 
+        "percentage": 40.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 204, 
+        "percentage": 1.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 150, 
+        "percentage": 0.92
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 84, 
+        "percentage": 0.52
+      }
+    ], 
+    "summary": {
+      "valid": 16241, 
+      "rejected": 971, 
+      "polled": 17212, 
+      "electors": 34472
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0042", 
+    "timestamp": 378702720.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "11", 
+    "ed_name": "Vanni", 
+    "pd_code": "11B", 
+    "pd_name": "Vavuniya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 11720, 
+        "percentage": 45.26
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9385, 
+        "percentage": 36.24
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 2689, 
+        "percentage": 10.38
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1764, 
+        "percentage": 6.81
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 252, 
+        "percentage": 0.97
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 87, 
+        "percentage": 0.34
+      }
+    ], 
+    "summary": {
+      "valid": 25897, 
+      "rejected": 947, 
+      "polled": 26844, 
+      "electors": 43656
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0001", 
+    "timestamp": 378700260.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "11", 
+    "ed_name": "Vanni", 
+    "pd_code": "11P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 428, 
+        "percentage": 38.94
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 326, 
+        "percentage": 29.66
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 287, 
+        "percentage": 26.11
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 39, 
+        "percentage": 3.55
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 8, 
+        "percentage": 0.73
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 11, 
+        "percentage": 1.0
+      }
+    ], 
+    "summary": {
+      "valid": 1099, 
+      "rejected": 43, 
+      "polled": 1142, 
+      "electors": 1142
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0170", 
+    "timestamp": 378710400.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "12", 
+    "ed_name": "Batticaloa", 
+    "pd_code": "12B", 
+    "pd_name": "Batticaloa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24220, 
+        "percentage": 44.26
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 19338, 
+        "percentage": 35.34
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9922, 
+        "percentage": 18.13
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 438, 
+        "percentage": 0.8
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 580, 
+        "percentage": 1.06
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 229, 
+        "percentage": 0.42
+      }
+    ], 
+    "summary": {
+      "valid": 54727, 
+      "rejected": 1120, 
+      "polled": 55847, 
+      "electors": 80394
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0058", 
+    "timestamp": 378703680.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "12", 
+    "ed_name": "Batticaloa", 
+    "pd_code": "12A", 
+    "pd_name": "Kalkudah", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15950, 
+        "percentage": 53.32
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 5250, 
+        "percentage": 17.55
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 7994, 
+        "percentage": 26.73
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 304, 
+        "percentage": 1.02
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 258, 
+        "percentage": 0.86
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 155, 
+        "percentage": 0.52
+      }
+    ], 
+    "summary": {
+      "valid": 29911, 
+      "rejected": 880, 
+      "polled": 30791, 
+      "electors": 46195
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0073", 
+    "timestamp": 378704580.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "12", 
+    "ed_name": "Batticaloa", 
+    "pd_code": "12C", 
+    "pd_name": "Paddiruppu", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 7129, 
+        "percentage": 21.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 21918, 
+        "percentage": 65.02
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 3485, 
+        "percentage": 10.34
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 531, 
+        "percentage": 1.58
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 415, 
+        "percentage": 1.23
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 230, 
+        "percentage": 0.68
+      }
+    ], 
+    "summary": {
+      "valid": 33708, 
+      "rejected": 813, 
+      "polled": 34521, 
+      "electors": 45891
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0006", 
+    "timestamp": 378700560.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "12", 
+    "ed_name": "Batticaloa", 
+    "pd_code": "12P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 795, 
+        "percentage": 45.95
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 589, 
+        "percentage": 34.05
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 287, 
+        "percentage": 16.59
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 21, 
+        "percentage": 1.21
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 34, 
+        "percentage": 1.97
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 4, 
+        "percentage": 0.23
+      }
+    ], 
+    "summary": {
+      "valid": 1730, 
+      "rejected": 66, 
+      "polled": 1796, 
+      "electors": 1796
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0162", 
+    "timestamp": 378709920.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "13", 
+    "ed_name": "Digamadulla", 
+    "pd_code": "13A", 
+    "pd_name": "Ampara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 29049, 
+        "percentage": 54.71
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20552, 
+        "percentage": 38.71
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 96, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3039, 
+        "percentage": 5.72
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 278, 
+        "percentage": 0.52
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 85, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 53099, 
+      "rejected": 486, 
+      "polled": 53585, 
+      "electors": 64740
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0051", 
+    "timestamp": 378703260.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "13", 
+    "ed_name": "Digamadulla", 
+    "pd_code": "13C", 
+    "pd_name": "Kalmunai", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18347, 
+        "percentage": 64.15
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8197, 
+        "percentage": 28.66
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 926, 
+        "percentage": 3.24
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 861, 
+        "percentage": 3.01
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 153, 
+        "percentage": 0.53
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 115, 
+        "percentage": 0.4
+      }
+    ], 
+    "summary": {
+      "valid": 28599, 
+      "rejected": 449, 
+      "polled": 29048, 
+      "electors": 37509
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0146", 
+    "timestamp": 378708960.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "13", 
+    "ed_name": "Digamadulla", 
+    "pd_code": "13D", 
+    "pd_name": "Pottuvil", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23286, 
+        "percentage": 47.29
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17265, 
+        "percentage": 35.06
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 5748, 
+        "percentage": 11.67
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2518, 
+        "percentage": 5.11
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 304, 
+        "percentage": 0.62
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 119, 
+        "percentage": 0.24
+      }
+    ], 
+    "summary": {
+      "valid": 49240, 
+      "rejected": 778, 
+      "polled": 50018, 
+      "electors": 66037
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0050", 
+    "timestamp": 378703200.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "13", 
+    "ed_name": "Digamadulla", 
+    "pd_code": "13B", 
+    "pd_name": "Sammanthurai", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 19079, 
+        "percentage": 67.0
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 6710, 
+        "percentage": 23.56
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1214, 
+        "percentage": 4.26
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1197, 
+        "percentage": 4.2
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 221, 
+        "percentage": 0.78
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 55, 
+        "percentage": 0.19
+      }
+    ], 
+    "summary": {
+      "valid": 28476, 
+      "rejected": 374, 
+      "polled": 28850, 
+      "electors": 35982
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0005", 
+    "timestamp": 378700500.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "13", 
+    "ed_name": "Digamadulla", 
+    "pd_code": "13P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 1011, 
+        "percentage": 64.97
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 372, 
+        "percentage": 23.91
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 95, 
+        "percentage": 6.11
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 64, 
+        "percentage": 4.11
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 11, 
+        "percentage": 0.71
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 3, 
+        "percentage": 0.19
+      }
+    ], 
+    "summary": {
+      "valid": 1556, 
+      "rejected": 14, 
+      "polled": 1570, 
+      "electors": 1570
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0062", 
+    "timestamp": 378703920.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "14", 
+    "ed_name": "Trincomalee", 
+    "pd_code": "14C", 
+    "pd_name": "Mutur", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 14529, 
+        "percentage": 46.85
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12900, 
+        "percentage": 41.6
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 2760, 
+        "percentage": 8.9
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 509, 
+        "percentage": 1.64
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 228, 
+        "percentage": 0.74
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 83, 
+        "percentage": 0.27
+      }
+    ], 
+    "summary": {
+      "valid": 31009, 
+      "rejected": 536, 
+      "polled": 31545, 
+      "electors": 40422
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0078", 
+    "timestamp": 378704880.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "14", 
+    "ed_name": "Trincomalee", 
+    "pd_code": "14A", 
+    "pd_name": "Seruvila", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15823, 
+        "percentage": 45.92
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13097, 
+        "percentage": 38.01
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 1708, 
+        "percentage": 4.96
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3536, 
+        "percentage": 10.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 211, 
+        "percentage": 0.61
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 80, 
+        "percentage": 0.23
+      }
+    ], 
+    "summary": {
+      "valid": 34455, 
+      "rejected": 440, 
+      "polled": 34895, 
+      "electors": 43980
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0044", 
+    "timestamp": 378702840.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "14", 
+    "ed_name": "Trincomalee", 
+    "pd_code": "14B", 
+    "pd_name": "Trincomalee", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 14503, 
+        "percentage": 53.97
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 5424, 
+        "percentage": 20.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 5366, 
+        "percentage": 19.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1305, 
+        "percentage": 4.86
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 174, 
+        "percentage": 0.65
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 100, 
+        "percentage": 0.37
+      }
+    ], 
+    "summary": {
+      "valid": 26872, 
+      "rejected": 777, 
+      "polled": 27649, 
+      "electors": 49244
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0004", 
+    "timestamp": 378700440.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "14", 
+    "ed_name": "Trincomalee", 
+    "pd_code": "14P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 667, 
+        "percentage": 52.94
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 279, 
+        "percentage": 22.14
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 234, 
+        "percentage": 18.57
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 45, 
+        "percentage": 3.57
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 22, 
+        "percentage": 1.75
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 13, 
+        "percentage": 1.03
+      }
+    ], 
+    "summary": {
+      "valid": 1260, 
+      "rejected": 42, 
+      "polled": 1302, 
+      "electors": 1302
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0118", 
+    "timestamp": 378707280.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15G", 
+    "pd_name": "Bingiriya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23479, 
+        "percentage": 53.17
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19760, 
+        "percentage": 44.75
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 742, 
+        "percentage": 1.68
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 116, 
+        "percentage": 0.26
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 29, 
+        "percentage": 0.07
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 44158, 
+      "rejected": 257, 
+      "polled": 44415, 
+      "electors": 50788
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0153", 
+    "timestamp": 378709380.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15J", 
+    "pd_name": "Dambadeniya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 28872, 
+        "percentage": 57.16
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19429, 
+        "percentage": 38.46
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1897, 
+        "percentage": 3.76
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 198, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 66, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 50, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 50512, 
+      "rejected": 350, 
+      "polled": 50862, 
+      "electors": 58869
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0083", 
+    "timestamp": 378705180.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15N", 
+    "pd_name": "Dodangaslanda", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17538, 
+        "percentage": 49.7
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14470, 
+        "percentage": 41.0
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3048, 
+        "percentage": 8.64
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 133, 
+        "percentage": 0.38
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 50, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 52, 
+        "percentage": 0.15
+      }
+    ], 
+    "summary": {
+      "valid": 35291, 
+      "rejected": 337, 
+      "polled": 35628, 
+      "electors": 41493
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0133", 
+    "timestamp": 378708180.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15A", 
+    "pd_name": "Galgamuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23438, 
+        "percentage": 50.33
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20998, 
+        "percentage": 45.09
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1882, 
+        "percentage": 4.04
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 178, 
+        "percentage": 0.38
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 38, 
+        "percentage": 0.08
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 34, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 46568, 
+      "rejected": 369, 
+      "polled": 46937, 
+      "electors": 53576
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0130", 
+    "timestamp": 378708000.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15D", 
+    "pd_name": "Hiriyala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 28098, 
+        "percentage": 61.67
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15608, 
+        "percentage": 34.26
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1496, 
+        "percentage": 3.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 267, 
+        "percentage": 0.59
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 49, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 41, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 45559, 
+      "rejected": 580, 
+      "polled": 46139, 
+      "electors": 55516
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0142", 
+    "timestamp": 378708720.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15H", 
+    "pd_name": "Katugampola", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 25597, 
+        "percentage": 52.32
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 21050, 
+        "percentage": 43.03
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2003, 
+        "percentage": 4.09
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 198, 
+        "percentage": 0.4
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 45, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 31, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 48924, 
+      "rejected": 324, 
+      "polled": 49248, 
+      "electors": 57167
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0145", 
+    "timestamp": 378708900.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15I", 
+    "pd_name": "Kuliyapitiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 28797, 
+        "percentage": 58.17
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19142, 
+        "percentage": 38.67
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1247, 
+        "percentage": 2.52
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 231, 
+        "percentage": 0.47
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 56, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 33, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 49506, 
+      "rejected": 391, 
+      "polled": 49897, 
+      "electors": 57287
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0101", 
+    "timestamp": 378706260.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15L", 
+    "pd_name": "Kurunegala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23370, 
+        "percentage": 59.03
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14638, 
+        "percentage": 36.97
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1300, 
+        "percentage": 3.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 159, 
+        "percentage": 0.4
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 88, 
+        "percentage": 0.22
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 38, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 39593, 
+      "rejected": 295, 
+      "polled": 39888, 
+      "electors": 50454
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0108", 
+    "timestamp": 378706680.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15M", 
+    "pd_name": "Mawathagama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23127, 
+        "percentage": 56.32
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 16033, 
+        "percentage": 39.04
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1580, 
+        "percentage": 3.85
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 203, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 70, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 51, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 41064, 
+      "rejected": 435, 
+      "polled": 41499, 
+      "electors": 48522
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0116", 
+    "timestamp": 378707160.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15B", 
+    "pd_name": "Nikaweratiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24544, 
+        "percentage": 56.5
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17307, 
+        "percentage": 39.84
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1262, 
+        "percentage": 2.91
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 242, 
+        "percentage": 0.56
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 51, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 35, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 43441, 
+      "rejected": 314, 
+      "polled": 43755, 
+      "electors": 50467
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0095", 
+    "timestamp": 378705900.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15F", 
+    "pd_name": "Panduwasnuwara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21475, 
+        "percentage": 56.93
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14991, 
+        "percentage": 39.74
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1048, 
+        "percentage": 2.78
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 148, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 37, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 22, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 37721, 
+      "rejected": 384, 
+      "polled": 38105, 
+      "electors": 43356
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0105", 
+    "timestamp": 378706500.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15K", 
+    "pd_name": "Polgahawela", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22384, 
+        "percentage": 55.77
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 16625, 
+        "percentage": 41.42
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 911, 
+        "percentage": 2.27
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 124, 
+        "percentage": 0.31
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 54, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 36, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 40134, 
+      "rejected": 637, 
+      "polled": 40771, 
+      "electors": 47812
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0092", 
+    "timestamp": 378705720.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15E", 
+    "pd_name": "Wariyapola", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21220, 
+        "percentage": 56.73
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14914, 
+        "percentage": 39.87
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1060, 
+        "percentage": 2.83
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 156, 
+        "percentage": 0.42
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 37, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 21, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 37408, 
+      "rejected": 325, 
+      "polled": 37733, 
+      "electors": 43670
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0152", 
+    "timestamp": 378709320.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15C", 
+    "pd_name": "Yapahuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 27489, 
+        "percentage": 54.41
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20566, 
+        "percentage": 40.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2141, 
+        "percentage": 4.24
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 201, 
+        "percentage": 0.4
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 90, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 31, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 50518, 
+      "rejected": 317, 
+      "polled": 50835, 
+      "electors": 58528
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0019", 
+    "timestamp": 378701340.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "15", 
+    "ed_name": "Kurunegala", 
+    "pd_code": "15P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 6341, 
+        "percentage": 66.18
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 2948, 
+        "percentage": 30.77
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 218, 
+        "percentage": 2.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 40, 
+        "percentage": 0.42
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 32, 
+        "percentage": 0.33
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 2, 
+        "percentage": 0.02
+      }
+    ], 
+    "summary": {
+      "valid": 9581, 
+      "rejected": 116, 
+      "polled": 9697, 
+      "electors": 9697
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0115", 
+    "timestamp": 378707100.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16B", 
+    "pd_name": "Anamaduwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20789, 
+        "percentage": 48.1
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19757, 
+        "percentage": 45.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2370, 
+        "percentage": 5.48
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 182, 
+        "percentage": 0.42
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 48, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 72, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 43218, 
+      "rejected": 458, 
+      "polled": 43676, 
+      "electors": 54207
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0147", 
+    "timestamp": 378709020.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16C", 
+    "pd_name": "Chilaw", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 30142, 
+        "percentage": 60.75
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17553, 
+        "percentage": 35.38
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1525, 
+        "percentage": 3.07
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 243, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 109, 
+        "percentage": 0.22
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 45, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 49617, 
+      "rejected": 479, 
+      "polled": 50096, 
+      "electors": 61128
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0107", 
+    "timestamp": 378706620.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16D", 
+    "pd_name": "Nattandiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23324, 
+        "percentage": 57.14
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 16299, 
+        "percentage": 39.93
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1016, 
+        "percentage": 2.49
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 119, 
+        "percentage": 0.29
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 23, 
+        "percentage": 0.06
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 37, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 40818, 
+      "rejected": 357, 
+      "polled": 41175, 
+      "electors": 49638
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0075", 
+    "timestamp": 378704700.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16A", 
+    "pd_name": "Puttalam", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24089, 
+        "percentage": 70.5
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8448, 
+        "percentage": 24.72
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 706, 
+        "percentage": 2.07
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 290, 
+        "percentage": 0.85
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 592, 
+        "percentage": 1.73
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 46, 
+        "percentage": 0.13
+      }
+    ], 
+    "summary": {
+      "valid": 34171, 
+      "rejected": 389, 
+      "polled": 34560, 
+      "electors": 45817
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0136", 
+    "timestamp": 378708360.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16E", 
+    "pd_name": "Wennappuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 28801, 
+        "percentage": 60.45
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17293, 
+        "percentage": 36.29
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1318, 
+        "percentage": 2.77
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 171, 
+        "percentage": 0.36
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 31, 
+        "percentage": 0.07
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 33, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 47647, 
+      "rejected": 289, 
+      "polled": 47936, 
+      "electors": 56885
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0008", 
+    "timestamp": 378700680.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "16", 
+    "ed_name": "Puttalam", 
+    "pd_code": "16P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 1732, 
+        "percentage": 69.03
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 656, 
+        "percentage": 26.15
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 66, 
+        "percentage": 2.63
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 35, 
+        "percentage": 1.39
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 14, 
+        "percentage": 0.56
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 6, 
+        "percentage": 0.24
+      }
+    ], 
+    "summary": {
+      "valid": 2509, 
+      "rejected": 23, 
+      "polled": 2532, 
+      "electors": 2532
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0065", 
+    "timestamp": 378704100.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17C", 
+    "pd_name": "Anuradhapura-East", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15856, 
+        "percentage": 48.07
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14944, 
+        "percentage": 45.31
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1891, 
+        "percentage": 5.73
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 187, 
+        "percentage": 0.57
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 59, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 45, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 32982, 
+      "rejected": 366, 
+      "polled": 33348, 
+      "electors": 41615
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0087", 
+    "timestamp": 378705420.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17D", 
+    "pd_name": "Anuradhapura-West", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18894, 
+        "percentage": 52.96
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15054, 
+        "percentage": 42.19
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1486, 
+        "percentage": 4.17
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 172, 
+        "percentage": 0.48
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 40, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 35678, 
+      "rejected": 249, 
+      "polled": 35927, 
+      "electors": 42409
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0063", 
+    "timestamp": 378703980.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17B", 
+    "pd_name": "Horowupotana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15259, 
+        "percentage": 48.85
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13029, 
+        "percentage": 41.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2719, 
+        "percentage": 8.71
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 166, 
+        "percentage": 0.53
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 29, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 31234, 
+      "rejected": 347, 
+      "polled": 31581, 
+      "electors": 36657
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0131", 
+    "timestamp": 378708060.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17E", 
+    "pd_name": "Kalawewa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22467, 
+        "percentage": 49.19
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20442, 
+        "percentage": 44.75
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2410, 
+        "percentage": 5.28
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 180, 
+        "percentage": 0.39
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 147, 
+        "percentage": 0.32
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 45678, 
+      "rejected": 474, 
+      "polled": 46152, 
+      "electors": 54762
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0048", 
+    "timestamp": 378703080.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17G", 
+    "pd_name": "Kekirawa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15454, 
+        "percentage": 54.02
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12281, 
+        "percentage": 42.93
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 733, 
+        "percentage": 2.56
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 98, 
+        "percentage": 0.34
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 31, 
+        "percentage": 0.11
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 13, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 28610, 
+      "rejected": 209, 
+      "polled": 28819, 
+      "electors": 32927
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0079", 
+    "timestamp": 378704940.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17A", 
+    "pd_name": "Medawachchiya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 16590, 
+        "percentage": 47.89
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15079, 
+        "percentage": 43.52
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2749, 
+        "percentage": 7.93
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 144, 
+        "percentage": 0.42
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 52, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 31, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 34645, 
+      "rejected": 350, 
+      "polled": 34995, 
+      "electors": 41463
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0040", 
+    "timestamp": 378702600.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17F", 
+    "pd_name": "Mihintale", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 11300, 
+        "percentage": 46.46
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10965, 
+        "percentage": 45.08
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1813, 
+        "percentage": 7.45
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 180, 
+        "percentage": 0.74
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 30, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 34, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 24322, 
+      "rejected": 249, 
+      "polled": 24571, 
+      "electors": 28761
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0011", 
+    "timestamp": 378700860.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "17", 
+    "ed_name": "Anuradhapura", 
+    "pd_code": "17P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 2053, 
+        "percentage": 60.85
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 1179, 
+        "percentage": 34.94
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 110, 
+        "percentage": 3.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 21, 
+        "percentage": 0.62
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 8, 
+        "percentage": 0.24
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 3, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 3374, 
+      "rejected": 50, 
+      "polled": 3424, 
+      "electors": 3424
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0082", 
+    "timestamp": 378705120.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "18", 
+    "ed_name": "Polonnaruwa", 
+    "pd_code": "18B", 
+    "pd_name": "Medirigiriya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20324, 
+        "percentage": 58.03
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11777, 
+        "percentage": 33.63
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2736, 
+        "percentage": 7.81
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 140, 
+        "percentage": 0.4
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 24, 
+        "percentage": 0.07
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 22, 
+        "percentage": 0.06
+      }
+    ], 
+    "summary": {
+      "valid": 35023, 
+      "rejected": 312, 
+      "polled": 35335, 
+      "electors": 43240
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0072", 
+    "timestamp": 378704520.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "18", 
+    "ed_name": "Polonnaruwa", 
+    "pd_code": "18A", 
+    "pd_name": "Minneriya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17728, 
+        "percentage": 52.16
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12818, 
+        "percentage": 37.71
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 3181, 
+        "percentage": 9.36
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 169, 
+        "percentage": 0.5
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 35, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 58, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 33989, 
+      "rejected": 315, 
+      "polled": 34304, 
+      "electors": 40329
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0086", 
+    "timestamp": 378705360.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "18", 
+    "ed_name": "Polonnaruwa", 
+    "pd_code": "18C", 
+    "pd_name": "Polonnaruwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20616, 
+        "percentage": 58.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12286, 
+        "percentage": 34.69
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2161, 
+        "percentage": 6.1
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 133, 
+        "percentage": 0.38
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 166, 
+        "percentage": 0.47
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 54, 
+        "percentage": 0.15
+      }
+    ], 
+    "summary": {
+      "valid": 35416, 
+      "rejected": 426, 
+      "polled": 35842, 
+      "electors": 44055
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0002", 
+    "timestamp": 378700320.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "18", 
+    "ed_name": "Polonnaruwa", 
+    "pd_code": "18P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 746, 
+        "percentage": 62.85
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 362, 
+        "percentage": 30.5
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 60, 
+        "percentage": 5.05
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 9, 
+        "percentage": 0.76
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 3, 
+        "percentage": 0.25
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 7, 
+        "percentage": 0.59
+      }
+    ], 
+    "summary": {
+      "valid": 1187, 
+      "rejected": 11, 
+      "polled": 1198, 
+      "electors": 1198
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0033", 
+    "timestamp": 378702180.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19D", 
+    "pd_name": "Badulla", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 12435, 
+        "percentage": 56.52
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8485, 
+        "percentage": 38.56
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 717, 
+        "percentage": 3.26
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 253, 
+        "percentage": 1.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 76, 
+        "percentage": 0.35
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 37, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 22003, 
+      "rejected": 228, 
+      "polled": 22231, 
+      "electors": 27419
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0056", 
+    "timestamp": 378703560.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19H", 
+    "pd_name": "Bandarawela", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 15718, 
+        "percentage": 53.24
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12755, 
+        "percentage": 43.21
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 652, 
+        "percentage": 2.21
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 245, 
+        "percentage": 0.83
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 97, 
+        "percentage": 0.33
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 55, 
+        "percentage": 0.19
+      }
+    ], 
+    "summary": {
+      "valid": 29522, 
+      "rejected": 375, 
+      "polled": 29897, 
+      "electors": 35570
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0041", 
+    "timestamp": 378702660.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19E", 
+    "pd_name": "Hali-Ela", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 14196, 
+        "percentage": 55.07
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10249, 
+        "percentage": 39.76
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1011, 
+        "percentage": 3.92
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 212, 
+        "percentage": 0.82
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 69, 
+        "percentage": 0.27
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 41, 
+        "percentage": 0.16
+      }
+    ], 
+    "summary": {
+      "valid": 25778, 
+      "rejected": 351, 
+      "polled": 26129, 
+      "electors": 30598
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0032", 
+    "timestamp": 378702120.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19I", 
+    "pd_name": "Haputale", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 11822, 
+        "percentage": 53.95
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9257, 
+        "percentage": 42.24
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 482, 
+        "percentage": 2.2
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 242, 
+        "percentage": 1.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 55, 
+        "percentage": 0.25
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 55, 
+        "percentage": 0.25
+      }
+    ], 
+    "summary": {
+      "valid": 21913, 
+      "rejected": 242, 
+      "polled": 22155, 
+      "electors": 27756
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0055", 
+    "timestamp": 378703500.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19A", 
+    "pd_name": "Mahiyanganaya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21340, 
+        "percentage": 73.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 7076, 
+        "percentage": 24.28
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 443, 
+        "percentage": 1.52
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 229, 
+        "percentage": 0.79
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 27, 
+        "percentage": 0.09
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 33, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 29148, 
+      "rejected": 287, 
+      "polled": 29435, 
+      "electors": 33514
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0039", 
+    "timestamp": 378702540.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19C", 
+    "pd_name": "Passara", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 14400, 
+        "percentage": 59.96
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 8830, 
+        "percentage": 36.76
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 379, 
+        "percentage": 1.58
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 230, 
+        "percentage": 0.96
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 118, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 61, 
+        "percentage": 0.25
+      }
+    ], 
+    "summary": {
+      "valid": 24018, 
+      "rejected": 395, 
+      "polled": 24413, 
+      "electors": 28077
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0054", 
+    "timestamp": 378703440.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19F", 
+    "pd_name": "Uva Paranagama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17564, 
+        "percentage": 60.58
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 9251, 
+        "percentage": 31.91
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1851, 
+        "percentage": 6.38
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 206, 
+        "percentage": 0.71
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 54, 
+        "percentage": 0.19
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 67, 
+        "percentage": 0.23
+      }
+    ], 
+    "summary": {
+      "valid": 28993, 
+      "rejected": 335, 
+      "polled": 29328, 
+      "electors": 33670
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0061", 
+    "timestamp": 378703860.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19G", 
+    "pd_name": "Welimada", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 18673, 
+        "percentage": 60.64
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10078, 
+        "percentage": 32.73
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1745, 
+        "percentage": 5.67
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 199, 
+        "percentage": 0.65
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 61, 
+        "percentage": 0.2
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 35, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 30791, 
+      "rejected": 437, 
+      "polled": 31228, 
+      "electors": 36128
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0037", 
+    "timestamp": 378702420.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19B", 
+    "pd_name": "Viyaluwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 12251, 
+        "percentage": 51.69
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10836, 
+        "percentage": 45.72
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 242, 
+        "percentage": 1.02
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 237, 
+        "percentage": 1.0
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 62, 
+        "percentage": 0.26
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 75, 
+        "percentage": 0.32
+      }
+    ], 
+    "summary": {
+      "valid": 23703, 
+      "rejected": 289, 
+      "polled": 23992, 
+      "electors": 27455
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0013", 
+    "timestamp": 378700980.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "19", 
+    "ed_name": "Badulla", 
+    "pd_code": "19P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 2663, 
+        "percentage": 58.26
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 1645, 
+        "percentage": 35.99
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 191, 
+        "percentage": 4.18
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 62, 
+        "percentage": 1.36
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 6, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 4, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 4571, 
+      "rejected": 43, 
+      "polled": 4614, 
+      "electors": 4614
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0057", 
+    "timestamp": 378703620.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "20", 
+    "ed_name": "Moneragala", 
+    "pd_code": "20A", 
+    "pd_name": "Bibile", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 16821, 
+        "percentage": 55.59
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11820, 
+        "percentage": 39.06
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1180, 
+        "percentage": 3.9
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 313, 
+        "percentage": 1.03
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 71, 
+        "percentage": 0.23
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 55, 
+        "percentage": 0.18
+      }
+    ], 
+    "summary": {
+      "valid": 30260, 
+      "rejected": 458, 
+      "polled": 30718, 
+      "electors": 35895
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0084", 
+    "timestamp": 378705240.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "20", 
+    "ed_name": "Moneragala", 
+    "pd_code": "20B", 
+    "pd_name": "Moneragala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 16836, 
+        "percentage": 47.93
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 16060, 
+        "percentage": 45.72
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1721, 
+        "percentage": 4.9
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 343, 
+        "percentage": 0.98
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 93, 
+        "percentage": 0.26
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 73, 
+        "percentage": 0.21
+      }
+    ], 
+    "summary": {
+      "valid": 35126, 
+      "rejected": 526, 
+      "polled": 35652, 
+      "electors": 41675
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0093", 
+    "timestamp": 378705780.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "20", 
+    "ed_name": "Moneragala", 
+    "pd_code": "20C", 
+    "pd_name": "Wellawaya", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 16874, 
+        "percentage": 45.36
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15797, 
+        "percentage": 42.47
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 4225, 
+        "percentage": 11.36
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 214, 
+        "percentage": 0.58
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 55, 
+        "percentage": 0.15
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 35, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 37200, 
+      "rejected": 563, 
+      "polled": 37763, 
+      "electors": 48988
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0003", 
+    "timestamp": 378700380.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "20", 
+    "ed_name": "Moneragala", 
+    "pd_code": "20P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 733, 
+        "percentage": 59.35
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 438, 
+        "percentage": 35.47
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 45, 
+        "percentage": 3.64
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 12, 
+        "percentage": 0.97
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 7, 
+        "percentage": 0.57
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 0, 
+        "percentage": 0.0
+      }
+    ], 
+    "summary": {
+      "valid": 1235, 
+      "rejected": 6, 
+      "polled": 1241, 
+      "electors": 1241
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0053", 
+    "timestamp": 378703380.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22F", 
+    "pd_name": "Aranayake", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17183, 
+        "percentage": 59.21
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 10433, 
+        "percentage": 35.95
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1197, 
+        "percentage": 4.12
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 154, 
+        "percentage": 0.53
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 29, 
+        "percentage": 0.1
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 26, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 29022, 
+      "rejected": 219, 
+      "polled": 29241, 
+      "electors": 34504
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0140", 
+    "timestamp": 378708600.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22A", 
+    "pd_name": "Dedigama", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 26926, 
+        "percentage": 55.58
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18803, 
+        "percentage": 38.81
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 2201, 
+        "percentage": 4.54
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 432, 
+        "percentage": 0.89
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 41, 
+        "percentage": 0.08
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 45, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 48448, 
+      "rejected": 538, 
+      "polled": 48986, 
+      "electors": 57629
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0070", 
+    "timestamp": 378704400.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22I", 
+    "pd_name": "Deraniyagala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 19249, 
+        "percentage": 57.33
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 11997, 
+        "percentage": 35.73
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1371, 
+        "percentage": 4.08
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 789, 
+        "percentage": 2.35
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 104, 
+        "percentage": 0.31
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 66, 
+        "percentage": 0.2
+      }
+    ], 
+    "summary": {
+      "valid": 33576, 
+      "rejected": 572, 
+      "polled": 34148, 
+      "electors": 40531
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0094", 
+    "timestamp": 378705840.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22B", 
+    "pd_name": "Galigamuwa", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 19599, 
+        "percentage": 52.39
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15842, 
+        "percentage": 42.35
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1477, 
+        "percentage": 3.95
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 403, 
+        "percentage": 1.08
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 54, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 32, 
+        "percentage": 0.09
+      }
+    ], 
+    "summary": {
+      "valid": 37407, 
+      "rejected": 490, 
+      "polled": 37897, 
+      "electors": 45109
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0090", 
+    "timestamp": 378705600.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22C", 
+    "pd_name": "Kegalle", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 20184, 
+        "percentage": 54.94
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 14567, 
+        "percentage": 39.65
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1506, 
+        "percentage": 4.1
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 384, 
+        "percentage": 1.05
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 63, 
+        "percentage": 0.17
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 31, 
+        "percentage": 0.08
+      }
+    ], 
+    "summary": {
+      "valid": 36735, 
+      "rejected": 443, 
+      "polled": 37178, 
+      "electors": 45146
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0104", 
+    "timestamp": 378706440.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22E", 
+    "pd_name": "Mawanella", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24108, 
+        "percentage": 60.02
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13814, 
+        "percentage": 34.39
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1945, 
+        "percentage": 4.84
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 219, 
+        "percentage": 0.55
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 51, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 29, 
+        "percentage": 0.07
+      }
+    ], 
+    "summary": {
+      "valid": 40166, 
+      "rejected": 275, 
+      "polled": 40441, 
+      "electors": 48873
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0076", 
+    "timestamp": 378704760.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22D", 
+    "pd_name": "Rambukkana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 19130, 
+        "percentage": 55.68
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13220, 
+        "percentage": 38.48
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1799, 
+        "percentage": 5.24
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 168, 
+        "percentage": 0.49
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 21, 
+        "percentage": 0.06
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 17, 
+        "percentage": 0.05
+      }
+    ], 
+    "summary": {
+      "valid": 34355, 
+      "rejected": 328, 
+      "polled": 34683, 
+      "electors": 41612
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0103", 
+    "timestamp": 378706380.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22H", 
+    "pd_name": "Ruwanwella", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22645, 
+        "percentage": 57.48
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13749, 
+        "percentage": 34.9
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1198, 
+        "percentage": 3.04
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 1683, 
+        "percentage": 4.27
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 72, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 52, 
+        "percentage": 0.13
+      }
+    ], 
+    "summary": {
+      "valid": 39399, 
+      "rejected": 856, 
+      "polled": 40255, 
+      "electors": 47333
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0098", 
+    "timestamp": 378706080.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22G", 
+    "pd_name": "Yatiyanthota", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22889, 
+        "percentage": 59.84
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 12517, 
+        "percentage": 32.72
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 862, 
+        "percentage": 2.25
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 1838, 
+        "percentage": 4.8
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 69, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 78, 
+        "percentage": 0.2
+      }
+    ], 
+    "summary": {
+      "valid": 38253, 
+      "rejected": 771, 
+      "polled": 39024, 
+      "electors": 45811
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0015", 
+    "timestamp": 378701100.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "22", 
+    "ed_name": "Kegalle", 
+    "pd_code": "22P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 3531, 
+        "percentage": 65.38
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 1596, 
+        "percentage": 29.55
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 150, 
+        "percentage": 2.78
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 114, 
+        "percentage": 2.11
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 10, 
+        "percentage": 0.19
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 0, 
+        "percentage": 0.0
+      }
+    ], 
+    "summary": {
+      "valid": 5401, 
+      "rejected": 45, 
+      "polled": 5446, 
+      "electors": 5446
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0124", 
+    "timestamp": 378707640.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21D", 
+    "pd_name": "Balangoda", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 22923, 
+        "percentage": 50.53
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20679, 
+        "percentage": 45.58
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1440, 
+        "percentage": 3.17
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 53, 
+        "percentage": 0.12
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 195, 
+        "percentage": 0.43
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 76, 
+        "percentage": 0.17
+      }
+    ], 
+    "summary": {
+      "valid": 45366, 
+      "rejected": 336, 
+      "polled": 45702, 
+      "electors": 51837
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0137", 
+    "timestamp": 378708420.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21A", 
+    "pd_name": "Eheliyagoda", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 23721, 
+        "percentage": 49.81
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 19742, 
+        "percentage": 41.45
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 851, 
+        "percentage": 1.79
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 2987, 
+        "percentage": 6.27
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 272, 
+        "percentage": 0.57
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 54, 
+        "percentage": 0.11
+      }
+    ], 
+    "summary": {
+      "valid": 47627, 
+      "rejected": 855, 
+      "polled": 48482, 
+      "electors": 56592
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0046", 
+    "timestamp": 378702960.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21G", 
+    "pd_name": "Kalawana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 13806, 
+        "percentage": 48.8
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 13644, 
+        "percentage": 48.22
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 629, 
+        "percentage": 2.22
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 52, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 129, 
+        "percentage": 0.46
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 33, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 28293, 
+      "rejected": 237, 
+      "polled": 28530, 
+      "electors": 32904
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0135", 
+    "timestamp": 378708300.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21H", 
+    "pd_name": "Kolonna", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24459, 
+        "percentage": 51.57
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 18287, 
+        "percentage": 38.56
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 4161, 
+        "percentage": 8.77
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 83, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 378, 
+        "percentage": 0.8
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 59, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 47427, 
+      "rejected": 505, 
+      "polled": 47932, 
+      "electors": 60326
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0114", 
+    "timestamp": 378707040.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21F", 
+    "pd_name": "Nivitigala", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 21556, 
+        "percentage": 50.17
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 20308, 
+        "percentage": 47.27
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 779, 
+        "percentage": 1.81
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 62, 
+        "percentage": 0.14
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 205, 
+        "percentage": 0.48
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 52, 
+        "percentage": 0.12
+      }
+    ], 
+    "summary": {
+      "valid": 42962, 
+      "rejected": 324, 
+      "polled": 43286, 
+      "electors": 48510
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0068", 
+    "timestamp": 378704280.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21C", 
+    "pd_name": "Pelmadulla", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 17212, 
+        "percentage": 50.99
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 15106, 
+        "percentage": 44.75
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1126, 
+        "percentage": 3.34
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 61, 
+        "percentage": 0.18
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 214, 
+        "percentage": 0.63
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 35, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 33754, 
+      "rejected": 340, 
+      "polled": 34094, 
+      "electors": 38662
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0120", 
+    "timestamp": 378707400.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21E", 
+    "pd_name": "Rakwana", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24986, 
+        "percentage": 55.93
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 17936, 
+        "percentage": 40.15
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 1339, 
+        "percentage": 3.0
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 57, 
+        "percentage": 0.13
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 291, 
+        "percentage": 0.65
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 62, 
+        "percentage": 0.14
+      }
+    ], 
+    "summary": {
+      "valid": 44671, 
+      "rejected": 289, 
+      "polled": 44960, 
+      "electors": 51385
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0157", 
+    "timestamp": 378709620.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21B", 
+    "pd_name": "Ratnapura", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 24765, 
+        "percentage": 48.13
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 25402, 
+        "percentage": 49.37
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 860, 
+        "percentage": 1.67
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 102, 
+        "percentage": 0.2
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 273, 
+        "percentage": 0.53
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 51, 
+        "percentage": 0.1
+      }
+    ], 
+    "summary": {
+      "valid": 51453, 
+      "rejected": 499, 
+      "polled": 51952, 
+      "electors": 61986
+    }
+  }, 
+  {
+    "type": "PRESIDENTIAL-FIRST", 
+    "sequence_number": "0012", 
+    "timestamp": 378700920.0, 
+    "level": "POLLING-DIVISION", 
+    "ed_code": "21", 
+    "ed_name": "Ratnapura", 
+    "pd_code": "21P", 
+    "pd_name": "Postal Votes", 
+    "by_party": [
+      {
+        "party_code": "UNP", 
+        "votes": 2475, 
+        "percentage": 61.1
+      }, 
+      {
+        "party_code": "SLFP", 
+        "votes": 1402, 
+        "percentage": 34.61
+      }, 
+      {
+        "party_code": "JVP", 
+        "votes": 98, 
+        "percentage": 2.42
+      }, 
+      {
+        "party_code": "NSSP", 
+        "votes": 37, 
+        "percentage": 0.91
+      }, 
+      {
+        "party_code": "LSSP", 
+        "votes": 39, 
+        "percentage": 0.96
+      }, 
+      {
+        "party_code": "ACTC", 
+        "votes": 0, 
+        "percentage": 0.0
+      }
+    ], 
+    "summary": {
+      "valid": 4051, 
+      "rejected": 22, 
+      "polled": 4073, 
+      "electors": 4073
+    }
+  }
+]
