@@ -2,7 +2,6 @@
 import React, {Component} from 'react';
 
 import {formatTimestamp} from './DataUtils.js';
-import {TOTAL_RESULT_COUNT} from './Constants.js';
 
 /**
  * Displays a Slider
