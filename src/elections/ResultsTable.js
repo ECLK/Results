@@ -181,12 +181,12 @@ export default class ResultsTable extends Component {
           <CellNumberPercent
             key={key + '-rejected-votes'}
             value={totalRejected}
-            valuePercent={totalRejected / totalPolled}
+            // valuePercent={totalRejected / totalPolled}
           />,
           <CellNumberPercent
             key={key + '-total-polled-votes'}
             value={totalPolled}
-            valuePercent={totalPolled / totalElectors}
+            // valuePercent={totalPolled / totalElectors}
           />
           // <CellNumber
           //   key={key + '-total-registered-voters'}
