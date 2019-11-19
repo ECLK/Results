@@ -81,7 +81,7 @@ export default class ResultsTable extends Component {
           <CellHeader
             key={keyPrefix + 'header-total-polled'}
             text="Total Polled"
-          />,
+          />
           // <CellHeader
           //   key={keyPrefix + 'header-registed-votes'}
           //   text="Registered Votes"
@@ -187,7 +187,7 @@ export default class ResultsTable extends Component {
             key={key + '-total-polled-votes'}
             value={totalPolled}
             valuePercent={totalPolled / totalElectors}
-          />,
+          />
           // <CellNumber
           //   key={key + '-total-registered-voters'}
           //   value={totalElectors}
