@@ -82,10 +82,10 @@ export default class ResultsTable extends Component {
             key={keyPrefix + 'header-total-polled'}
             text="Total Polled"
           />,
-          <CellHeader
-            key={keyPrefix + 'header-registed-votes'}
-            text="Registered Votes"
-          />,
+          // <CellHeader
+          //   key={keyPrefix + 'header-registed-votes'}
+          //   text="Registered Votes"
+          // />,
         ])
       }</tr>
     );
@@ -188,10 +188,10 @@ export default class ResultsTable extends Component {
             value={totalPolled}
             valuePercent={totalPolled / totalElectors}
           />,
-          <CellNumber
-            key={key + '-total-registered-voters'}
-            value={totalElectors}
-          />,
+          // <CellNumber
+          //   key={key + '-total-registered-voters'}
+          //   value={totalElectors}
+          // />,
         ])}
       </tr>
     );
@@ -289,7 +289,8 @@ export default class ResultsTable extends Component {
         }.bind(this)
     );
     
-    const totalElectorsWithPostal = totalElectors + postalVotes;
+    const totalElectorsWithPostal = totalElectors;
+    // const totalElectorsWithPostal = totalElectors + postalVotes;
 
     const _totalsRow = (this.props.showTotals) ?
       this.renderRow(
