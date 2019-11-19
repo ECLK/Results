@@ -279,15 +279,15 @@ export default class ResultsTable extends Component {
           );
         }.bind(this),
     );
-    var postalVotes = 0;
+    // var postalVotes = 0;
 
-      results.map(
-        function(result, i) {
-          if (result.pd_name === "Postal Votes") {
-            return postalVotes = result.summary.electors;
-          }
-        }.bind(this)
-    );
+    //   results.map(
+    //     function(result, i) {
+    //       if (result.pd_name === "Postal Votes") {
+    //         return postalVotes = result.summary.electors;
+    //       }
+    //     }.bind(this)
+    // );
     
     const totalElectorsWithPostal = totalElectors;
     // const totalElectorsWithPostal = totalElectors + postalVotes;
