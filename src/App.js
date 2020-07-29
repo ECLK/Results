@@ -1,14 +1,14 @@
-import React from 'react';
-import HomePage from './elections/HomePage.js';
+import React, {Component} from 'react';
 import './App.css';
-import ReactGA from 'react-ga';
 
-ReactGA.initialize('UA-152722495-1');
-ReactGA.pageview(window.location.pathname + window.location.search);
+import HomePage from './elections/components/HomePage.js';
 
-
-function App() {
-  return <HomePage />;
+export default class App extends Component {
+  render() {
+    return (
+      <div className="App" key="App">
+        <HomePage />
+      </div>
+    );
+  }
 }
- 
-export default App;

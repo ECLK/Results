@@ -1,3 +1,0 @@
-
-* Lint
-* Clean
