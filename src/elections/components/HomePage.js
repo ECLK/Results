@@ -11,6 +11,7 @@ import TableEDSummary from '../components/TableEDSummary.js';
 import TableFinalSeats from '../components/TableFinalSeats.js';
 import TableLatestResults from '../components/TableLatestResults.js';
 import YearSelector from '../components/YearSelector.js';
+import Logo from "../public/img/Emplem of SriLanka.png";
 
 const DEFAULT_YEAR = GEN_ELEC_YEAR_LIST.slice(-1)[0];
 
@@ -68,8 +69,11 @@ export default class HomePage extends Component {
     return (
       <div id="HomePage" key="HomePage">
         <div id="home-page-header">
+          <aside className="header-img" style={{marginTop: 10,marginBottom:10}}>
+            <img src={Logo} alt="" />
+          </aside>
           <YearSelector onChangeYear={onChangeYear} selectedYear={year}/>
-          <h1>{`${year} Sri Lankan Parlimentary Elections`}</h1>
+          <h1>{`${year} Sri Lankan Parliamentary Elections`}</h1>
           <p className="p-download" onClick={onDownloadResults}>
             Download Results as JSON
           </p>

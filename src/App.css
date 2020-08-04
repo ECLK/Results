@@ -166,3 +166,22 @@ th {
 #home-page-body {
 	padding-left: 32px;
 }
+
+.header-img img {
+	width: 80px;
+	height: auto;
+	float: right;
+	margin-right: 70px;
+}
+
+@media screen and (max-width: 600px) {
+	.header-img img {
+	  float: none;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 50%;
+	  width: 80px;
+	  height: auto;
+	  display: block;
+	}
+  }
