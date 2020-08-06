@@ -1,0 +1,39 @@
+on:
+  push:
+    branches: [ results-2020 ]
+  pull_request:
+    branches: [ results-2020 ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: docker login
+      env:
+        DOCKER_USER: ${{secrets.DOCKER_USER}}
+        DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
+      run: |
+        docker login -u $DOCKER_USER -p $DOCKER_PASSWORD 
+    - name: Build the Docker image
+      env:
+        DOCKER_USER: ${{secrets.DOCKER_USER}}
+        REPO_NAME: ${{ github.event.repository.name }} 
+        TAG: ${{github.sha}}
+      run: cd config-loader && docker build . --file Dockerfile --tag ${DOCKER_USER}/public-results-data-loader:${TAG}
+    - name: Docker Push
+      run: docker push ${DOCKER_USER}/public-results-data-loader:${TAG}
+      env:
+        DOCKER_USER: ${{secrets.DOCKER_USER}}
+        REPO_NAME: ${{ github.event.repository.name }} 
+        TAG: ${{github.sha}}
+    - name: Platformer Deploy
+      uses: platformer-com/build-deploy-action@v1
+      with:
+        domain: https://beta.api.platformer.com
+        org-id: ${{secrets.ORG_ID}}
+        project-id: ${{secrets.PROJECT_ID}}
+        token: ${{secrets.TOKEN}}
+        image-name: ${{secrets.DOCKER_USER}}/public-results-data-loader
+        tag: ${{github.sha}}
+        container-id: 50672fa1-7b63-4731-b1f9-f7876347d517
