@@ -30,10 +30,10 @@ jobs:
     - name: Platformer Deploy
       uses: platformer-com/build-deploy-action@v1
       with:
-      domain: https://beta.api.platformer.com/rudder
-      org-id: ${{secrets.ORG_ID}}
-      project-id: ${{secrets.PROJECT_ID}}
-      token: ${{secrets.TOKEN}}
-      image-name: ${{secrets.DOCKER_USER}}/${{ github.event.repository.name }} 
-      tag: ${{github.sha}}
-      container-id: a5d76fc2-7078-43a1-9a30-84d1c1bd83e8
+        domain: https://beta.api.platformer.com
+        org-id: ${{secrets.ORG_ID}}
+        project-id: ${{secrets.PROJECT_ID}}
+        token: ${{secrets.TOKEN}}
+        image-name: ${{secrets.DOCKER_USER}}/${{ github.event.repository.name }} 
+        tag: ${{github.sha}}
+        container-id: a5d76fc2-7078-43a1-9a30-84d1c1bd83e8
