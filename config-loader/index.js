@@ -6,6 +6,7 @@ const username = process.env.username
 const pass = process.env.password 
 const targetURL = process.env.targetURL  
 const filename = process.env.filename 
+const interval =  process.env.interval || 20000
 
 
 function requestData() {
@@ -35,4 +36,4 @@ requestData()
 
 setInterval(() => {
     requestData()
-}, 20000)
+}, interval)
