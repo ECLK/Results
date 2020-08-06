@@ -1,5 +1,3096 @@
 [
     {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T15:06:58.911+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "by_party": [
+            {
+                "vote_count": 120209,
+                "vote_percentage": "66.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna"
+            },
+            {
+                "vote_count": 38157,
+                "vote_percentage": "20.98%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 11071,
+                "vote_percentage": "6.09%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 7903,
+                "vote_percentage": "4.34%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 1912,
+                "vote_percentage": "1.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 826,
+                "vote_percentage": "0.45%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 454,
+                "vote_percentage": "0.25%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2"
+            },
+            {
+                "vote_count": 237,
+                "vote_percentage": "0.13%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NDF",
+                "party_name": "National Democratic Front"
+            },
+            {
+                "vote_count": 147,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 136,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NPP",
+                "party_name": "National Peoples Party"
+            },
+            {
+                "vote_count": 123,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LP",
+                "party_name": "The Liberal Party"
+            },
+            {
+                "vote_count": 110,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka"
+            },
+            {
+                "vote_count": 101,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ULF",
+                "party_name": "United Left Front"
+            },
+            {
+                "vote_count": 91,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            },
+            {
+                "vote_count": 76,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12"
+            },
+            {
+                "vote_count": 59,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11"
+            },
+            {
+                "vote_count": 51,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3"
+            },
+            {
+                "vote_count": 46,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5"
+            },
+            {
+                "vote_count": 44,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13"
+            },
+            {
+                "vote_count": 37,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1"
+            },
+            {
+                "vote_count": 28,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10"
+            },
+            {
+                "vote_count": 26,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7"
+            },
+            {
+                "vote_count": 22,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4"
+            },
+            {
+                "vote_count": 17,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6"
+            },
+            {
+                "vote_count": 16,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8"
+            }
+        ],
+        "summary": {
+            "valid": 181907,
+            "rejected": 9603,
+            "polled": 191510,
+            "electors": 250547,
+            "percent_valid": "94.99%",
+            "percent_rejected": "5.01%",
+            "percent_polled": "76.44%"
+        },
+        "sequence_number": "0401"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "pd_code": "07H",
+        "pd_name": "Galle",
+        "by_party": [
+            {
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna",
+                "vote_count": 27535,
+                "vote_percentage": "49.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 18706,
+                "vote_percentage": "33.36%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 4380,
+                "vote_percentage": "7.81%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 3930,
+                "vote_percentage": "7.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 772,
+                "vote_percentage": "1.38%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NDF",
+                "party_name": "National Democratic Front",
+                "vote_count": 181,
+                "vote_percentage": "0.32%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12",
+                "vote_count": 129,
+                "vote_percentage": "0.23%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 103,
+                "vote_percentage": "0.18%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "ULF",
+                "party_name": "United Left Front",
+                "vote_count": 45,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2",
+                "vote_count": 36,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna",
+                "vote_count": 35,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka",
+                "vote_count": 35,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LP",
+                "party_name": "The Liberal Party",
+                "vote_count": 29,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1",
+                "vote_count": 29,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 22,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13",
+                "vote_count": 19,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NPP",
+                "party_name": "National Peoples Party",
+                "vote_count": 17,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8",
+                "vote_count": 13,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11",
+                "vote_count": 12,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3",
+                "vote_count": 7,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4",
+                "vote_count": 7,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6",
+                "vote_count": 7,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9",
+                "vote_count": 7,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7",
+                "vote_count": 5,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10",
+                "vote_count": 4,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5",
+                "vote_count": 2,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 56067,
+            "rejected": 2602,
+            "polled": 58669,
+            "electors": 80580,
+            "percent_valid": "69.58%",
+            "percent_rejected": "3.23%",
+            "percent_polled": "72.81%"
+        },
+        "timestamp": "08/06/2020, 14:08:53",
+        "sequence_number": "0400"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T15:01:22.264+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "10",
+        "ed_name": "Jaffna",
+        "by_party": [
+            {
+                "vote_count": 14003,
+                "vote_percentage": "36.42%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "EPDP",
+                "party_name": "Eelam People's Democratic Party"
+            },
+            {
+                "vote_count": 9957,
+                "vote_percentage": "25.90%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ITAK",
+                "party_name": "Ilankai Tamil Arasu Kadchi"
+            },
+            {
+                "vote_count": 6018,
+                "vote_percentage": "15.65%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "AITC",
+                "party_name": "Ahila Ilankai Thamil Congress"
+            },
+            {
+                "vote_count": 2546,
+                "vote_percentage": "6.62%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLFP",
+                "party_name": "Sri Lanka Freedom Party"
+            },
+            {
+                "vote_count": 1837,
+                "vote_percentage": "4.78%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D10",
+                "party_name": "Jafna-Independent Group 9"
+            },
+            {
+                "vote_count": 1235,
+                "vote_percentage": "3.21%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "TMTK",
+                "party_name": "Thamil Makkal Thesiya Kuttani"
+            },
+            {
+                "vote_count": 608,
+                "vote_percentage": "1.58%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 466,
+                "vote_percentage": "1.21%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 316,
+                "vote_percentage": "0.82%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "DLF",
+                "party_name": "Democratic Left Front"
+            },
+            {
+                "vote_count": 214,
+                "vote_percentage": "0.56%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D10",
+                "party_name": "Jafna-Independent Group 4"
+            },
+            {
+                "vote_count": 177,
+                "vote_percentage": "0.46%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D10",
+                "party_name": "Jafna-Independent Group 5"
+            },
+            {
+                "vote_count": 148,
+                "vote_percentage": "0.38%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LSSP",
+                "party_name": "Lanka Sama Samaja Party"
+            },
+            {
+                "vote_count": 128,
+                "vote_percentage": "0.33%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NEWDF",
+                "party_name": "New Democratic Front"
+            },
+            {
+                "vote_count": 120,
+                "vote_percentage": "0.31%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "EDF",
+                "party_name": "Eelavar Democratic Front"
+            },
+            {
+                "vote_count": 101,
+                "vote_percentage": "0.26%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D10",
+                "party_name": "Jafna-Independent Group 8"
+            },
+            {
+                "vote_count": 97,
+                "vote_percentage": "0.25%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SEP",
+                "party_name": "Socialist Equality Party"
+            },
+            {
+                "vote_count": 88,
+                "vote_percentage": "0.23%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 72,
+                "vote_percentage": "0.19%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 67,
+                "vote_percentage": "0.17%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 49,
+                "vote_percentage": "0.13%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "TULF",
+                "party_name": "Tamil United Liberation Front"
+            },
+            {
+                "vote_count": 39,
+                "vote_percentage": "0.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND14_D10",
+                "party_name": "Jafna-Independent Group 14"
+            },
+            {
+                "vote_count": 37,
+                "vote_percentage": "0.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D10",
+                "party_name": "Jafna-Independent Group 2"
+            },
+            {
+                "vote_count": 24,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D10",
+                "party_name": "Jafna-Independent Group 3"
+            },
+            {
+                "vote_count": 15,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D10",
+                "party_name": "Jafna-Independent Group 7"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "USP",
+                "party_name": "United Socialist Party"
+            },
+            {
+                "vote_count": 13,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D10",
+                "party_name": "Jafna-Independent Group 6"
+            },
+            {
+                "vote_count": 12,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D10",
+                "party_name": "Jafna-Independent Group 11"
+            },
+            {
+                "vote_count": 11,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D10",
+                "party_name": "Jafna-Independent Group 1"
+            },
+            {
+                "vote_count": 10,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D10",
+                "party_name": "Jafna-Independent Group 12"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D10",
+                "party_name": "Jafna-Independent Group 13"
+            },
+            {
+                "vote_count": 7,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 7,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D10",
+                "party_name": "Jafna-Independent Group 10"
+            },
+            {
+                "vote_count": 3,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            }
+        ],
+        "summary": {
+            "valid": 38447,
+            "rejected": 3661,
+            "polled": 42108,
+            "electors": 56697,
+            "percent_valid": "91.31%",
+            "percent_rejected": "8.69%",
+            "percent_polled": "74.27%"
+        },
+        "sequence_number": "0399"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "10",
+        "ed_name": "Jaffna",
+        "pd_code": "10J",
+        "pd_name": "Jaffna",
+        "by_party": [
+            {
+                "party_code": "ITAK",
+                "party_name": "Ilankai Tamil Arasu Kadchi",
+                "vote_count": 7634,
+                "vote_percentage": "33.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "EPDP",
+                "party_name": "Eelam People's Democratic Party",
+                "vote_count": 5545,
+                "vote_percentage": "23.97%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "AITC",
+                "party_name": "Ahila Ilankai Thamil Congress",
+                "vote_count": 4642,
+                "vote_percentage": "20.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SLFP",
+                "party_name": "Sri Lanka Freedom Party",
+                "vote_count": 1469,
+                "vote_percentage": "6.35%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "TMTK",
+                "party_name": "Thamil Makkal Thesiya Kuttani",
+                "vote_count": 1312,
+                "vote_percentage": "5.67%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 805,
+                "vote_percentage": "3.48%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND09_D10",
+                "party_name": "Jafna-Independent Group 9",
+                "vote_count": 374,
+                "vote_percentage": "1.62%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "DLF",
+                "party_name": "Democratic Left Front",
+                "vote_count": 254,
+                "vote_percentage": "1.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 208,
+                "vote_percentage": "0.90%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 110,
+                "vote_percentage": "0.48%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D10",
+                "party_name": "Jafna-Independent Group 4",
+                "vote_count": 110,
+                "vote_percentage": "0.48%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND08_D10",
+                "party_name": "Jafna-Independent Group 8",
+                "vote_count": 107,
+                "vote_percentage": "0.46%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D10",
+                "party_name": "Jafna-Independent Group 5",
+                "vote_count": 91,
+                "vote_percentage": "0.39%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D10",
+                "party_name": "Jafna-Independent Group 2",
+                "vote_count": 84,
+                "vote_percentage": "0.36%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna",
+                "vote_count": 66,
+                "vote_percentage": "0.29%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND14_D10",
+                "party_name": "Jafna-Independent Group 14",
+                "vote_count": 63,
+                "vote_percentage": "0.27%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "EDF",
+                "party_name": "Eelavar Democratic Front",
+                "vote_count": 56,
+                "vote_percentage": "0.24%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "TULF",
+                "party_name": "Tamil United Liberation Front",
+                "vote_count": 45,
+                "vote_percentage": "0.19%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NEWDF",
+                "party_name": "New Democratic Front",
+                "vote_count": 43,
+                "vote_percentage": "0.19%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 25,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LSSP",
+                "party_name": "Lanka Sama Samaja Party",
+                "vote_count": 19,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND13_D10",
+                "party_name": "Jafna-Independent Group 13",
+                "vote_count": 18,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D10",
+                "party_name": "Jafna-Independent Group 7",
+                "vote_count": 10,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "USP",
+                "party_name": "United Socialist Party",
+                "vote_count": 6,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 6,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SEP",
+                "party_name": "Socialist Equality Party",
+                "vote_count": 5,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND10_D10",
+                "party_name": "Jafna-Independent Group 10",
+                "vote_count": 5,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND12_D10",
+                "party_name": "Jafna-Independent Group 12",
+                "vote_count": 5,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 4,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D10",
+                "party_name": "Jafna-Independent Group 1",
+                "vote_count": 4,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D10",
+                "party_name": "Jafna-Independent Group 3",
+                "vote_count": 4,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND11_D10",
+                "party_name": "Jafna-Independent Group 11",
+                "vote_count": 4,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D10",
+                "party_name": "Jafna-Independent Group 6",
+                "vote_count": 3,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 23136,
+            "rejected": 2029,
+            "polled": 25165,
+            "electors": 33886,
+            "percent_valid": "68.28%",
+            "percent_rejected": "5.99%",
+            "percent_polled": "74.26%"
+        },
+        "timestamp": "08/06/2020, 12:42:23",
+        "sequence_number": "0398"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T15:01:01.798+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "10",
+        "ed_name": "Jaffna",
+        "by_party": [
+            {
+                "vote_count": 6369,
+                "vote_percentage": "41.60%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "EPDP",
+                "party_name": "Eelam People's Democratic Party"
+            },
+            {
+                "vote_count": 4412,
+                "vote_percentage": "28.82%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ITAK",
+                "party_name": "Ilankai Tamil Arasu Kadchi"
+            },
+            {
+                "vote_count": 1376,
+                "vote_percentage": "8.99%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "AITC",
+                "party_name": "Ahila Ilankai Thamil Congress"
+            },
+            {
+                "vote_count": 1077,
+                "vote_percentage": "7.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLFP",
+                "party_name": "Sri Lanka Freedom Party"
+            },
+            {
+                "vote_count": 525,
+                "vote_percentage": "3.43%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D10",
+                "party_name": "Jafna-Independent Group 9"
+            },
+            {
+                "vote_count": 430,
+                "vote_percentage": "2.81%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "TMTK",
+                "party_name": "Thamil Makkal Thesiya Kuttani"
+            },
+            {
+                "vote_count": 234,
+                "vote_percentage": "1.53%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 212,
+                "vote_percentage": "1.38%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 108,
+                "vote_percentage": "0.71%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "DLF",
+                "party_name": "Democratic Left Front"
+            },
+            {
+                "vote_count": 104,
+                "vote_percentage": "0.68%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D10",
+                "party_name": "Jafna-Independent Group 4"
+            },
+            {
+                "vote_count": 67,
+                "vote_percentage": "0.44%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D10",
+                "party_name": "Jafna-Independent Group 5"
+            },
+            {
+                "vote_count": 41,
+                "vote_percentage": "0.27%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LSSP",
+                "party_name": "Lanka Sama Samaja Party"
+            },
+            {
+                "vote_count": 37,
+                "vote_percentage": "0.24%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NEWDF",
+                "party_name": "New Democratic Front"
+            },
+            {
+                "vote_count": 36,
+                "vote_percentage": "0.24%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "EDF",
+                "party_name": "Eelavar Democratic Front"
+            },
+            {
+                "vote_count": 35,
+                "vote_percentage": "0.23%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D10",
+                "party_name": "Jafna-Independent Group 8"
+            },
+            {
+                "vote_count": 34,
+                "vote_percentage": "0.22%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SEP",
+                "party_name": "Socialist Equality Party"
+            },
+            {
+                "vote_count": 32,
+                "vote_percentage": "0.21%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 27,
+                "vote_percentage": "0.18%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 24,
+                "vote_percentage": "0.16%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 24,
+                "vote_percentage": "0.16%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "TULF",
+                "party_name": "Tamil United Liberation Front"
+            },
+            {
+                "vote_count": 20,
+                "vote_percentage": "0.13%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND14_D10",
+                "party_name": "Jafna-Independent Group 14"
+            },
+            {
+                "vote_count": 19,
+                "vote_percentage": "0.12%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D10",
+                "party_name": "Jafna-Independent Group 2"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.09%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D10",
+                "party_name": "Jafna-Independent Group 3"
+            },
+            {
+                "vote_count": 9,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D10",
+                "party_name": "Jafna-Independent Group 7"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "USP",
+                "party_name": "United Socialist Party"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D10",
+                "party_name": "Jafna-Independent Group 6"
+            },
+            {
+                "vote_count": 7,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D10",
+                "party_name": "Jafna-Independent Group 11"
+            },
+            {
+                "vote_count": 6,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D10",
+                "party_name": "Jafna-Independent Group 1"
+            },
+            {
+                "vote_count": 6,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D10",
+                "party_name": "Jafna-Independent Group 12"
+            },
+            {
+                "vote_count": 4,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D10",
+                "party_name": "Jafna-Independent Group 13"
+            },
+            {
+                "vote_count": 3,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 3,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D10",
+                "party_name": "Jafna-Independent Group 10"
+            },
+            {
+                "vote_count": 0,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            }
+        ],
+        "summary": {
+            "valid": 15311,
+            "rejected": 1632,
+            "polled": 16943,
+            "electors": 22811,
+            "percent_valid": "90.37%",
+            "percent_rejected": "9.63%",
+            "percent_polled": "74.28%"
+        },
+        "sequence_number": "0397"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "10",
+        "ed_name": "Jaffna",
+        "pd_code": "10A",
+        "pd_name": "Kayts",
+        "by_party": [
+            {
+                "party_code": "EPDP",
+                "party_name": "Eelam People's Democratic Party",
+                "vote_count": 6369,
+                "vote_percentage": "41.60%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "ITAK",
+                "party_name": "Ilankai Tamil Arasu Kadchi",
+                "vote_count": 4412,
+                "vote_percentage": "28.82%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "AITC",
+                "party_name": "Ahila Ilankai Thamil Congress",
+                "vote_count": 1376,
+                "vote_percentage": "8.99%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SLFP",
+                "party_name": "Sri Lanka Freedom Party",
+                "vote_count": 1077,
+                "vote_percentage": "7.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND09_D10",
+                "party_name": "Jafna-Independent Group 9",
+                "vote_count": 525,
+                "vote_percentage": "3.43%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "TMTK",
+                "party_name": "Thamil Makkal Thesiya Kuttani",
+                "vote_count": 430,
+                "vote_percentage": "2.81%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 234,
+                "vote_percentage": "1.53%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 212,
+                "vote_percentage": "1.38%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "DLF",
+                "party_name": "Democratic Left Front",
+                "vote_count": 108,
+                "vote_percentage": "0.71%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D10",
+                "party_name": "Jafna-Independent Group 4",
+                "vote_count": 104,
+                "vote_percentage": "0.68%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D10",
+                "party_name": "Jafna-Independent Group 5",
+                "vote_count": 67,
+                "vote_percentage": "0.44%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LSSP",
+                "party_name": "Lanka Sama Samaja Party",
+                "vote_count": 41,
+                "vote_percentage": "0.27%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NEWDF",
+                "party_name": "New Democratic Front",
+                "vote_count": 37,
+                "vote_percentage": "0.24%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "EDF",
+                "party_name": "Eelavar Democratic Front",
+                "vote_count": 36,
+                "vote_percentage": "0.24%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND08_D10",
+                "party_name": "Jafna-Independent Group 8",
+                "vote_count": 35,
+                "vote_percentage": "0.23%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SEP",
+                "party_name": "Socialist Equality Party",
+                "vote_count": 34,
+                "vote_percentage": "0.22%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 32,
+                "vote_percentage": "0.21%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna",
+                "vote_count": 27,
+                "vote_percentage": "0.18%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 24,
+                "vote_percentage": "0.16%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "TULF",
+                "party_name": "Tamil United Liberation Front",
+                "vote_count": 24,
+                "vote_percentage": "0.16%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND14_D10",
+                "party_name": "Jafna-Independent Group 14",
+                "vote_count": 20,
+                "vote_percentage": "0.13%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D10",
+                "party_name": "Jafna-Independent Group 2",
+                "vote_count": 19,
+                "vote_percentage": "0.12%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D10",
+                "party_name": "Jafna-Independent Group 3",
+                "vote_count": 14,
+                "vote_percentage": "0.09%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D10",
+                "party_name": "Jafna-Independent Group 7",
+                "vote_count": 9,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "USP",
+                "party_name": "United Socialist Party",
+                "vote_count": 8,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D10",
+                "party_name": "Jafna-Independent Group 6",
+                "vote_count": 8,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND11_D10",
+                "party_name": "Jafna-Independent Group 11",
+                "vote_count": 7,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D10",
+                "party_name": "Jafna-Independent Group 1",
+                "vote_count": 6,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND12_D10",
+                "party_name": "Jafna-Independent Group 12",
+                "vote_count": 6,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND13_D10",
+                "party_name": "Jafna-Independent Group 13",
+                "vote_count": 4,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 3,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND10_D10",
+                "party_name": "Jafna-Independent Group 10",
+                "vote_count": 3,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 0,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 15311,
+            "rejected": 1632,
+            "polled": 16943,
+            "electors": 22811,
+            "percent_valid": "67.12%",
+            "percent_rejected": "7.15%",
+            "percent_polled": "74.28%"
+        },
+        "timestamp": "08/06/2020, 12:43:47",
+        "sequence_number": "0396"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T14:59:45.719+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "08",
+        "ed_name": "Matara",
+        "by_party": [
+            {
+                "vote_count": 40143,
+                "vote_percentage": "73.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna"
+            },
+            {
+                "vote_count": 9009,
+                "vote_percentage": "16.39%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 4196,
+                "vote_percentage": "7.63%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 517,
+                "vote_percentage": "0.94%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 500,
+                "vote_percentage": "0.91%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 220,
+                "vote_percentage": "0.40%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D08",
+                "party_name": "Matara-Independent Group 7"
+            },
+            {
+                "vote_count": 112,
+                "vote_percentage": "0.20%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSWP",
+                "party_name": "Jathika Sangwardhena Peramuna"
+            },
+            {
+                "vote_count": 63,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ULF",
+                "party_name": "United Left Front"
+            },
+            {
+                "vote_count": 58,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 35,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LP",
+                "party_name": "The Liberal Party"
+            },
+            {
+                "vote_count": 31,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D08",
+                "party_name": "Matara-Independent Group 4"
+            },
+            {
+                "vote_count": 19,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NPP",
+                "party_name": "National Peoples Party"
+            },
+            {
+                "vote_count": 16,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "MJP",
+                "party_name": "Maubima Janatha Pakshaya"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "DUNF",
+                "party_name": "Democratic United National Front"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D08",
+                "party_name": "Matara-Independent Group 5"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D08",
+                "party_name": "Matara-Independent Group 6"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D08",
+                "party_name": "Matara-Independent Group 2"
+            },
+            {
+                "vote_count": 5,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            },
+            {
+                "vote_count": 2,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D08",
+                "party_name": "Matara-Independent Group 1"
+            },
+            {
+                "vote_count": 1,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D08",
+                "party_name": "Matara-Independent Group 3"
+            }
+        ],
+        "summary": {
+            "valid": 54977,
+            "rejected": 2188,
+            "polled": 57165,
+            "electors": 78573,
+            "percent_valid": "96.17%",
+            "percent_rejected": "3.83%",
+            "percent_polled": "72.75%"
+        },
+        "sequence_number": "0395"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "08",
+        "ed_name": "Matara",
+        "pd_code": "08E",
+        "pd_name": "Devinuwara",
+        "by_party": [
+            {
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna",
+                "vote_count": 40143,
+                "vote_percentage": "73.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 9009,
+                "vote_percentage": "16.39%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 4196,
+                "vote_percentage": "7.63%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 517,
+                "vote_percentage": "0.94%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 500,
+                "vote_percentage": "0.91%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D08",
+                "party_name": "Matara-Independent Group 7",
+                "vote_count": 220,
+                "vote_percentage": "0.40%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSWP",
+                "party_name": "Jathika Sangwardhena Peramuna",
+                "vote_count": 112,
+                "vote_percentage": "0.20%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "ULF",
+                "party_name": "United Left Front",
+                "vote_count": 63,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 58,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LP",
+                "party_name": "The Liberal Party",
+                "vote_count": 35,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D08",
+                "party_name": "Matara-Independent Group 4",
+                "vote_count": 31,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NPP",
+                "party_name": "National Peoples Party",
+                "vote_count": 19,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "MJP",
+                "party_name": "Maubima Janatha Pakshaya",
+                "vote_count": 16,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "DUNF",
+                "party_name": "Democratic United National Front",
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D08",
+                "party_name": "Matara-Independent Group 5",
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D08",
+                "party_name": "Matara-Independent Group 6",
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D08",
+                "party_name": "Matara-Independent Group 2",
+                "vote_count": 8,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 5,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D08",
+                "party_name": "Matara-Independent Group 1",
+                "vote_count": 2,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D08",
+                "party_name": "Matara-Independent Group 3",
+                "vote_count": 1,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 54977,
+            "rejected": 2188,
+            "polled": 57165,
+            "electors": 78573,
+            "percent_valid": "69.97%",
+            "percent_rejected": "2.78%",
+            "percent_polled": "72.75%"
+        },
+        "timestamp": "08/06/2020, 13:47:37",
+        "sequence_number": "0394"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T14:59:05.189+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "by_party": [
+            {
+                "vote_count": 92674,
+                "vote_percentage": "73.64%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna"
+            },
+            {
+                "vote_count": 19451,
+                "vote_percentage": "15.46%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 6691,
+                "vote_percentage": "5.32%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 3973,
+                "vote_percentage": "3.16%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 1140,
+                "vote_percentage": "0.91%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 645,
+                "vote_percentage": "0.51%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 325,
+                "vote_percentage": "0.26%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2"
+            },
+            {
+                "vote_count": 134,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NDF",
+                "party_name": "National Democratic Front"
+            },
+            {
+                "vote_count": 102,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 100,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NPP",
+                "party_name": "National Peoples Party"
+            },
+            {
+                "vote_count": 88,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LP",
+                "party_name": "The Liberal Party"
+            },
+            {
+                "vote_count": 75,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka"
+            },
+            {
+                "vote_count": 72,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ULF",
+                "party_name": "United Left Front"
+            },
+            {
+                "vote_count": 62,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            },
+            {
+                "vote_count": 54,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12"
+            },
+            {
+                "vote_count": 40,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11"
+            },
+            {
+                "vote_count": 34,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3"
+            },
+            {
+                "vote_count": 33,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5"
+            },
+            {
+                "vote_count": 32,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13"
+            },
+            {
+                "vote_count": 30,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1"
+            },
+            {
+                "vote_count": 21,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10"
+            },
+            {
+                "vote_count": 19,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7"
+            },
+            {
+                "vote_count": 15,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4"
+            },
+            {
+                "vote_count": 12,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6"
+            },
+            {
+                "vote_count": 12,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9"
+            },
+            {
+                "vote_count": 6,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8"
+            }
+        ],
+        "summary": {
+            "valid": 125840,
+            "rejected": 7001,
+            "polled": 132841,
+            "electors": 169967,
+            "percent_valid": "94.73%",
+            "percent_rejected": "5.27%",
+            "percent_polled": "78.16%"
+        },
+        "sequence_number": "0393"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "pd_code": "07B",
+        "pd_name": "Ambalangoda",
+        "by_party": [
+            {
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna",
+                "vote_count": 39142,
+                "vote_percentage": "74.73%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 8202,
+                "vote_percentage": "15.66%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 2321,
+                "vote_percentage": "4.43%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 1242,
+                "vote_percentage": "2.37%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 519,
+                "vote_percentage": "0.99%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NDF",
+                "party_name": "National Democratic Front",
+                "vote_count": 298,
+                "vote_percentage": "0.57%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 221,
+                "vote_percentage": "0.42%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "ULF",
+                "party_name": "United Left Front",
+                "vote_count": 60,
+                "vote_percentage": "0.11%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12",
+                "vote_count": 47,
+                "vote_percentage": "0.09%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LP",
+                "party_name": "The Liberal Party",
+                "vote_count": 46,
+                "vote_percentage": "0.09%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka",
+                "vote_count": 44,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13",
+                "vote_count": 32,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NPP",
+                "party_name": "National Peoples Party",
+                "vote_count": 31,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna",
+                "vote_count": 29,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2",
+                "vote_count": 24,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6",
+                "vote_count": 19,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1",
+                "vote_count": 16,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 15,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11",
+                "vote_count": 15,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8",
+                "vote_count": 14,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4",
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9",
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7",
+                "vote_count": 7,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3",
+                "vote_count": 6,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10",
+                "vote_count": 6,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5",
+                "vote_count": 3,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 52375,
+            "rejected": 3115,
+            "polled": 55490,
+            "electors": 76150,
+            "percent_valid": "68.78%",
+            "percent_rejected": "4.09%",
+            "percent_polled": "72.87%"
+        },
+        "timestamp": "08/06/2020, 14:10:05",
+        "sequence_number": "0392"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T14:08:30.864+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "by_party": [
+            {
+                "vote_count": 53532,
+                "vote_percentage": "72.87%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna"
+            },
+            {
+                "vote_count": 11249,
+                "vote_percentage": "15.31%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 4370,
+                "vote_percentage": "5.95%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 2731,
+                "vote_percentage": "3.72%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 621,
+                "vote_percentage": "0.85%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 347,
+                "vote_percentage": "0.47%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 104,
+                "vote_percentage": "0.14%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2"
+            },
+            {
+                "vote_count": 74,
+                "vote_percentage": "0.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NDF",
+                "party_name": "National Democratic Front"
+            },
+            {
+                "vote_count": 55,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 54,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NPP",
+                "party_name": "National Peoples Party"
+            },
+            {
+                "vote_count": 44,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LP",
+                "party_name": "The Liberal Party"
+            },
+            {
+                "vote_count": 43,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka"
+            },
+            {
+                "vote_count": 41,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ULF",
+                "party_name": "United Left Front"
+            },
+            {
+                "vote_count": 33,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            },
+            {
+                "vote_count": 30,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12"
+            },
+            {
+                "vote_count": 21,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11"
+            },
+            {
+                "vote_count": 18,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3"
+            },
+            {
+                "vote_count": 18,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5"
+            },
+            {
+                "vote_count": 17,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13"
+            },
+            {
+                "vote_count": 16,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1"
+            },
+            {
+                "vote_count": 13,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10"
+            },
+            {
+                "vote_count": 11,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4"
+            },
+            {
+                "vote_count": 6,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6"
+            },
+            {
+                "vote_count": 6,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9"
+            },
+            {
+                "vote_count": 3,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8"
+            }
+        ],
+        "summary": {
+            "valid": 73465,
+            "rejected": 3886,
+            "polled": 77351,
+            "electors": 93817,
+            "percent_valid": "94.98%",
+            "percent_rejected": "5.02%",
+            "percent_polled": "82.45%"
+        },
+        "sequence_number": "0391"
+    },
+    {
+        "type": "RP_V",
+        "level": "POLLING-DIVISION",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "pd_code": "07A",
+        "pd_name": "Balapitiya",
+        "by_party": [
+            {
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna",
+                "vote_count": 25850,
+                "vote_percentage": "73.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya",
+                "vote_count": 6105,
+                "vote_percentage": "17.25%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya",
+                "vote_count": 1235,
+                "vote_percentage": "3.49%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "UNP",
+                "party_name": "United National Party",
+                "vote_count": 1224,
+                "vote_percentage": "3.46%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party",
+                "vote_count": 378,
+                "vote_percentage": "1.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NDF",
+                "party_name": "National Democratic Front",
+                "vote_count": 227,
+                "vote_percentage": "0.64%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12",
+                "vote_count": 52,
+                "vote_percentage": "0.15%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "ULF",
+                "party_name": "United Left Front",
+                "vote_count": 46,
+                "vote_percentage": "0.13%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party",
+                "vote_count": 36,
+                "vote_percentage": "0.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "NPP",
+                "party_name": "National Peoples Party",
+                "vote_count": 35,
+                "vote_percentage": "0.10%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "LP",
+                "party_name": "The Liberal Party",
+                "vote_count": 30,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13",
+                "vote_count": 29,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka",
+                "vote_count": 28,
+                "vote_percentage": "0.08%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna",
+                "vote_count": 21,
+                "vote_percentage": "0.06%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9",
+                "vote_count": 18,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna",
+                "vote_count": 11,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8",
+                "vote_count": 9,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11",
+                "vote_count": 9,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2",
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7",
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10",
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6",
+                "vote_count": 7,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1",
+                "vote_count": 5,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4",
+                "vote_count": 4,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5",
+                "vote_count": 4,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            },
+            {
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3",
+                "vote_count": 2,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0
+            }
+        ],
+        "summary": {
+            "valid": 35389,
+            "rejected": 2212,
+            "polled": 37601,
+            "electors": 53047,
+            "percent_valid": "66.71%",
+            "percent_rejected": "4.17%",
+            "percent_polled": "70.88%"
+        },
+        "timestamp": "08/06/2020, 12:59:26",
+        "sequence_number": "0390"
+    },
+    {
+        "type": "RE_VI",
+        "timestamp": "2020-08-06T12:55:04.545+0530",
+        "level": "ELECTORAL-DISTRICT",
+        "ed_code": "07",
+        "ed_name": "Galle",
+        "by_party": [
+            {
+                "vote_count": 27682,
+                "vote_percentage": "72.70%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SLPP",
+                "party_name": "Sri Lanka Podujana Peramuna"
+            },
+            {
+                "vote_count": 5144,
+                "vote_percentage": "13.51%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJB",
+                "party_name": "Samagi Jana Balawegaya"
+            },
+            {
+                "vote_count": 3135,
+                "vote_percentage": "8.23%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JJB",
+                "party_name": "Jathika Jana Balawegaya"
+            },
+            {
+                "vote_count": 1507,
+                "vote_percentage": "3.96%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "UNP",
+                "party_name": "United National Party"
+            },
+            {
+                "vote_count": 243,
+                "vote_percentage": "0.64%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "OPPP",
+                "party_name": "Our Power of People Party"
+            },
+            {
+                "vote_count": 120,
+                "vote_percentage": "0.32%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "FSP",
+                "party_name": "Frontline Socialist Party"
+            },
+            {
+                "vote_count": 52,
+                "vote_percentage": "0.14%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND02_D07",
+                "party_name": "Galle-Independent Group 2"
+            },
+            {
+                "vote_count": 28,
+                "vote_percentage": "0.07%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NDF",
+                "party_name": "National Democratic Front"
+            },
+            {
+                "vote_count": 19,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "JSP",
+                "party_name": "Jana Setha Peramuna"
+            },
+            {
+                "vote_count": 19,
+                "vote_percentage": "0.05%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "NPP",
+                "party_name": "National Peoples Party"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "LP",
+                "party_name": "The Liberal Party"
+            },
+            {
+                "vote_count": 14,
+                "vote_percentage": "0.04%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SPS",
+                "party_name": "Socialist Party of Sri Lanka"
+            },
+            {
+                "vote_count": 13,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "ULF",
+                "party_name": "United Left Front"
+            },
+            {
+                "vote_count": 12,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "SJP",
+                "party_name": "Sinhaladeepa Jathika Peramuna"
+            },
+            {
+                "vote_count": 12,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND12_D07",
+                "party_name": "Galle-Independent Group 12"
+            },
+            {
+                "vote_count": 10,
+                "vote_percentage": "0.03%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND11_D07",
+                "party_name": "Galle-Independent Group 11"
+            },
+            {
+                "vote_count": 9,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND03_D07",
+                "party_name": "Galle-Independent Group 3"
+            },
+            {
+                "vote_count": 9,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND05_D07",
+                "party_name": "Galle-Independent Group 5"
+            },
+            {
+                "vote_count": 9,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND13_D07",
+                "party_name": "Galle-Independent Group 13"
+            },
+            {
+                "vote_count": 8,
+                "vote_percentage": "0.02%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND01_D07",
+                "party_name": "Galle-Independent Group 1"
+            },
+            {
+                "vote_count": 5,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND10_D07",
+                "party_name": "Galle-Independent Group 10"
+            },
+            {
+                "vote_count": 4,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND07_D07",
+                "party_name": "Galle-Independent Group 7"
+            },
+            {
+                "vote_count": 3,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND04_D07",
+                "party_name": "Galle-Independent Group 4"
+            },
+            {
+                "vote_count": 2,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND06_D07",
+                "party_name": "Galle-Independent Group 6"
+            },
+            {
+                "vote_count": 2,
+                "vote_percentage": "0.01%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND09_D07",
+                "party_name": "Galle-Independent Group 9"
+            },
+            {
+                "vote_count": 1,
+                "vote_percentage": "0.00%",
+                "seat_count": 0,
+                "national_list_seat_count": 0,
+                "party_code": "IND08_D07",
+                "party_name": "Galle-Independent Group 8"
+            }
+        ],
+        "summary": {
+            "valid": 38076,
+            "rejected": 1674,
+            "polled": 39750,
+            "electors": 40770,
+            "percent_valid": "95.79%",
+            "percent_rejected": "4.21%",
+            "percent_polled": "97.50%"
+        },
+        "sequence_number": "0389"
+    },
+    {
         "type": "RP_V",
         "level": "POLLING-DIVISION",
         "ed_code": "07",

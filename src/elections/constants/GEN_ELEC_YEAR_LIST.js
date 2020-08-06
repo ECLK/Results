@@ -6,6 +6,7 @@ const GEN_ELEC_YEAR_LIST = [
   2004,
   2010,
   2015,
+  2020
 ];
 
 export default GEN_ELEC_YEAR_LIST;
