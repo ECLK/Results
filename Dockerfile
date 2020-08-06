@@ -1,6 +1,10 @@
-# FROM node:10-alpine as builder
+# FROM node:12-alpine as builder
 # WORKDIR /app
 # COPY . .
+
+# RUN apk update && apk upgrade && \
+#     apk add --no-cache bash git openssh
+
 # RUN npm install
 # RUN npm run build
 
@@ -15,7 +19,7 @@ COPY nginx/default.conf /etc/nginx/conf.d/
 RUN rm -rf /usr/share/nginx/html/*
 
 ## From 'builder' stage copy over the artifacts in dist folder to default nginx public folder
-COPY ./build/* /usr/share/nginx/html/
+COPY  build /usr/share/nginx/html
 
 CMD ["nginx", "-g", "daemon off;"]
 

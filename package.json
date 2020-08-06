@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "error-ex": "git+https://github.com/Qix-/node-error-ex.git",
     "express": "^4.17.1",
     "js-file-download": "^0.4.12",
     "moment": "^2.24.0",
