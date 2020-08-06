@@ -44,18 +44,18 @@ export default class HomePage extends Component {
       return renderLoading();
     }
     const year = this.state.year;
-    const detailedResultList = resultGroups[RESULT_TYPE.R_V];
-    const edResultSummaryList = resultGroups[RESULT_TYPE.R_VI];
+    const detailedResultList = resultGroups[RESULT_TYPE.RP_V];
+    const edResultSummaryList = resultGroups[RESULT_TYPE.RE_VI];
 
-    const edSummary = resultGroups[RESULT_TYPE.R_S];
-    const lkSummaryIncr = resultGroups[RESULT_TYPE.R_SI];
+    const edSummary = resultGroups[RESULT_TYPE.RE_S];
+    const lkSummaryIncr = resultGroups[RESULT_TYPE.RN_SI];
     const lkSummaryIncrLast = (lkSummaryIncr)
       ? lkSummaryIncr.slice(-1)[0]
       : null;
 
-    const candidateResultList = resultGroups[RESULT_TYPE.R_SC];
+    const candidateResultList = resultGroups[RESULT_TYPE.RE_SC];
 
-    const finalSeatsGroup = resultGroups[RESULT_TYPE.R_VSN];
+    const finalSeatsGroup = resultGroups[RESULT_TYPE.RN_VSN];
     const finalSeats = (finalSeatsGroup) ? finalSeatsGroup[0] : null;
 
     const onChangeYear = async function(year) {

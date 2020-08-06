@@ -1,8 +1,8 @@
 [
   {
     "sequence_number": "0001",
-    "timestamp": 603549194.0,
-    "type": "R_V",
+    "timestamp": 603549123.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -52,8 +52,8 @@
   },
   {
     "sequence_number": "0002",
-    "timestamp": 603549194.0,
-    "type": "R_VI",
+    "timestamp": 603549123.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -101,8 +101,8 @@
   },
   {
     "sequence_number": "0003",
-    "timestamp": 603549339.0,
-    "type": "R_V",
+    "timestamp": 603549644.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -152,8 +152,8 @@
   },
   {
     "sequence_number": "0004",
-    "timestamp": 603549339.0,
-    "type": "R_VI",
+    "timestamp": 603549644.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -201,8 +201,8 @@
   },
   {
     "sequence_number": "0005",
-    "timestamp": 603549524.0,
-    "type": "R_V",
+    "timestamp": 603549896.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -258,8 +258,8 @@
   },
   {
     "sequence_number": "0006",
-    "timestamp": 603549524.0,
-    "type": "R_VI",
+    "timestamp": 603549896.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -313,8 +313,8 @@
   },
   {
     "sequence_number": "0007",
-    "timestamp": 603549928.0,
-    "type": "R_V",
+    "timestamp": 603550471.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -370,8 +370,8 @@
   },
   {
     "sequence_number": "0008",
-    "timestamp": 603549928.0,
-    "type": "R_VI",
+    "timestamp": 603550471.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -425,8 +425,8 @@
   },
   {
     "sequence_number": "0009",
-    "timestamp": 603550175.0,
-    "type": "R_V",
+    "timestamp": 603550560.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -482,8 +482,8 @@
   },
   {
     "sequence_number": "0010",
-    "timestamp": 603550175.0,
-    "type": "R_VI",
+    "timestamp": 603550560.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -537,8 +537,8 @@
   },
   {
     "sequence_number": "0011",
-    "timestamp": 603550422.0,
-    "type": "R_V",
+    "timestamp": 603551138.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -582,8 +582,8 @@
   },
   {
     "sequence_number": "0012",
-    "timestamp": 603550422.0,
-    "type": "R_VI",
+    "timestamp": 603551138.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -625,8 +625,8 @@
   },
   {
     "sequence_number": "0013",
-    "timestamp": 603550666.0,
-    "type": "R_V",
+    "timestamp": 603551651.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -682,8 +682,8 @@
   },
   {
     "sequence_number": "0014",
-    "timestamp": 603550666.0,
-    "type": "R_VI",
+    "timestamp": 603551651.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -737,8 +737,8 @@
   },
   {
     "sequence_number": "0015",
-    "timestamp": 603550976.0,
-    "type": "R_V",
+    "timestamp": 603552133.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -788,8 +788,8 @@
   },
   {
     "sequence_number": "0016",
-    "timestamp": 603550976.0,
-    "type": "R_VI",
+    "timestamp": 603552133.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -837,8 +837,8 @@
   },
   {
     "sequence_number": "0017",
-    "timestamp": 603551372.0,
-    "type": "R_V",
+    "timestamp": 603552396.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -888,8 +888,8 @@
   },
   {
     "sequence_number": "0018",
-    "timestamp": 603551372.0,
-    "type": "R_VI",
+    "timestamp": 603552396.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -937,8 +937,8 @@
   },
   {
     "sequence_number": "0019",
-    "timestamp": 603551745.0,
-    "type": "R_V",
+    "timestamp": 603552758.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -988,8 +988,8 @@
   },
   {
     "sequence_number": "0020",
-    "timestamp": 603551745.0,
-    "type": "R_VI",
+    "timestamp": 603552758.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -1037,8 +1037,8 @@
   },
   {
     "sequence_number": "0021",
-    "timestamp": 603552173.0,
-    "type": "R_V",
+    "timestamp": 603553093.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -1088,8 +1088,8 @@
   },
   {
     "sequence_number": "0022",
-    "timestamp": 603552173.0,
-    "type": "R_VI",
+    "timestamp": 603553093.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -1137,8 +1137,8 @@
   },
   {
     "sequence_number": "0023",
-    "timestamp": 603552721.0,
-    "type": "R_V",
+    "timestamp": 603553568.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -1200,8 +1200,8 @@
   },
   {
     "sequence_number": "0024",
-    "timestamp": 603552721.0,
-    "type": "R_VI",
+    "timestamp": 603553568.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -1261,8 +1261,8 @@
   },
   {
     "sequence_number": "0025",
-    "timestamp": 603552843.0,
-    "type": "R_V",
+    "timestamp": 603554138.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -1318,8 +1318,8 @@
   },
   {
     "sequence_number": "0026",
-    "timestamp": 603552843.0,
-    "type": "R_VI",
+    "timestamp": 603554138.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -1373,8 +1373,8 @@
   },
   {
     "sequence_number": "0027",
-    "timestamp": 603553353.0,
-    "type": "R_V",
+    "timestamp": 603554551.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -1418,8 +1418,8 @@
   },
   {
     "sequence_number": "0028",
-    "timestamp": 603553353.0,
-    "type": "R_VI",
+    "timestamp": 603554551.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -1461,8 +1461,8 @@
   },
   {
     "sequence_number": "0029",
-    "timestamp": 603553466.0,
-    "type": "R_V",
+    "timestamp": 603555042.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -1512,8 +1512,8 @@
   },
   {
     "sequence_number": "0030",
-    "timestamp": 603553466.0,
-    "type": "R_VI",
+    "timestamp": 603555042.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -1561,8 +1561,8 @@
   },
   {
     "sequence_number": "0031",
-    "timestamp": 603554065.0,
-    "type": "R_V",
+    "timestamp": 603555535.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -1612,8 +1612,8 @@
   },
   {
     "sequence_number": "0032",
-    "timestamp": 603554065.0,
-    "type": "R_VI",
+    "timestamp": 603555535.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -1661,8 +1661,8 @@
   },
   {
     "sequence_number": "0033",
-    "timestamp": 603554556.0,
-    "type": "R_V",
+    "timestamp": 603555929.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -1718,8 +1718,8 @@
   },
   {
     "sequence_number": "0034",
-    "timestamp": 603554556.0,
-    "type": "R_VI",
+    "timestamp": 603555929.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -1773,8 +1773,8 @@
   },
   {
     "sequence_number": "0035",
-    "timestamp": 603554740.0,
-    "type": "R_V",
+    "timestamp": 603556099.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -1824,8 +1824,8 @@
   },
   {
     "sequence_number": "0036",
-    "timestamp": 603554740.0,
-    "type": "R_VI",
+    "timestamp": 603556099.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -1873,8 +1873,8 @@
   },
   {
     "sequence_number": "0037",
-    "timestamp": 603554925.0,
-    "type": "R_V",
+    "timestamp": 603556251.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -1924,8 +1924,8 @@
   },
   {
     "sequence_number": "0038",
-    "timestamp": 603554925.0,
-    "type": "R_VI",
+    "timestamp": 603556251.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -1973,8 +1973,8 @@
   },
   {
     "sequence_number": "0039",
-    "timestamp": 603555483.0,
-    "type": "R_V",
+    "timestamp": 603556748.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2024,8 +2024,8 @@
   },
   {
     "sequence_number": "0040",
-    "timestamp": 603555483.0,
-    "type": "R_VI",
+    "timestamp": 603556748.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2073,8 +2073,8 @@
   },
   {
     "sequence_number": "0041",
-    "timestamp": 603555980.0,
-    "type": "R_V",
+    "timestamp": 603557028.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -2124,8 +2124,8 @@
   },
   {
     "sequence_number": "0042",
-    "timestamp": 603555980.0,
-    "type": "R_VI",
+    "timestamp": 603557028.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -2173,8 +2173,8 @@
   },
   {
     "sequence_number": "0043",
-    "timestamp": 603556129.0,
-    "type": "R_V",
+    "timestamp": 603557559.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -2224,8 +2224,8 @@
   },
   {
     "sequence_number": "0044",
-    "timestamp": 603556129.0,
-    "type": "R_VI",
+    "timestamp": 603557559.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -2273,8 +2273,8 @@
   },
   {
     "sequence_number": "0045",
-    "timestamp": 603556673.0,
-    "type": "R_V",
+    "timestamp": 603557672.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2324,8 +2324,8 @@
   },
   {
     "sequence_number": "0046",
-    "timestamp": 603556673.0,
-    "type": "R_VI",
+    "timestamp": 603557672.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2373,8 +2373,8 @@
   },
   {
     "sequence_number": "0047",
-    "timestamp": 603556846.0,
-    "type": "R_V",
+    "timestamp": 603557786.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2424,8 +2424,8 @@
   },
   {
     "sequence_number": "0048",
-    "timestamp": 603556846.0,
-    "type": "R_VI",
+    "timestamp": 603557786.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -2473,8 +2473,8 @@
   },
   {
     "sequence_number": "0049",
-    "timestamp": 603557260.0,
-    "type": "R_V",
+    "timestamp": 603557872.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -2530,8 +2530,8 @@
   },
   {
     "sequence_number": "0050",
-    "timestamp": 603557260.0,
-    "type": "R_VI",
+    "timestamp": 603557872.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -2585,8 +2585,8 @@
   },
   {
     "sequence_number": "0051",
-    "timestamp": 603557849.0,
-    "type": "R_V",
+    "timestamp": 603558002.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -2642,8 +2642,8 @@
   },
   {
     "sequence_number": "0052",
-    "timestamp": 603557849.0,
-    "type": "R_VI",
+    "timestamp": 603558002.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -2697,8 +2697,8 @@
   },
   {
     "sequence_number": "0053",
-    "timestamp": 603557956.0,
-    "type": "R_V",
+    "timestamp": 603558075.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -2754,8 +2754,8 @@
   },
   {
     "sequence_number": "0054",
-    "timestamp": 603557956.0,
-    "type": "R_VI",
+    "timestamp": 603558075.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -2809,8 +2809,8 @@
   },
   {
     "sequence_number": "0055",
-    "timestamp": 603558083.0,
-    "type": "R_V",
+    "timestamp": 603558406.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -2866,8 +2866,8 @@
   },
   {
     "sequence_number": "0056",
-    "timestamp": 603558083.0,
-    "type": "R_VI",
+    "timestamp": 603558406.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -2921,8 +2921,8 @@
   },
   {
     "sequence_number": "0057",
-    "timestamp": 603558441.0,
-    "type": "R_V",
+    "timestamp": 603558596.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -2972,8 +2972,8 @@
   },
   {
     "sequence_number": "0058",
-    "timestamp": 603558441.0,
-    "type": "R_VI",
+    "timestamp": 603558596.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -3021,8 +3021,8 @@
   },
   {
     "sequence_number": "0059",
-    "timestamp": 603558556.0,
-    "type": "R_V",
+    "timestamp": 603558857.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3072,8 +3072,8 @@
   },
   {
     "sequence_number": "0060",
-    "timestamp": 603558556.0,
-    "type": "R_VI",
+    "timestamp": 603558857.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3121,8 +3121,8 @@
   },
   {
     "sequence_number": "0061",
-    "timestamp": 603558798.0,
-    "type": "R_V",
+    "timestamp": 603559094.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -3172,8 +3172,8 @@
   },
   {
     "sequence_number": "0062",
-    "timestamp": 603558798.0,
-    "type": "R_VI",
+    "timestamp": 603559094.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -3221,8 +3221,8 @@
   },
   {
     "sequence_number": "0063",
-    "timestamp": 603559074.0,
-    "type": "R_V",
+    "timestamp": 603559377.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3272,8 +3272,8 @@
   },
   {
     "sequence_number": "0064",
-    "timestamp": 603559074.0,
-    "type": "R_VI",
+    "timestamp": 603559377.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3321,8 +3321,8 @@
   },
   {
     "sequence_number": "0065",
-    "timestamp": 603559214.0,
-    "type": "R_V",
+    "timestamp": 603559669.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -3366,8 +3366,8 @@
   },
   {
     "sequence_number": "0066",
-    "timestamp": 603559214.0,
-    "type": "R_VI",
+    "timestamp": 603559669.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -3409,8 +3409,8 @@
   },
   {
     "sequence_number": "0067",
-    "timestamp": 603559325.0,
-    "type": "R_V",
+    "timestamp": 603559944.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -3460,8 +3460,8 @@
   },
   {
     "sequence_number": "0068",
-    "timestamp": 603559325.0,
-    "type": "R_VI",
+    "timestamp": 603559944.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -3509,8 +3509,8 @@
   },
   {
     "sequence_number": "0069",
-    "timestamp": 603559510.0,
-    "type": "R_V",
+    "timestamp": 603560488.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3560,8 +3560,8 @@
   },
   {
     "sequence_number": "0070",
-    "timestamp": 603559510.0,
-    "type": "R_VI",
+    "timestamp": 603560488.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3609,8 +3609,8 @@
   },
   {
     "sequence_number": "0071",
-    "timestamp": 603560025.0,
-    "type": "R_V",
+    "timestamp": 603560771.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -3660,8 +3660,8 @@
   },
   {
     "sequence_number": "0072",
-    "timestamp": 603560025.0,
-    "type": "R_VI",
+    "timestamp": 603560771.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -3709,8 +3709,8 @@
   },
   {
     "sequence_number": "0073",
-    "timestamp": 603560259.0,
-    "type": "R_V",
+    "timestamp": 603561185.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3760,8 +3760,8 @@
   },
   {
     "sequence_number": "0074",
-    "timestamp": 603560259.0,
-    "type": "R_VI",
+    "timestamp": 603561185.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3809,8 +3809,8 @@
   },
   {
     "sequence_number": "0075",
-    "timestamp": 603560541.0,
-    "type": "R_V",
+    "timestamp": 603561682.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3860,8 +3860,8 @@
   },
   {
     "sequence_number": "0076",
-    "timestamp": 603560541.0,
-    "type": "R_VI",
+    "timestamp": 603561682.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -3909,8 +3909,8 @@
   },
   {
     "sequence_number": "0077",
-    "timestamp": 603560873.0,
-    "type": "R_V",
+    "timestamp": 603561923.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -3966,8 +3966,8 @@
   },
   {
     "sequence_number": "0078",
-    "timestamp": 603560873.0,
-    "type": "R_VI",
+    "timestamp": 603561923.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -4021,8 +4021,8 @@
   },
   {
     "sequence_number": "0079",
-    "timestamp": 603561095.0,
-    "type": "R_V",
+    "timestamp": 603562017.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -4072,8 +4072,8 @@
   },
   {
     "sequence_number": "0080",
-    "timestamp": 603561095.0,
-    "type": "R_VI",
+    "timestamp": 603562017.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -4121,8 +4121,8 @@
   },
   {
     "sequence_number": "0081",
-    "timestamp": 603561549.0,
-    "type": "R_V",
+    "timestamp": 603562548.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -4166,8 +4166,8 @@
   },
   {
     "sequence_number": "0082",
-    "timestamp": 603561549.0,
-    "type": "R_VI",
+    "timestamp": 603562548.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -4209,8 +4209,8 @@
   },
   {
     "sequence_number": "0083",
-    "timestamp": 603562001.0,
-    "type": "R_V",
+    "timestamp": 603563109.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -4266,8 +4266,8 @@
   },
   {
     "sequence_number": "0084",
-    "timestamp": 603562001.0,
-    "type": "R_VI",
+    "timestamp": 603563109.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -4321,8 +4321,8 @@
   },
   {
     "sequence_number": "0085",
-    "timestamp": 603562187.0,
-    "type": "R_V",
+    "timestamp": 603563429.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -4378,8 +4378,8 @@
   },
   {
     "sequence_number": "0086",
-    "timestamp": 603562187.0,
-    "type": "R_VI",
+    "timestamp": 603563429.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -4433,8 +4433,8 @@
   },
   {
     "sequence_number": "0087",
-    "timestamp": 603562432.0,
-    "type": "R_V",
+    "timestamp": 603563956.0,
+    "type": "RP_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -4490,8 +4490,8 @@
   },
   {
     "sequence_number": "0088",
-    "timestamp": 603562432.0,
-    "type": "R_VI",
+    "timestamp": 603563956.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -4545,8 +4545,8 @@
   },
   {
     "sequence_number": "0089",
-    "timestamp": 603562707.0,
-    "type": "R_V",
+    "timestamp": 603564366.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -4590,8 +4590,8 @@
   },
   {
     "sequence_number": "0090",
-    "timestamp": 603562707.0,
-    "type": "R_VI",
+    "timestamp": 603564366.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -4633,8 +4633,8 @@
   },
   {
     "sequence_number": "0091",
-    "timestamp": 603563230.0,
-    "type": "R_V",
+    "timestamp": 603564561.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -4684,8 +4684,8 @@
   },
   {
     "sequence_number": "0092",
-    "timestamp": 603563230.0,
-    "type": "R_VI",
+    "timestamp": 603564561.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -4733,8 +4733,8 @@
   },
   {
     "sequence_number": "0093",
-    "timestamp": 603563699.0,
-    "type": "R_V",
+    "timestamp": 603564773.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -4784,8 +4784,8 @@
   },
   {
     "sequence_number": "0094",
-    "timestamp": 603563699.0,
-    "type": "R_VI",
+    "timestamp": 603564773.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -4838,8 +4838,8 @@
   },
   {
     "sequence_number": "0095",
-    "timestamp": 603563699.0,
-    "type": "R_S",
+    "timestamp": 603564773.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -4883,8 +4883,53 @@
   },
   {
     "sequence_number": "0096",
-    "timestamp": 603563699.0,
-    "type": "R_SI",
+    "timestamp": 603564773.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "11",
+    "ed_name": "Vanni",
+    "by_party": [
+      {
+        "party_code": "TULF",
+        "vote_count": 17271,
+        "vote_percentage": "39.99%",
+        "party_name": "Tamil United Liberation Front",
+        "seat_count": 2
+      },
+      {
+        "party_code": "UNP",
+        "vote_count": 8525,
+        "vote_percentage": "19.74%",
+        "party_name": "United National Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 7945,
+        "vote_percentage": "18.40%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 1
+      },
+      {
+        "party_code": "IND",
+        "vote_count": 7879,
+        "vote_percentage": "18.24%",
+        "party_name": "IND",
+        "seat_count": 1
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 1568,
+        "vote_percentage": "3.63%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0097",
+    "timestamp": 603564773.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -4925,9 +4970,9 @@
     ]
   },
   {
-    "sequence_number": "0097",
-    "timestamp": 603563699.0,
-    "type": "R_SC",
+    "sequence_number": "0098",
+    "timestamp": 603564773.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "11",
     "ed_name": "Vanni",
@@ -4971,9 +5016,9 @@
     ]
   },
   {
-    "sequence_number": "0098",
-    "timestamp": 603564203.0,
-    "type": "R_V",
+    "sequence_number": "0099",
+    "timestamp": 603565047.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5022,9 +5067,9 @@
     }
   },
   {
-    "sequence_number": "0099",
-    "timestamp": 603564203.0,
-    "type": "R_VI",
+    "sequence_number": "0100",
+    "timestamp": 603565047.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5071,9 +5116,9 @@
     ]
   },
   {
-    "sequence_number": "0100",
-    "timestamp": 603564472.0,
-    "type": "R_V",
+    "sequence_number": "0101",
+    "timestamp": 603565333.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -5122,9 +5167,9 @@
     }
   },
   {
-    "sequence_number": "0101",
-    "timestamp": 603564472.0,
-    "type": "R_VI",
+    "sequence_number": "0102",
+    "timestamp": 603565333.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -5171,9 +5216,9 @@
     ]
   },
   {
-    "sequence_number": "0102",
-    "timestamp": 603564554.0,
-    "type": "R_V",
+    "sequence_number": "0103",
+    "timestamp": 603565407.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -5228,9 +5273,9 @@
     }
   },
   {
-    "sequence_number": "0103",
-    "timestamp": 603564554.0,
-    "type": "R_VI",
+    "sequence_number": "0104",
+    "timestamp": 603565407.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -5283,9 +5328,9 @@
     ]
   },
   {
-    "sequence_number": "0104",
-    "timestamp": 603565060.0,
-    "type": "R_V",
+    "sequence_number": "0105",
+    "timestamp": 603565533.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -5340,9 +5385,9 @@
     }
   },
   {
-    "sequence_number": "0105",
-    "timestamp": 603565060.0,
-    "type": "R_VI",
+    "sequence_number": "0106",
+    "timestamp": 603565533.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -5395,9 +5440,9 @@
     ]
   },
   {
-    "sequence_number": "0106",
-    "timestamp": 603565356.0,
-    "type": "R_V",
+    "sequence_number": "0107",
+    "timestamp": 603565677.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -5446,9 +5491,9 @@
     }
   },
   {
-    "sequence_number": "0107",
-    "timestamp": 603565356.0,
-    "type": "R_VI",
+    "sequence_number": "0108",
+    "timestamp": 603565677.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -5495,9 +5540,9 @@
     ]
   },
   {
-    "sequence_number": "0108",
-    "timestamp": 603565664.0,
-    "type": "R_V",
+    "sequence_number": "0109",
+    "timestamp": 603566100.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5546,9 +5591,9 @@
     }
   },
   {
-    "sequence_number": "0109",
-    "timestamp": 603565664.0,
-    "type": "R_VI",
+    "sequence_number": "0110",
+    "timestamp": 603566100.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5595,9 +5640,9 @@
     ]
   },
   {
-    "sequence_number": "0110",
-    "timestamp": 603565740.0,
-    "type": "R_V",
+    "sequence_number": "0111",
+    "timestamp": 603566165.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -5652,9 +5697,9 @@
     }
   },
   {
-    "sequence_number": "0111",
-    "timestamp": 603565740.0,
-    "type": "R_VI",
+    "sequence_number": "0112",
+    "timestamp": 603566165.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -5707,9 +5752,9 @@
     ]
   },
   {
-    "sequence_number": "0112",
-    "timestamp": 603565860.0,
-    "type": "R_V",
+    "sequence_number": "0113",
+    "timestamp": 603566525.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -5764,9 +5809,9 @@
     }
   },
   {
-    "sequence_number": "0113",
-    "timestamp": 603565860.0,
-    "type": "R_VI",
+    "sequence_number": "0114",
+    "timestamp": 603566525.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -5819,9 +5864,9 @@
     ]
   },
   {
-    "sequence_number": "0114",
-    "timestamp": 603566045.0,
-    "type": "R_V",
+    "sequence_number": "0115",
+    "timestamp": 603567066.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5870,9 +5915,9 @@
     }
   },
   {
-    "sequence_number": "0115",
-    "timestamp": 603566045.0,
-    "type": "R_VI",
+    "sequence_number": "0116",
+    "timestamp": 603567066.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -5919,9 +5964,9 @@
     ]
   },
   {
-    "sequence_number": "0116",
-    "timestamp": 603566505.0,
-    "type": "R_V",
+    "sequence_number": "0117",
+    "timestamp": 603567473.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -5976,9 +6021,9 @@
     }
   },
   {
-    "sequence_number": "0117",
-    "timestamp": 603566505.0,
-    "type": "R_VI",
+    "sequence_number": "0118",
+    "timestamp": 603567473.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -6031,9 +6076,9 @@
     ]
   },
   {
-    "sequence_number": "0118",
-    "timestamp": 603566875.0,
-    "type": "R_V",
+    "sequence_number": "0119",
+    "timestamp": 603567773.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -6088,9 +6133,9 @@
     }
   },
   {
-    "sequence_number": "0119",
-    "timestamp": 603566875.0,
-    "type": "R_VI",
+    "sequence_number": "0120",
+    "timestamp": 603567773.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -6143,9 +6188,9 @@
     ]
   },
   {
-    "sequence_number": "0120",
-    "timestamp": 603567012.0,
-    "type": "R_V",
+    "sequence_number": "0121",
+    "timestamp": 603568022.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -6194,9 +6239,9 @@
     }
   },
   {
-    "sequence_number": "0121",
-    "timestamp": 603567012.0,
-    "type": "R_VI",
+    "sequence_number": "0122",
+    "timestamp": 603568022.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -6248,9 +6293,9 @@
     ]
   },
   {
-    "sequence_number": "0122",
-    "timestamp": 603567012.0,
-    "type": "R_S",
+    "sequence_number": "0123",
+    "timestamp": 603568022.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -6293,9 +6338,54 @@
     ]
   },
   {
-    "sequence_number": "0123",
-    "timestamp": 603567012.0,
-    "type": "R_SI",
+    "sequence_number": "0124",
+    "timestamp": 603568022.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "09",
+    "ed_name": "Hambantota",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 31639,
+        "vote_percentage": "55.92%",
+        "party_name": "United National Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 22459,
+        "vote_percentage": "39.70%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 2
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 1686,
+        "vote_percentage": "2.98%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "DPLF",
+        "vote_count": 648,
+        "vote_percentage": "1.15%",
+        "party_name": "DPLF",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 143,
+        "vote_percentage": "0.25%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0125",
+    "timestamp": 603568022.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -6350,9 +6440,9 @@
     ]
   },
   {
-    "sequence_number": "0124",
-    "timestamp": 603567012.0,
-    "type": "R_SC",
+    "sequence_number": "0126",
+    "timestamp": 603568022.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "09",
     "ed_name": "Hambantota",
@@ -6402,9 +6492,9 @@
     ]
   },
   {
-    "sequence_number": "0125",
-    "timestamp": 603567088.0,
-    "type": "R_V",
+    "sequence_number": "0127",
+    "timestamp": 603568099.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -6453,9 +6543,9 @@
     }
   },
   {
-    "sequence_number": "0126",
-    "timestamp": 603567088.0,
-    "type": "R_VI",
+    "sequence_number": "0128",
+    "timestamp": 603568099.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -6502,9 +6592,9 @@
     ]
   },
   {
-    "sequence_number": "0127",
-    "timestamp": 603567522.0,
-    "type": "R_V",
+    "sequence_number": "0129",
+    "timestamp": 603568344.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -6553,9 +6643,9 @@
     }
   },
   {
-    "sequence_number": "0128",
-    "timestamp": 603567522.0,
-    "type": "R_VI",
+    "sequence_number": "0130",
+    "timestamp": 603568344.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -6602,9 +6692,9 @@
     ]
   },
   {
-    "sequence_number": "0129",
-    "timestamp": 603567768.0,
-    "type": "R_V",
+    "sequence_number": "0131",
+    "timestamp": 603568679.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -6653,9 +6743,9 @@
     }
   },
   {
-    "sequence_number": "0130",
-    "timestamp": 603567768.0,
-    "type": "R_VI",
+    "sequence_number": "0132",
+    "timestamp": 603568679.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -6702,9 +6792,9 @@
     ]
   },
   {
-    "sequence_number": "0131",
-    "timestamp": 603567969.0,
-    "type": "R_V",
+    "sequence_number": "0133",
+    "timestamp": 603569145.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -6753,9 +6843,9 @@
     }
   },
   {
-    "sequence_number": "0132",
-    "timestamp": 603567969.0,
-    "type": "R_VI",
+    "sequence_number": "0134",
+    "timestamp": 603569145.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -6802,9 +6892,9 @@
     ]
   },
   {
-    "sequence_number": "0133",
-    "timestamp": 603568439.0,
-    "type": "R_V",
+    "sequence_number": "0135",
+    "timestamp": 603569588.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -6853,9 +6943,9 @@
     }
   },
   {
-    "sequence_number": "0134",
-    "timestamp": 603568439.0,
-    "type": "R_VI",
+    "sequence_number": "0136",
+    "timestamp": 603569588.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -6902,9 +6992,9 @@
     ]
   },
   {
-    "sequence_number": "0135",
-    "timestamp": 603568729.0,
-    "type": "R_V",
+    "sequence_number": "0137",
+    "timestamp": 603569951.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -6953,9 +7043,9 @@
     }
   },
   {
-    "sequence_number": "0136",
-    "timestamp": 603568729.0,
-    "type": "R_VI",
+    "sequence_number": "0138",
+    "timestamp": 603569951.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -7002,9 +7092,9 @@
     ]
   },
   {
-    "sequence_number": "0137",
-    "timestamp": 603569058.0,
-    "type": "R_V",
+    "sequence_number": "0139",
+    "timestamp": 603570546.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -7053,9 +7143,9 @@
     }
   },
   {
-    "sequence_number": "0138",
-    "timestamp": 603569058.0,
-    "type": "R_VI",
+    "sequence_number": "0140",
+    "timestamp": 603570546.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -7102,9 +7192,9 @@
     ]
   },
   {
-    "sequence_number": "0139",
-    "timestamp": 603569487.0,
-    "type": "R_V",
+    "sequence_number": "0141",
+    "timestamp": 603570774.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -7153,9 +7243,9 @@
     }
   },
   {
-    "sequence_number": "0140",
-    "timestamp": 603569487.0,
-    "type": "R_VI",
+    "sequence_number": "0142",
+    "timestamp": 603570774.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -7202,9 +7292,9 @@
     ]
   },
   {
-    "sequence_number": "0141",
-    "timestamp": 603569686.0,
-    "type": "R_V",
+    "sequence_number": "0143",
+    "timestamp": 603571281.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7259,9 +7349,9 @@
     }
   },
   {
-    "sequence_number": "0142",
-    "timestamp": 603569686.0,
-    "type": "R_VI",
+    "sequence_number": "0144",
+    "timestamp": 603571281.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7314,9 +7404,9 @@
     ]
   },
   {
-    "sequence_number": "0143",
-    "timestamp": 603570256.0,
-    "type": "R_V",
+    "sequence_number": "0145",
+    "timestamp": 603571589.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -7365,9 +7455,9 @@
     }
   },
   {
-    "sequence_number": "0144",
-    "timestamp": 603570256.0,
-    "type": "R_VI",
+    "sequence_number": "0146",
+    "timestamp": 603571589.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -7414,9 +7504,9 @@
     ]
   },
   {
-    "sequence_number": "0145",
-    "timestamp": 603570587.0,
-    "type": "R_V",
+    "sequence_number": "0147",
+    "timestamp": 603571692.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7471,9 +7561,9 @@
     }
   },
   {
-    "sequence_number": "0146",
-    "timestamp": 603570587.0,
-    "type": "R_VI",
+    "sequence_number": "0148",
+    "timestamp": 603571692.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7526,9 +7616,9 @@
     ]
   },
   {
-    "sequence_number": "0147",
-    "timestamp": 603570866.0,
-    "type": "R_V",
+    "sequence_number": "0149",
+    "timestamp": 603571987.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -7583,9 +7673,9 @@
     }
   },
   {
-    "sequence_number": "0148",
-    "timestamp": 603570866.0,
-    "type": "R_VI",
+    "sequence_number": "0150",
+    "timestamp": 603571987.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -7638,9 +7728,9 @@
     ]
   },
   {
-    "sequence_number": "0149",
-    "timestamp": 603571443.0,
-    "type": "R_V",
+    "sequence_number": "0151",
+    "timestamp": 603572533.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -7695,9 +7785,9 @@
     }
   },
   {
-    "sequence_number": "0150",
-    "timestamp": 603571443.0,
-    "type": "R_VI",
+    "sequence_number": "0152",
+    "timestamp": 603572533.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -7750,9 +7840,9 @@
     ]
   },
   {
-    "sequence_number": "0151",
-    "timestamp": 603571686.0,
-    "type": "R_V",
+    "sequence_number": "0153",
+    "timestamp": 603572841.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7807,9 +7897,9 @@
     }
   },
   {
-    "sequence_number": "0152",
-    "timestamp": 603571686.0,
-    "type": "R_VI",
+    "sequence_number": "0154",
+    "timestamp": 603572841.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -7862,9 +7952,9 @@
     ]
   },
   {
-    "sequence_number": "0153",
-    "timestamp": 603572062.0,
-    "type": "R_V",
+    "sequence_number": "0155",
+    "timestamp": 603573375.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -7907,9 +7997,9 @@
     }
   },
   {
-    "sequence_number": "0154",
-    "timestamp": 603572062.0,
-    "type": "R_VI",
+    "sequence_number": "0156",
+    "timestamp": 603573375.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -7950,9 +8040,9 @@
     ]
   },
   {
-    "sequence_number": "0155",
-    "timestamp": 603572539.0,
-    "type": "R_V",
+    "sequence_number": "0157",
+    "timestamp": 603573929.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -8001,9 +8091,9 @@
     }
   },
   {
-    "sequence_number": "0156",
-    "timestamp": 603572539.0,
-    "type": "R_VI",
+    "sequence_number": "0158",
+    "timestamp": 603573929.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -8050,9 +8140,9 @@
     ]
   },
   {
-    "sequence_number": "0157",
-    "timestamp": 603572837.0,
-    "type": "R_V",
+    "sequence_number": "0159",
+    "timestamp": 603574086.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -8101,9 +8191,9 @@
     }
   },
   {
-    "sequence_number": "0158",
-    "timestamp": 603572837.0,
-    "type": "R_VI",
+    "sequence_number": "0160",
+    "timestamp": 603574086.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -8150,9 +8240,9 @@
     ]
   },
   {
-    "sequence_number": "0159",
-    "timestamp": 603572982.0,
-    "type": "R_V",
+    "sequence_number": "0161",
+    "timestamp": 603574236.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -8207,9 +8297,9 @@
     }
   },
   {
-    "sequence_number": "0160",
-    "timestamp": 603572982.0,
-    "type": "R_VI",
+    "sequence_number": "0162",
+    "timestamp": 603574236.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -8262,9 +8352,9 @@
     ]
   },
   {
-    "sequence_number": "0161",
-    "timestamp": 603573159.0,
-    "type": "R_V",
+    "sequence_number": "0163",
+    "timestamp": 603574551.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -8319,9 +8409,9 @@
     }
   },
   {
-    "sequence_number": "0162",
-    "timestamp": 603573159.0,
-    "type": "R_VI",
+    "sequence_number": "0164",
+    "timestamp": 603574551.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -8374,9 +8464,9 @@
     ]
   },
   {
-    "sequence_number": "0163",
-    "timestamp": 603573671.0,
-    "type": "R_V",
+    "sequence_number": "0165",
+    "timestamp": 603574821.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -8431,9 +8521,9 @@
     }
   },
   {
-    "sequence_number": "0164",
-    "timestamp": 603573671.0,
-    "type": "R_VI",
+    "sequence_number": "0166",
+    "timestamp": 603574821.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -8486,9 +8576,9 @@
     ]
   },
   {
-    "sequence_number": "0165",
-    "timestamp": 603573838.0,
-    "type": "R_V",
+    "sequence_number": "0167",
+    "timestamp": 603575355.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -8543,9 +8633,9 @@
     }
   },
   {
-    "sequence_number": "0166",
-    "timestamp": 603573838.0,
-    "type": "R_VI",
+    "sequence_number": "0168",
+    "timestamp": 603575355.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -8598,9 +8688,9 @@
     ]
   },
   {
-    "sequence_number": "0167",
-    "timestamp": 603574231.0,
-    "type": "R_V",
+    "sequence_number": "0169",
+    "timestamp": 603575519.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -8649,9 +8739,9 @@
     }
   },
   {
-    "sequence_number": "0168",
-    "timestamp": 603574231.0,
-    "type": "R_VI",
+    "sequence_number": "0170",
+    "timestamp": 603575519.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -8698,9 +8788,9 @@
     ]
   },
   {
-    "sequence_number": "0169",
-    "timestamp": 603574810.0,
-    "type": "R_V",
+    "sequence_number": "0171",
+    "timestamp": 603575841.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -8755,9 +8845,9 @@
     }
   },
   {
-    "sequence_number": "0170",
-    "timestamp": 603574810.0,
-    "type": "R_VI",
+    "sequence_number": "0172",
+    "timestamp": 603575841.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -8810,9 +8900,9 @@
     ]
   },
   {
-    "sequence_number": "0171",
-    "timestamp": 603575230.0,
-    "type": "R_V",
+    "sequence_number": "0173",
+    "timestamp": 603576024.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -8867,9 +8957,9 @@
     }
   },
   {
-    "sequence_number": "0172",
-    "timestamp": 603575230.0,
-    "type": "R_VI",
+    "sequence_number": "0174",
+    "timestamp": 603576024.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -8922,9 +9012,9 @@
     ]
   },
   {
-    "sequence_number": "0173",
-    "timestamp": 603575434.0,
-    "type": "R_V",
+    "sequence_number": "0175",
+    "timestamp": 603576533.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -8979,9 +9069,9 @@
     }
   },
   {
-    "sequence_number": "0174",
-    "timestamp": 603575434.0,
-    "type": "R_VI",
+    "sequence_number": "0176",
+    "timestamp": 603576533.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -9034,9 +9124,9 @@
     ]
   },
   {
-    "sequence_number": "0175",
-    "timestamp": 603575808.0,
-    "type": "R_V",
+    "sequence_number": "0177",
+    "timestamp": 603576763.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -9085,9 +9175,9 @@
     }
   },
   {
-    "sequence_number": "0176",
-    "timestamp": 603575808.0,
-    "type": "R_VI",
+    "sequence_number": "0178",
+    "timestamp": 603576763.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -9134,9 +9224,9 @@
     ]
   },
   {
-    "sequence_number": "0177",
-    "timestamp": 603576297.0,
-    "type": "R_V",
+    "sequence_number": "0179",
+    "timestamp": 603577229.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -9191,9 +9281,9 @@
     }
   },
   {
-    "sequence_number": "0178",
-    "timestamp": 603576297.0,
-    "type": "R_VI",
+    "sequence_number": "0180",
+    "timestamp": 603577229.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -9246,9 +9336,9 @@
     ]
   },
   {
-    "sequence_number": "0179",
-    "timestamp": 603576551.0,
-    "type": "R_V",
+    "sequence_number": "0181",
+    "timestamp": 603577710.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -9297,9 +9387,9 @@
     }
   },
   {
-    "sequence_number": "0180",
-    "timestamp": 603576551.0,
-    "type": "R_VI",
+    "sequence_number": "0182",
+    "timestamp": 603577710.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -9346,9 +9436,9 @@
     ]
   },
   {
-    "sequence_number": "0181",
-    "timestamp": 603577038.0,
-    "type": "R_V",
+    "sequence_number": "0183",
+    "timestamp": 603577809.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -9403,9 +9493,9 @@
     }
   },
   {
-    "sequence_number": "0182",
-    "timestamp": 603577038.0,
-    "type": "R_VI",
+    "sequence_number": "0184",
+    "timestamp": 603577809.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -9464,9 +9554,9 @@
     ]
   },
   {
-    "sequence_number": "0183",
-    "timestamp": 603577038.0,
-    "type": "R_S",
+    "sequence_number": "0185",
+    "timestamp": 603577809.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -9516,9 +9606,61 @@
     ]
   },
   {
-    "sequence_number": "0184",
-    "timestamp": 603577038.0,
-    "type": "R_SI",
+    "sequence_number": "0186",
+    "timestamp": 603577809.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "10",
+    "ed_name": "Jaffna",
+    "by_party": [
+      {
+        "party_code": "INDI",
+        "vote_count": 150340,
+        "vote_percentage": "62.68%",
+        "party_name": "INDI",
+        "seat_count": 8
+      },
+      {
+        "party_code": "TULF",
+        "vote_count": 60013,
+        "vote_percentage": "25.02%",
+        "party_name": "Tamil United Liberation Front",
+        "seat_count": 3
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 8439,
+        "vote_percentage": "3.52%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "DPLF",
+        "vote_count": 7993,
+        "vote_percentage": "3.33%",
+        "party_name": "DPLF",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ACTC",
+        "vote_count": 7610,
+        "vote_percentage": "3.17%",
+        "party_name": "ACTC",
+        "seat_count": 0
+      },
+      {
+        "party_code": "UNP",
+        "vote_count": 5460,
+        "vote_percentage": "2.28%",
+        "party_name": "United National Party",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0187",
+    "timestamp": 603577809.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -9587,9 +9729,9 @@
     ]
   },
   {
-    "sequence_number": "0185",
-    "timestamp": 603577038.0,
-    "type": "R_SC",
+    "sequence_number": "0188",
+    "timestamp": 603577809.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "10",
     "ed_name": "Jaffna",
@@ -9663,9 +9805,9 @@
     ]
   },
   {
-    "sequence_number": "0186",
-    "timestamp": 603577388.0,
-    "type": "R_V",
+    "sequence_number": "0189",
+    "timestamp": 603578371.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -9714,9 +9856,9 @@
     }
   },
   {
-    "sequence_number": "0187",
-    "timestamp": 603577388.0,
-    "type": "R_VI",
+    "sequence_number": "0190",
+    "timestamp": 603578371.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -9763,9 +9905,9 @@
     ]
   },
   {
-    "sequence_number": "0188",
-    "timestamp": 603577509.0,
-    "type": "R_V",
+    "sequence_number": "0191",
+    "timestamp": 603578514.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -9814,9 +9956,9 @@
     }
   },
   {
-    "sequence_number": "0189",
-    "timestamp": 603577509.0,
-    "type": "R_VI",
+    "sequence_number": "0192",
+    "timestamp": 603578514.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -9863,9 +10005,9 @@
     ]
   },
   {
-    "sequence_number": "0190",
-    "timestamp": 603578027.0,
-    "type": "R_V",
+    "sequence_number": "0193",
+    "timestamp": 603578874.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -9920,9 +10062,9 @@
     }
   },
   {
-    "sequence_number": "0191",
-    "timestamp": 603578027.0,
-    "type": "R_VI",
+    "sequence_number": "0194",
+    "timestamp": 603578874.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -9975,9 +10117,9 @@
     ]
   },
   {
-    "sequence_number": "0192",
-    "timestamp": 603578207.0,
-    "type": "R_V",
+    "sequence_number": "0195",
+    "timestamp": 603579135.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -10032,9 +10174,9 @@
     }
   },
   {
-    "sequence_number": "0193",
-    "timestamp": 603578207.0,
-    "type": "R_VI",
+    "sequence_number": "0196",
+    "timestamp": 603579135.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -10087,9 +10229,9 @@
     ]
   },
   {
-    "sequence_number": "0194",
-    "timestamp": 603578416.0,
-    "type": "R_V",
+    "sequence_number": "0197",
+    "timestamp": 603579248.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -10144,9 +10286,9 @@
     }
   },
   {
-    "sequence_number": "0195",
-    "timestamp": 603578416.0,
-    "type": "R_VI",
+    "sequence_number": "0198",
+    "timestamp": 603579248.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -10199,9 +10341,9 @@
     ]
   },
   {
-    "sequence_number": "0196",
-    "timestamp": 603578518.0,
-    "type": "R_V",
+    "sequence_number": "0199",
+    "timestamp": 603579669.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -10244,9 +10386,9 @@
     }
   },
   {
-    "sequence_number": "0197",
-    "timestamp": 603578518.0,
-    "type": "R_VI",
+    "sequence_number": "0200",
+    "timestamp": 603579669.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -10287,9 +10429,9 @@
     ]
   },
   {
-    "sequence_number": "0198",
-    "timestamp": 603579064.0,
-    "type": "R_V",
+    "sequence_number": "0201",
+    "timestamp": 603580048.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -10344,9 +10486,9 @@
     }
   },
   {
-    "sequence_number": "0199",
-    "timestamp": 603579064.0,
-    "type": "R_VI",
+    "sequence_number": "0202",
+    "timestamp": 603580048.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -10405,9 +10547,9 @@
     ]
   },
   {
-    "sequence_number": "0200",
-    "timestamp": 603579064.0,
-    "type": "R_S",
+    "sequence_number": "0203",
+    "timestamp": 603580048.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -10457,9 +10599,61 @@
     ]
   },
   {
-    "sequence_number": "0201",
-    "timestamp": 603579064.0,
-    "type": "R_SI",
+    "sequence_number": "0204",
+    "timestamp": 603580048.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "20",
+    "ed_name": "Moneragala",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 46313,
+        "vote_percentage": "52.42%",
+        "party_name": "United National Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 38640,
+        "vote_percentage": "43.73%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 2
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 2149,
+        "vote_percentage": "2.43%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 451,
+        "vote_percentage": "0.51%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 450,
+        "vote_percentage": "0.51%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "IND",
+        "vote_count": 349,
+        "vote_percentage": "0.40%",
+        "party_name": "IND",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0205",
+    "timestamp": 603580048.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -10535,9 +10729,9 @@
     ]
   },
   {
-    "sequence_number": "0202",
-    "timestamp": 603579064.0,
-    "type": "R_SC",
+    "sequence_number": "0206",
+    "timestamp": 603580048.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "20",
     "ed_name": "Moneragala",
@@ -10575,9 +10769,9 @@
     ]
   },
   {
-    "sequence_number": "0203",
-    "timestamp": 603579584.0,
-    "type": "R_V",
+    "sequence_number": "0207",
+    "timestamp": 603580471.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -10626,9 +10820,9 @@
     }
   },
   {
-    "sequence_number": "0204",
-    "timestamp": 603579584.0,
-    "type": "R_VI",
+    "sequence_number": "0208",
+    "timestamp": 603580471.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -10680,9 +10874,9 @@
     ]
   },
   {
-    "sequence_number": "0205",
-    "timestamp": 603579584.0,
-    "type": "R_S",
+    "sequence_number": "0209",
+    "timestamp": 603580471.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -10725,9 +10919,54 @@
     ]
   },
   {
-    "sequence_number": "0206",
-    "timestamp": 603579584.0,
-    "type": "R_SI",
+    "sequence_number": "0210",
+    "timestamp": 603580471.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "08",
+    "ed_name": "Matara",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 45734,
+        "vote_percentage": "56.11%",
+        "party_name": "United National Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 28752,
+        "vote_percentage": "35.28%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 4225,
+        "vote_percentage": "5.18%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1481,
+        "vote_percentage": "1.82%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 1313,
+        "vote_percentage": "1.61%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0211",
+    "timestamp": 603580471.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -10810,9 +11049,9 @@
     ]
   },
   {
-    "sequence_number": "0207",
-    "timestamp": 603579584.0,
-    "type": "R_SC",
+    "sequence_number": "0212",
+    "timestamp": 603580471.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "08",
     "ed_name": "Matara",
@@ -10874,9 +11113,9 @@
     ]
   },
   {
-    "sequence_number": "0208",
-    "timestamp": 603580140.0,
-    "type": "R_V",
+    "sequence_number": "0213",
+    "timestamp": 603580967.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -10931,9 +11170,9 @@
     }
   },
   {
-    "sequence_number": "0209",
-    "timestamp": 603580140.0,
-    "type": "R_VI",
+    "sequence_number": "0214",
+    "timestamp": 603580967.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -10986,9 +11225,9 @@
     ]
   },
   {
-    "sequence_number": "0210",
-    "timestamp": 603580259.0,
-    "type": "R_V",
+    "sequence_number": "0215",
+    "timestamp": 603581481.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -11043,9 +11282,9 @@
     }
   },
   {
-    "sequence_number": "0211",
-    "timestamp": 603580259.0,
-    "type": "R_VI",
+    "sequence_number": "0216",
+    "timestamp": 603581481.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -11104,9 +11343,9 @@
     ]
   },
   {
-    "sequence_number": "0212",
-    "timestamp": 603580259.0,
-    "type": "R_S",
+    "sequence_number": "0217",
+    "timestamp": 603581481.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -11156,9 +11395,61 @@
     ]
   },
   {
-    "sequence_number": "0213",
-    "timestamp": 603580259.0,
-    "type": "R_SI",
+    "sequence_number": "0218",
+    "timestamp": 603581481.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "17",
+    "ed_name": "Anuradhapura",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 92726,
+        "vote_percentage": "56.39%",
+        "party_name": "United National Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 64010,
+        "vote_percentage": "38.92%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "IND",
+        "vote_count": 4057,
+        "vote_percentage": "2.47%",
+        "party_name": "IND",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 1724,
+        "vote_percentage": "1.05%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1397,
+        "vote_percentage": "0.85%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 531,
+        "vote_percentage": "0.32%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0219",
+    "timestamp": 603581481.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -11241,9 +11532,9 @@
     ]
   },
   {
-    "sequence_number": "0214",
-    "timestamp": 603580259.0,
-    "type": "R_SC",
+    "sequence_number": "0220",
+    "timestamp": 603581481.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "17",
     "ed_name": "Anuradhapura",
@@ -11299,9 +11590,9 @@
     ]
   },
   {
-    "sequence_number": "0215",
-    "timestamp": 603580677.0,
-    "type": "R_V",
+    "sequence_number": "0221",
+    "timestamp": 603582066.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -11350,9 +11641,9 @@
     }
   },
   {
-    "sequence_number": "0216",
-    "timestamp": 603580677.0,
-    "type": "R_VI",
+    "sequence_number": "0222",
+    "timestamp": 603582066.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -11399,9 +11690,9 @@
     ]
   },
   {
-    "sequence_number": "0217",
-    "timestamp": 603580762.0,
-    "type": "R_V",
+    "sequence_number": "0223",
+    "timestamp": 603582250.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -11450,9 +11741,9 @@
     }
   },
   {
-    "sequence_number": "0218",
-    "timestamp": 603580762.0,
-    "type": "R_VI",
+    "sequence_number": "0224",
+    "timestamp": 603582250.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -11499,9 +11790,9 @@
     ]
   },
   {
-    "sequence_number": "0219",
-    "timestamp": 603581195.0,
-    "type": "R_V",
+    "sequence_number": "0225",
+    "timestamp": 603582848.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -11550,9 +11841,9 @@
     }
   },
   {
-    "sequence_number": "0220",
-    "timestamp": 603581195.0,
-    "type": "R_VI",
+    "sequence_number": "0226",
+    "timestamp": 603582848.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -11599,9 +11890,9 @@
     ]
   },
   {
-    "sequence_number": "0221",
-    "timestamp": 603581524.0,
-    "type": "R_V",
+    "sequence_number": "0227",
+    "timestamp": 603583244.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -11656,9 +11947,9 @@
     }
   },
   {
-    "sequence_number": "0222",
-    "timestamp": 603581524.0,
-    "type": "R_VI",
+    "sequence_number": "0228",
+    "timestamp": 603583244.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -11711,9 +12002,9 @@
     ]
   },
   {
-    "sequence_number": "0223",
-    "timestamp": 603581829.0,
-    "type": "R_V",
+    "sequence_number": "0229",
+    "timestamp": 603583377.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -11762,9 +12053,9 @@
     }
   },
   {
-    "sequence_number": "0224",
-    "timestamp": 603581829.0,
-    "type": "R_VI",
+    "sequence_number": "0230",
+    "timestamp": 603583377.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -11811,9 +12102,9 @@
     ]
   },
   {
-    "sequence_number": "0225",
-    "timestamp": 603581891.0,
-    "type": "R_V",
+    "sequence_number": "0231",
+    "timestamp": 603583795.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -11856,9 +12147,9 @@
     }
   },
   {
-    "sequence_number": "0226",
-    "timestamp": 603581891.0,
-    "type": "R_VI",
+    "sequence_number": "0232",
+    "timestamp": 603583795.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -11899,9 +12190,9 @@
     ]
   },
   {
-    "sequence_number": "0227",
-    "timestamp": 603582103.0,
-    "type": "R_V",
+    "sequence_number": "0233",
+    "timestamp": 603584165.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -11950,9 +12241,9 @@
     }
   },
   {
-    "sequence_number": "0228",
-    "timestamp": 603582103.0,
-    "type": "R_VI",
+    "sequence_number": "0234",
+    "timestamp": 603584165.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -11999,9 +12290,9 @@
     ]
   },
   {
-    "sequence_number": "0229",
-    "timestamp": 603582178.0,
-    "type": "R_V",
+    "sequence_number": "0235",
+    "timestamp": 603584665.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -12056,9 +12347,9 @@
     }
   },
   {
-    "sequence_number": "0230",
-    "timestamp": 603582178.0,
-    "type": "R_VI",
+    "sequence_number": "0236",
+    "timestamp": 603584665.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -12111,9 +12402,9 @@
     ]
   },
   {
-    "sequence_number": "0231",
-    "timestamp": 603582572.0,
-    "type": "R_V",
+    "sequence_number": "0237",
+    "timestamp": 603584941.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -12162,9 +12453,9 @@
     }
   },
   {
-    "sequence_number": "0232",
-    "timestamp": 603582572.0,
-    "type": "R_VI",
+    "sequence_number": "0238",
+    "timestamp": 603584941.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -12211,9 +12502,9 @@
     ]
   },
   {
-    "sequence_number": "0233",
-    "timestamp": 603582827.0,
-    "type": "R_V",
+    "sequence_number": "0239",
+    "timestamp": 603585406.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -12262,9 +12553,9 @@
     }
   },
   {
-    "sequence_number": "0234",
-    "timestamp": 603582827.0,
-    "type": "R_VI",
+    "sequence_number": "0240",
+    "timestamp": 603585406.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -12311,9 +12602,9 @@
     ]
   },
   {
-    "sequence_number": "0235",
-    "timestamp": 603583364.0,
-    "type": "R_V",
+    "sequence_number": "0241",
+    "timestamp": 603585996.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -12362,9 +12653,9 @@
     }
   },
   {
-    "sequence_number": "0236",
-    "timestamp": 603583364.0,
-    "type": "R_VI",
+    "sequence_number": "0242",
+    "timestamp": 603585996.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -12416,9 +12707,9 @@
     ]
   },
   {
-    "sequence_number": "0237",
-    "timestamp": 603583364.0,
-    "type": "R_S",
+    "sequence_number": "0243",
+    "timestamp": 603585996.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -12461,9 +12752,54 @@
     ]
   },
   {
-    "sequence_number": "0238",
-    "timestamp": 603583364.0,
-    "type": "R_SI",
+    "sequence_number": "0244",
+    "timestamp": 603585996.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "19",
+    "ed_name": "Badulla",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 135089,
+        "vote_percentage": "58.97%",
+        "party_name": "United National Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 81011,
+        "vote_percentage": "35.36%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 5712,
+        "vote_percentage": "2.49%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 5589,
+        "vote_percentage": "2.44%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 1693,
+        "vote_percentage": "0.74%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0245",
+    "timestamp": 603585996.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -12546,9 +12882,9 @@
     ]
   },
   {
-    "sequence_number": "0239",
-    "timestamp": 603583364.0,
-    "type": "R_SC",
+    "sequence_number": "0246",
+    "timestamp": 603585996.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "19",
     "ed_name": "Badulla",
@@ -12604,9 +12940,9 @@
     ]
   },
   {
-    "sequence_number": "0240",
-    "timestamp": 603583935.0,
-    "type": "R_V",
+    "sequence_number": "0247",
+    "timestamp": 603586492.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -12655,9 +12991,9 @@
     }
   },
   {
-    "sequence_number": "0241",
-    "timestamp": 603583935.0,
-    "type": "R_VI",
+    "sequence_number": "0248",
+    "timestamp": 603586492.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -12704,9 +13040,9 @@
     ]
   },
   {
-    "sequence_number": "0242",
-    "timestamp": 603584529.0,
-    "type": "R_V",
+    "sequence_number": "0249",
+    "timestamp": 603586686.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -12755,9 +13091,9 @@
     }
   },
   {
-    "sequence_number": "0243",
-    "timestamp": 603584529.0,
-    "type": "R_VI",
+    "sequence_number": "0250",
+    "timestamp": 603586686.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -12804,9 +13140,9 @@
     ]
   },
   {
-    "sequence_number": "0244",
-    "timestamp": 603584772.0,
-    "type": "R_V",
+    "sequence_number": "0251",
+    "timestamp": 603586826.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -12855,9 +13191,9 @@
     }
   },
   {
-    "sequence_number": "0245",
-    "timestamp": 603584772.0,
-    "type": "R_VI",
+    "sequence_number": "0252",
+    "timestamp": 603586826.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -12904,9 +13240,9 @@
     ]
   },
   {
-    "sequence_number": "0246",
-    "timestamp": 603585303.0,
-    "type": "R_V",
+    "sequence_number": "0253",
+    "timestamp": 603587261.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -12955,9 +13291,9 @@
     }
   },
   {
-    "sequence_number": "0247",
-    "timestamp": 603585303.0,
-    "type": "R_VI",
+    "sequence_number": "0254",
+    "timestamp": 603587261.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -13004,9 +13340,9 @@
     ]
   },
   {
-    "sequence_number": "0248",
-    "timestamp": 603585449.0,
-    "type": "R_V",
+    "sequence_number": "0255",
+    "timestamp": 603587735.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13055,9 +13391,9 @@
     }
   },
   {
-    "sequence_number": "0249",
-    "timestamp": 603585449.0,
-    "type": "R_VI",
+    "sequence_number": "0256",
+    "timestamp": 603587735.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13104,9 +13440,9 @@
     ]
   },
   {
-    "sequence_number": "0250",
-    "timestamp": 603585923.0,
-    "type": "R_V",
+    "sequence_number": "0257",
+    "timestamp": 603588121.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13155,9 +13491,9 @@
     }
   },
   {
-    "sequence_number": "0251",
-    "timestamp": 603585923.0,
-    "type": "R_VI",
+    "sequence_number": "0258",
+    "timestamp": 603588121.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13204,9 +13540,9 @@
     ]
   },
   {
-    "sequence_number": "0252",
-    "timestamp": 603586052.0,
-    "type": "R_V",
+    "sequence_number": "0259",
+    "timestamp": 603588718.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -13261,9 +13597,9 @@
     }
   },
   {
-    "sequence_number": "0253",
-    "timestamp": 603586052.0,
-    "type": "R_VI",
+    "sequence_number": "0260",
+    "timestamp": 603588718.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -13316,9 +13652,9 @@
     ]
   },
   {
-    "sequence_number": "0254",
-    "timestamp": 603586114.0,
-    "type": "R_V",
+    "sequence_number": "0261",
+    "timestamp": 603589139.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -13373,9 +13709,9 @@
     }
   },
   {
-    "sequence_number": "0255",
-    "timestamp": 603586114.0,
-    "type": "R_VI",
+    "sequence_number": "0262",
+    "timestamp": 603589139.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -13428,9 +13764,9 @@
     ]
   },
   {
-    "sequence_number": "0256",
-    "timestamp": 603586464.0,
-    "type": "R_V",
+    "sequence_number": "0263",
+    "timestamp": 603589473.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -13473,9 +13809,9 @@
     }
   },
   {
-    "sequence_number": "0257",
-    "timestamp": 603586464.0,
-    "type": "R_VI",
+    "sequence_number": "0264",
+    "timestamp": 603589473.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -13520,9 +13856,9 @@
     ]
   },
   {
-    "sequence_number": "0258",
-    "timestamp": 603586464.0,
-    "type": "R_S",
+    "sequence_number": "0265",
+    "timestamp": 603589473.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -13558,9 +13894,47 @@
     ]
   },
   {
-    "sequence_number": "0259",
-    "timestamp": 603586464.0,
-    "type": "R_SI",
+    "sequence_number": "0266",
+    "timestamp": 603589473.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "18",
+    "ed_name": "Polonnaruwa",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 43473,
+        "vote_percentage": "62.33%",
+        "party_name": "United National Party",
+        "seat_count": 4
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 23221,
+        "vote_percentage": "33.29%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1933,
+        "vote_percentage": "2.77%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 1117,
+        "vote_percentage": "1.60%",
+        "party_name": "USA",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0267",
+    "timestamp": 603589473.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -13643,9 +14017,9 @@
     ]
   },
   {
-    "sequence_number": "0260",
-    "timestamp": 603586464.0,
-    "type": "R_SC",
+    "sequence_number": "0268",
+    "timestamp": 603589473.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "18",
     "ed_name": "Polonnaruwa",
@@ -13683,9 +14057,9 @@
     ]
   },
   {
-    "sequence_number": "0261",
-    "timestamp": 603586835.0,
-    "type": "R_V",
+    "sequence_number": "0269",
+    "timestamp": 603589829.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13734,9 +14108,9 @@
     }
   },
   {
-    "sequence_number": "0262",
-    "timestamp": 603586835.0,
-    "type": "R_VI",
+    "sequence_number": "0270",
+    "timestamp": 603589829.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -13783,9 +14157,9 @@
     ]
   },
   {
-    "sequence_number": "0263",
-    "timestamp": 603587018.0,
-    "type": "R_V",
+    "sequence_number": "0271",
+    "timestamp": 603590306.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -13846,9 +14220,9 @@
     }
   },
   {
-    "sequence_number": "0264",
-    "timestamp": 603587018.0,
-    "type": "R_VI",
+    "sequence_number": "0272",
+    "timestamp": 603590306.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -13907,9 +14281,9 @@
     ]
   },
   {
-    "sequence_number": "0265",
-    "timestamp": 603587263.0,
-    "type": "R_V",
+    "sequence_number": "0273",
+    "timestamp": 603590794.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -13964,9 +14338,9 @@
     }
   },
   {
-    "sequence_number": "0266",
-    "timestamp": 603587263.0,
-    "type": "R_VI",
+    "sequence_number": "0274",
+    "timestamp": 603590794.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -14025,9 +14399,9 @@
     ]
   },
   {
-    "sequence_number": "0267",
-    "timestamp": 603587263.0,
-    "type": "R_S",
+    "sequence_number": "0275",
+    "timestamp": 603590794.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -14077,9 +14451,61 @@
     ]
   },
   {
-    "sequence_number": "0268",
-    "timestamp": 603587263.0,
-    "type": "R_SI",
+    "sequence_number": "0276",
+    "timestamp": 603590794.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "14",
+    "ed_name": "Trincomalee",
+    "by_party": [
+      {
+        "party_code": "INDI",
+        "vote_count": 25239,
+        "vote_percentage": "24.85%",
+        "party_name": "INDI",
+        "seat_count": 2
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 22966,
+        "vote_percentage": "22.61%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "UNP",
+        "vote_count": 22450,
+        "vote_percentage": "22.10%",
+        "party_name": "United National Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 17884,
+        "vote_percentage": "17.61%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "TULF",
+        "vote_count": 12755,
+        "vote_percentage": "12.56%",
+        "party_name": "Tamil United Liberation Front",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 284,
+        "vote_percentage": "0.28%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0277",
+    "timestamp": 603590794.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -14162,9 +14588,9 @@
     ]
   },
   {
-    "sequence_number": "0269",
-    "timestamp": 603587263.0,
-    "type": "R_SC",
+    "sequence_number": "0278",
+    "timestamp": 603590794.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "14",
     "ed_name": "Trincomalee",
@@ -14196,9 +14622,9 @@
     ]
   },
   {
-    "sequence_number": "0270",
-    "timestamp": 603587817.0,
-    "type": "R_V",
+    "sequence_number": "0279",
+    "timestamp": 603591039.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -14247,9 +14673,9 @@
     }
   },
   {
-    "sequence_number": "0271",
-    "timestamp": 603587817.0,
-    "type": "R_VI",
+    "sequence_number": "0280",
+    "timestamp": 603591039.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -14296,9 +14722,9 @@
     ]
   },
   {
-    "sequence_number": "0272",
-    "timestamp": 603588101.0,
-    "type": "R_V",
+    "sequence_number": "0281",
+    "timestamp": 603591266.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -14347,9 +14773,9 @@
     }
   },
   {
-    "sequence_number": "0273",
-    "timestamp": 603588101.0,
-    "type": "R_VI",
+    "sequence_number": "0282",
+    "timestamp": 603591266.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -14396,9 +14822,9 @@
     ]
   },
   {
-    "sequence_number": "0274",
-    "timestamp": 603588380.0,
-    "type": "R_V",
+    "sequence_number": "0283",
+    "timestamp": 603591547.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -14453,9 +14879,9 @@
     }
   },
   {
-    "sequence_number": "0275",
-    "timestamp": 603588380.0,
-    "type": "R_VI",
+    "sequence_number": "0284",
+    "timestamp": 603591547.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -14508,9 +14934,9 @@
     ]
   },
   {
-    "sequence_number": "0276",
-    "timestamp": 603588673.0,
-    "type": "R_V",
+    "sequence_number": "0285",
+    "timestamp": 603591761.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -14565,9 +14991,9 @@
     }
   },
   {
-    "sequence_number": "0277",
-    "timestamp": 603588673.0,
-    "type": "R_VI",
+    "sequence_number": "0286",
+    "timestamp": 603591761.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -14620,9 +15046,9 @@
     ]
   },
   {
-    "sequence_number": "0278",
-    "timestamp": 603589095.0,
-    "type": "R_V",
+    "sequence_number": "0287",
+    "timestamp": 603591900.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -14677,9 +15103,9 @@
     }
   },
   {
-    "sequence_number": "0279",
-    "timestamp": 603589095.0,
-    "type": "R_VI",
+    "sequence_number": "0288",
+    "timestamp": 603591900.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -14732,9 +15158,9 @@
     ]
   },
   {
-    "sequence_number": "0280",
-    "timestamp": 603589613.0,
-    "type": "R_V",
+    "sequence_number": "0289",
+    "timestamp": 603592295.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -14789,9 +15215,9 @@
     }
   },
   {
-    "sequence_number": "0281",
-    "timestamp": 603589613.0,
-    "type": "R_VI",
+    "sequence_number": "0290",
+    "timestamp": 603592295.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -14844,9 +15270,9 @@
     ]
   },
   {
-    "sequence_number": "0282",
-    "timestamp": 603589675.0,
-    "type": "R_V",
+    "sequence_number": "0291",
+    "timestamp": 603592807.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -14895,9 +15321,9 @@
     }
   },
   {
-    "sequence_number": "0283",
-    "timestamp": 603589675.0,
-    "type": "R_VI",
+    "sequence_number": "0292",
+    "timestamp": 603592807.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -14949,9 +15375,9 @@
     ]
   },
   {
-    "sequence_number": "0284",
-    "timestamp": 603589675.0,
-    "type": "R_S",
+    "sequence_number": "0293",
+    "timestamp": 603592807.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -14994,9 +15420,54 @@
     ]
   },
   {
-    "sequence_number": "0285",
-    "timestamp": 603589675.0,
-    "type": "R_SI",
+    "sequence_number": "0294",
+    "timestamp": 603592807.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "04",
+    "ed_name": "Kandy",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 204973,
+        "vote_percentage": "61.72%",
+        "party_name": "United National Party",
+        "seat_count": 8
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 105977,
+        "vote_percentage": "31.91%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 4
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 14697,
+        "vote_percentage": "4.43%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 5147,
+        "vote_percentage": "1.55%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1315,
+        "vote_percentage": "0.40%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0295",
+    "timestamp": 603592807.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -15079,9 +15550,9 @@
     ]
   },
   {
-    "sequence_number": "0286",
-    "timestamp": 603589675.0,
-    "type": "R_SC",
+    "sequence_number": "0296",
+    "timestamp": 603592807.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "04",
     "ed_name": "Kandy",
@@ -15161,9 +15632,9 @@
     ]
   },
   {
-    "sequence_number": "0287",
-    "timestamp": 603589764.0,
-    "type": "R_V",
+    "sequence_number": "0297",
+    "timestamp": 603593275.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -15212,9 +15683,9 @@
     }
   },
   {
-    "sequence_number": "0288",
-    "timestamp": 603589764.0,
-    "type": "R_VI",
+    "sequence_number": "0298",
+    "timestamp": 603593275.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -15261,9 +15732,9 @@
     ]
   },
   {
-    "sequence_number": "0289",
-    "timestamp": 603590005.0,
-    "type": "R_V",
+    "sequence_number": "0299",
+    "timestamp": 603593468.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -15312,9 +15783,9 @@
     }
   },
   {
-    "sequence_number": "0290",
-    "timestamp": 603590005.0,
-    "type": "R_VI",
+    "sequence_number": "0300",
+    "timestamp": 603593468.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -15361,9 +15832,9 @@
     ]
   },
   {
-    "sequence_number": "0291",
-    "timestamp": 603590284.0,
-    "type": "R_V",
+    "sequence_number": "0301",
+    "timestamp": 603593759.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -15424,9 +15895,9 @@
     }
   },
   {
-    "sequence_number": "0292",
-    "timestamp": 603590284.0,
-    "type": "R_VI",
+    "sequence_number": "0302",
+    "timestamp": 603593759.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -15485,9 +15956,9 @@
     ]
   },
   {
-    "sequence_number": "0293",
-    "timestamp": 603590670.0,
-    "type": "R_V",
+    "sequence_number": "0303",
+    "timestamp": 603593970.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -15542,9 +16013,9 @@
     }
   },
   {
-    "sequence_number": "0294",
-    "timestamp": 603590670.0,
-    "type": "R_VI",
+    "sequence_number": "0304",
+    "timestamp": 603593970.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -15597,9 +16068,9 @@
     ]
   },
   {
-    "sequence_number": "0295",
-    "timestamp": 603591008.0,
-    "type": "R_V",
+    "sequence_number": "0305",
+    "timestamp": 603594307.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -15654,9 +16125,9 @@
     }
   },
   {
-    "sequence_number": "0296",
-    "timestamp": 603591008.0,
-    "type": "R_VI",
+    "sequence_number": "0306",
+    "timestamp": 603594307.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -15709,9 +16180,9 @@
     ]
   },
   {
-    "sequence_number": "0297",
-    "timestamp": 603591380.0,
-    "type": "R_V",
+    "sequence_number": "0307",
+    "timestamp": 603594884.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -15760,9 +16231,9 @@
     }
   },
   {
-    "sequence_number": "0298",
-    "timestamp": 603591380.0,
-    "type": "R_VI",
+    "sequence_number": "0308",
+    "timestamp": 603594884.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -15809,9 +16280,9 @@
     ]
   },
   {
-    "sequence_number": "0299",
-    "timestamp": 603591616.0,
-    "type": "R_V",
+    "sequence_number": "0309",
+    "timestamp": 603595272.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -15860,9 +16331,9 @@
     }
   },
   {
-    "sequence_number": "0300",
-    "timestamp": 603591616.0,
-    "type": "R_VI",
+    "sequence_number": "0310",
+    "timestamp": 603595272.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -15909,9 +16380,9 @@
     ]
   },
   {
-    "sequence_number": "0301",
-    "timestamp": 603591814.0,
-    "type": "R_V",
+    "sequence_number": "0311",
+    "timestamp": 603595717.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -15966,9 +16437,9 @@
     }
   },
   {
-    "sequence_number": "0302",
-    "timestamp": 603591814.0,
-    "type": "R_VI",
+    "sequence_number": "0312",
+    "timestamp": 603595717.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -16021,9 +16492,9 @@
     ]
   },
   {
-    "sequence_number": "0303",
-    "timestamp": 603591958.0,
-    "type": "R_V",
+    "sequence_number": "0313",
+    "timestamp": 603596276.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -16072,9 +16543,9 @@
     }
   },
   {
-    "sequence_number": "0304",
-    "timestamp": 603591958.0,
-    "type": "R_VI",
+    "sequence_number": "0314",
+    "timestamp": 603596276.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -16121,9 +16592,9 @@
     ]
   },
   {
-    "sequence_number": "0305",
-    "timestamp": 603592104.0,
-    "type": "R_V",
+    "sequence_number": "0315",
+    "timestamp": 603596803.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -16172,9 +16643,9 @@
     }
   },
   {
-    "sequence_number": "0306",
-    "timestamp": 603592104.0,
-    "type": "R_VI",
+    "sequence_number": "0316",
+    "timestamp": 603596803.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -16221,9 +16692,9 @@
     ]
   },
   {
-    "sequence_number": "0307",
-    "timestamp": 603592396.0,
-    "type": "R_V",
+    "sequence_number": "0317",
+    "timestamp": 603597394.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -16278,9 +16749,9 @@
     }
   },
   {
-    "sequence_number": "0308",
-    "timestamp": 603592396.0,
-    "type": "R_VI",
+    "sequence_number": "0318",
+    "timestamp": 603597394.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -16333,9 +16804,9 @@
     ]
   },
   {
-    "sequence_number": "0309",
-    "timestamp": 603592653.0,
-    "type": "R_V",
+    "sequence_number": "0319",
+    "timestamp": 603597802.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -16390,9 +16861,9 @@
     }
   },
   {
-    "sequence_number": "0310",
-    "timestamp": 603592653.0,
-    "type": "R_VI",
+    "sequence_number": "0320",
+    "timestamp": 603597802.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -16445,9 +16916,9 @@
     ]
   },
   {
-    "sequence_number": "0311",
-    "timestamp": 603593077.0,
-    "type": "R_V",
+    "sequence_number": "0321",
+    "timestamp": 603597877.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -16496,9 +16967,9 @@
     }
   },
   {
-    "sequence_number": "0312",
-    "timestamp": 603593077.0,
-    "type": "R_VI",
+    "sequence_number": "0322",
+    "timestamp": 603597877.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -16545,9 +17016,9 @@
     ]
   },
   {
-    "sequence_number": "0313",
-    "timestamp": 603593213.0,
-    "type": "R_V",
+    "sequence_number": "0323",
+    "timestamp": 603598011.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -16590,9 +17061,9 @@
     }
   },
   {
-    "sequence_number": "0314",
-    "timestamp": 603593213.0,
-    "type": "R_VI",
+    "sequence_number": "0324",
+    "timestamp": 603598011.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -16637,9 +17108,9 @@
     ]
   },
   {
-    "sequence_number": "0315",
-    "timestamp": 603593213.0,
-    "type": "R_S",
+    "sequence_number": "0325",
+    "timestamp": 603598011.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -16675,9 +17146,47 @@
     ]
   },
   {
-    "sequence_number": "0316",
-    "timestamp": 603593213.0,
-    "type": "R_SI",
+    "sequence_number": "0326",
+    "timestamp": 603598011.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "05",
+    "ed_name": "Matale",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 88869,
+        "vote_percentage": "63.81%",
+        "party_name": "United National Party",
+        "seat_count": 4
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 45717,
+        "vote_percentage": "32.82%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 2350,
+        "vote_percentage": "1.69%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 2344,
+        "vote_percentage": "1.68%",
+        "party_name": "USA",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0327",
+    "timestamp": 603598011.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -16760,9 +17269,9 @@
     ]
   },
   {
-    "sequence_number": "0317",
-    "timestamp": 603593213.0,
-    "type": "R_SC",
+    "sequence_number": "0328",
+    "timestamp": 603598011.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "05",
     "ed_name": "Matale",
@@ -16800,9 +17309,9 @@
     ]
   },
   {
-    "sequence_number": "0318",
-    "timestamp": 603593777.0,
-    "type": "R_V",
+    "sequence_number": "0329",
+    "timestamp": 603598316.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -16851,9 +17360,9 @@
     }
   },
   {
-    "sequence_number": "0319",
-    "timestamp": 603593777.0,
-    "type": "R_VI",
+    "sequence_number": "0330",
+    "timestamp": 603598316.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -16905,9 +17414,9 @@
     ]
   },
   {
-    "sequence_number": "0320",
-    "timestamp": 603593777.0,
-    "type": "R_S",
+    "sequence_number": "0331",
+    "timestamp": 603598316.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -16950,9 +17459,54 @@
     ]
   },
   {
-    "sequence_number": "0321",
-    "timestamp": 603593777.0,
-    "type": "R_SI",
+    "sequence_number": "0332",
+    "timestamp": 603598316.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "22",
+    "ed_name": "Kegalle",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 174334,
+        "vote_percentage": "61.12%",
+        "party_name": "United National Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 80668,
+        "vote_percentage": "28.28%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 2
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 15168,
+        "vote_percentage": "5.32%",
+        "party_name": "USA",
+        "seat_count": 1
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 14056,
+        "vote_percentage": "4.93%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 1028,
+        "vote_percentage": "0.36%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0333",
+    "timestamp": 603598316.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -17035,9 +17589,9 @@
     ]
   },
   {
-    "sequence_number": "0322",
-    "timestamp": 603593777.0,
-    "type": "R_SC",
+    "sequence_number": "0334",
+    "timestamp": 603598316.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "22",
     "ed_name": "Kegalle",
@@ -17093,9 +17647,9 @@
     ]
   },
   {
-    "sequence_number": "0323",
-    "timestamp": 603594041.0,
-    "type": "R_V",
+    "sequence_number": "0335",
+    "timestamp": 603598633.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17144,9 +17698,9 @@
     }
   },
   {
-    "sequence_number": "0324",
-    "timestamp": 603594041.0,
-    "type": "R_VI",
+    "sequence_number": "0336",
+    "timestamp": 603598633.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17193,9 +17747,9 @@
     ]
   },
   {
-    "sequence_number": "0325",
-    "timestamp": 603594202.0,
-    "type": "R_V",
+    "sequence_number": "0337",
+    "timestamp": 603598921.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17244,9 +17798,9 @@
     }
   },
   {
-    "sequence_number": "0326",
-    "timestamp": 603594202.0,
-    "type": "R_VI",
+    "sequence_number": "0338",
+    "timestamp": 603598921.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17293,9 +17847,9 @@
     ]
   },
   {
-    "sequence_number": "0327",
-    "timestamp": 603594722.0,
-    "type": "R_V",
+    "sequence_number": "0339",
+    "timestamp": 603598987.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17344,9 +17898,9 @@
     }
   },
   {
-    "sequence_number": "0328",
-    "timestamp": 603594722.0,
-    "type": "R_VI",
+    "sequence_number": "0340",
+    "timestamp": 603598987.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17398,9 +17952,9 @@
     ]
   },
   {
-    "sequence_number": "0329",
-    "timestamp": 603594722.0,
-    "type": "R_S",
+    "sequence_number": "0341",
+    "timestamp": 603598987.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17443,9 +17997,54 @@
     ]
   },
   {
-    "sequence_number": "0330",
-    "timestamp": 603594722.0,
-    "type": "R_SI",
+    "sequence_number": "0342",
+    "timestamp": 603598987.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "15",
+    "ed_name": "Kurunegala",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 314724,
+        "vote_percentage": "58.51%",
+        "party_name": "United National Party",
+        "seat_count": 10
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 195526,
+        "vote_percentage": "36.35%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 13759,
+        "vote_percentage": "2.56%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 11059,
+        "vote_percentage": "2.06%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 2848,
+        "vote_percentage": "0.53%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0343",
+    "timestamp": 603598987.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -17528,9 +18127,9 @@
     ]
   },
   {
-    "sequence_number": "0331",
-    "timestamp": 603594722.0,
-    "type": "R_SC",
+    "sequence_number": "0344",
+    "timestamp": 603598987.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "15",
     "ed_name": "Kurunegala",
@@ -17628,9 +18227,9 @@
     ]
   },
   {
-    "sequence_number": "0332",
-    "timestamp": 603595223.0,
-    "type": "R_V",
+    "sequence_number": "0345",
+    "timestamp": 603599431.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17679,9 +18278,9 @@
     }
   },
   {
-    "sequence_number": "0333",
-    "timestamp": 603595223.0,
-    "type": "R_VI",
+    "sequence_number": "0346",
+    "timestamp": 603599431.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17728,9 +18327,9 @@
     ]
   },
   {
-    "sequence_number": "0334",
-    "timestamp": 603595581.0,
-    "type": "R_V",
+    "sequence_number": "0347",
+    "timestamp": 603599505.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -17773,9 +18372,9 @@
     }
   },
   {
-    "sequence_number": "0335",
-    "timestamp": 603595581.0,
-    "type": "R_VI",
+    "sequence_number": "0348",
+    "timestamp": 603599505.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -17816,9 +18415,9 @@
     ]
   },
   {
-    "sequence_number": "0336",
-    "timestamp": 603596037.0,
-    "type": "R_V",
+    "sequence_number": "0349",
+    "timestamp": 603599598.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17867,9 +18466,9 @@
     }
   },
   {
-    "sequence_number": "0337",
-    "timestamp": 603596037.0,
-    "type": "R_VI",
+    "sequence_number": "0350",
+    "timestamp": 603599598.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -17916,9 +18515,9 @@
     ]
   },
   {
-    "sequence_number": "0338",
-    "timestamp": 603596414.0,
-    "type": "R_V",
+    "sequence_number": "0351",
+    "timestamp": 603600068.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -17979,9 +18578,9 @@
     }
   },
   {
-    "sequence_number": "0339",
-    "timestamp": 603596414.0,
-    "type": "R_VI",
+    "sequence_number": "0352",
+    "timestamp": 603600068.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -18040,9 +18639,9 @@
     ]
   },
   {
-    "sequence_number": "0340",
-    "timestamp": 603596498.0,
-    "type": "R_V",
+    "sequence_number": "0353",
+    "timestamp": 603600356.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -18097,9 +18696,9 @@
     }
   },
   {
-    "sequence_number": "0341",
-    "timestamp": 603596498.0,
-    "type": "R_VI",
+    "sequence_number": "0354",
+    "timestamp": 603600356.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -18152,9 +18751,9 @@
     ]
   },
   {
-    "sequence_number": "0342",
-    "timestamp": 603596755.0,
-    "type": "R_V",
+    "sequence_number": "0355",
+    "timestamp": 603600419.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18197,9 +18796,9 @@
     }
   },
   {
-    "sequence_number": "0343",
-    "timestamp": 603596755.0,
-    "type": "R_VI",
+    "sequence_number": "0356",
+    "timestamp": 603600419.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18240,9 +18839,9 @@
     ]
   },
   {
-    "sequence_number": "0344",
-    "timestamp": 603596943.0,
-    "type": "R_V",
+    "sequence_number": "0357",
+    "timestamp": 603600850.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18285,9 +18884,9 @@
     }
   },
   {
-    "sequence_number": "0345",
-    "timestamp": 603596943.0,
-    "type": "R_VI",
+    "sequence_number": "0358",
+    "timestamp": 603600850.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18328,9 +18927,9 @@
     ]
   },
   {
-    "sequence_number": "0346",
-    "timestamp": 603597522.0,
-    "type": "R_V",
+    "sequence_number": "0359",
+    "timestamp": 603601090.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18385,9 +18984,9 @@
     }
   },
   {
-    "sequence_number": "0347",
-    "timestamp": 603597522.0,
-    "type": "R_VI",
+    "sequence_number": "0360",
+    "timestamp": 603601090.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18440,9 +19039,9 @@
     ]
   },
   {
-    "sequence_number": "0348",
-    "timestamp": 603597733.0,
-    "type": "R_V",
+    "sequence_number": "0361",
+    "timestamp": 603601199.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -18503,9 +19102,9 @@
     }
   },
   {
-    "sequence_number": "0349",
-    "timestamp": 603597733.0,
-    "type": "R_VI",
+    "sequence_number": "0362",
+    "timestamp": 603601199.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -18564,9 +19163,9 @@
     ]
   },
   {
-    "sequence_number": "0350",
-    "timestamp": 603598231.0,
-    "type": "R_V",
+    "sequence_number": "0363",
+    "timestamp": 603601530.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18609,9 +19208,9 @@
     }
   },
   {
-    "sequence_number": "0351",
-    "timestamp": 603598231.0,
-    "type": "R_VI",
+    "sequence_number": "0364",
+    "timestamp": 603601530.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -18652,9 +19251,9 @@
     ]
   },
   {
-    "sequence_number": "0352",
-    "timestamp": 603598720.0,
-    "type": "R_V",
+    "sequence_number": "0365",
+    "timestamp": 603601752.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18709,9 +19308,9 @@
     }
   },
   {
-    "sequence_number": "0353",
-    "timestamp": 603598720.0,
-    "type": "R_VI",
+    "sequence_number": "0366",
+    "timestamp": 603601752.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18770,9 +19369,9 @@
     ]
   },
   {
-    "sequence_number": "0354",
-    "timestamp": 603598720.0,
-    "type": "R_S",
+    "sequence_number": "0367",
+    "timestamp": 603601752.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18822,9 +19421,61 @@
     ]
   },
   {
-    "sequence_number": "0355",
-    "timestamp": 603598720.0,
-    "type": "R_SI",
+    "sequence_number": "0368",
+    "timestamp": 603601752.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "07",
+    "ed_name": "Galle",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 183962,
+        "vote_percentage": "50.40%",
+        "party_name": "United National Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 152096,
+        "vote_percentage": "41.67%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 18160,
+        "vote_percentage": "4.98%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 4097,
+        "vote_percentage": "1.12%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 4014,
+        "vote_percentage": "1.10%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 2676,
+        "vote_percentage": "0.73%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0369",
+    "timestamp": 603601752.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -18907,9 +19558,9 @@
     ]
   },
   {
-    "sequence_number": "0356",
-    "timestamp": 603598720.0,
-    "type": "R_SC",
+    "sequence_number": "0370",
+    "timestamp": 603601752.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "07",
     "ed_name": "Galle",
@@ -18983,9 +19634,9 @@
     ]
   },
   {
-    "sequence_number": "0357",
-    "timestamp": 603598797.0,
-    "type": "R_V",
+    "sequence_number": "0371",
+    "timestamp": 603601822.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19040,9 +19691,9 @@
     }
   },
   {
-    "sequence_number": "0358",
-    "timestamp": 603598797.0,
-    "type": "R_VI",
+    "sequence_number": "0372",
+    "timestamp": 603601822.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19095,9 +19746,9 @@
     ]
   },
   {
-    "sequence_number": "0359",
-    "timestamp": 603599313.0,
-    "type": "R_V",
+    "sequence_number": "0373",
+    "timestamp": 603601938.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19152,9 +19803,9 @@
     }
   },
   {
-    "sequence_number": "0360",
-    "timestamp": 603599313.0,
-    "type": "R_VI",
+    "sequence_number": "0374",
+    "timestamp": 603601938.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19207,9 +19858,9 @@
     ]
   },
   {
-    "sequence_number": "0361",
-    "timestamp": 603599636.0,
-    "type": "R_V",
+    "sequence_number": "0375",
+    "timestamp": 603602330.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -19270,9 +19921,9 @@
     }
   },
   {
-    "sequence_number": "0362",
-    "timestamp": 603599636.0,
-    "type": "R_VI",
+    "sequence_number": "0376",
+    "timestamp": 603602330.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -19338,9 +19989,9 @@
     ]
   },
   {
-    "sequence_number": "0363",
-    "timestamp": 603599636.0,
-    "type": "R_S",
+    "sequence_number": "0377",
+    "timestamp": 603602330.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -19397,9 +20048,68 @@
     ]
   },
   {
-    "sequence_number": "0364",
-    "timestamp": 603599636.0,
-    "type": "R_SI",
+    "sequence_number": "0378",
+    "timestamp": 603602330.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "16",
+    "ed_name": "Puttalam",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 139309,
+        "vote_percentage": "62.62%",
+        "party_name": "United National Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 71687,
+        "vote_percentage": "32.22%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 2
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 6253,
+        "vote_percentage": "2.81%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 3398,
+        "vote_percentage": "1.53%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1137,
+        "vote_percentage": "0.51%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "IND2",
+        "vote_count": 584,
+        "vote_percentage": "0.26%",
+        "party_name": "IND2",
+        "seat_count": 0
+      },
+      {
+        "party_code": "IND1",
+        "vote_count": 107,
+        "vote_percentage": "0.05%",
+        "party_name": "IND1",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0379",
+    "timestamp": 603602330.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -19496,9 +20206,9 @@
     ]
   },
   {
-    "sequence_number": "0365",
-    "timestamp": 603599636.0,
-    "type": "R_SC",
+    "sequence_number": "0380",
+    "timestamp": 603602330.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "16",
     "ed_name": "Puttalam",
@@ -19548,9 +20258,9 @@
     ]
   },
   {
-    "sequence_number": "0366",
-    "timestamp": 603600189.0,
-    "type": "R_V",
+    "sequence_number": "0381",
+    "timestamp": 603602527.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -19605,9 +20315,9 @@
     }
   },
   {
-    "sequence_number": "0367",
-    "timestamp": 603600189.0,
-    "type": "R_VI",
+    "sequence_number": "0382",
+    "timestamp": 603602527.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -19660,9 +20370,9 @@
     ]
   },
   {
-    "sequence_number": "0368",
-    "timestamp": 603600430.0,
-    "type": "R_V",
+    "sequence_number": "0383",
+    "timestamp": 603602760.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19717,9 +20427,9 @@
     }
   },
   {
-    "sequence_number": "0369",
-    "timestamp": 603600430.0,
-    "type": "R_VI",
+    "sequence_number": "0384",
+    "timestamp": 603602760.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -19772,9 +20482,9 @@
     ]
   },
   {
-    "sequence_number": "0370",
-    "timestamp": 603600880.0,
-    "type": "R_V",
+    "sequence_number": "0385",
+    "timestamp": 603603006.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -19817,9 +20527,9 @@
     }
   },
   {
-    "sequence_number": "0371",
-    "timestamp": 603600880.0,
-    "type": "R_VI",
+    "sequence_number": "0386",
+    "timestamp": 603603006.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -19860,9 +20570,9 @@
     ]
   },
   {
-    "sequence_number": "0372",
-    "timestamp": 603601146.0,
-    "type": "R_V",
+    "sequence_number": "0387",
+    "timestamp": 603603108.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -19917,9 +20627,9 @@
     }
   },
   {
-    "sequence_number": "0373",
-    "timestamp": 603601146.0,
-    "type": "R_VI",
+    "sequence_number": "0388",
+    "timestamp": 603603108.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -19978,9 +20688,9 @@
     ]
   },
   {
-    "sequence_number": "0374",
-    "timestamp": 603601146.0,
-    "type": "R_S",
+    "sequence_number": "0389",
+    "timestamp": 603603108.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -20030,9 +20740,61 @@
     ]
   },
   {
-    "sequence_number": "0375",
-    "timestamp": 603601146.0,
-    "type": "R_SI",
+    "sequence_number": "0390",
+    "timestamp": 603603108.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "03",
+    "ed_name": "Kalutara",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 160069,
+        "vote_percentage": "49.84%",
+        "party_name": "United National Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 131510,
+        "vote_percentage": "40.94%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 5
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 12971,
+        "vote_percentage": "4.04%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 12342,
+        "vote_percentage": "3.84%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 2690,
+        "vote_percentage": "0.84%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1611,
+        "vote_percentage": "0.50%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0391",
+    "timestamp": 603603108.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -20129,9 +20891,9 @@
     ]
   },
   {
-    "sequence_number": "0376",
-    "timestamp": 603601146.0,
-    "type": "R_SC",
+    "sequence_number": "0392",
+    "timestamp": 603603108.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "03",
     "ed_name": "Kalutara",
@@ -20205,9 +20967,9 @@
     ]
   },
   {
-    "sequence_number": "0377",
-    "timestamp": 603601394.0,
-    "type": "R_V",
+    "sequence_number": "0393",
+    "timestamp": 603603369.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -20256,9 +21018,9 @@
     }
   },
   {
-    "sequence_number": "0378",
-    "timestamp": 603601394.0,
-    "type": "R_VI",
+    "sequence_number": "0394",
+    "timestamp": 603603369.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -20310,9 +21072,9 @@
     ]
   },
   {
-    "sequence_number": "0379",
-    "timestamp": 603601394.0,
-    "type": "R_S",
+    "sequence_number": "0395",
+    "timestamp": 603603369.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -20355,9 +21117,54 @@
     ]
   },
   {
-    "sequence_number": "0380",
-    "timestamp": 603601394.0,
-    "type": "R_SI",
+    "sequence_number": "0396",
+    "timestamp": 603603369.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "21",
+    "ed_name": "Ratnapura",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 196323,
+        "vote_percentage": "57.89%",
+        "party_name": "United National Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 123360,
+        "vote_percentage": "36.38%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "USP",
+        "vote_count": 17323,
+        "vote_percentage": "5.11%",
+        "party_name": "United Socialist Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 1337,
+        "vote_percentage": "0.39%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      },
+      {
+        "party_code": "IND1",
+        "vote_count": 779,
+        "vote_percentage": "0.23%",
+        "party_name": "IND1",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0397",
+    "timestamp": 603603369.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -20461,9 +21268,9 @@
     ]
   },
   {
-    "sequence_number": "0381",
-    "timestamp": 603601394.0,
-    "type": "R_SC",
+    "sequence_number": "0398",
+    "timestamp": 603603369.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "21",
     "ed_name": "Ratnapura",
@@ -20531,9 +21338,9 @@
     ]
   },
   {
-    "sequence_number": "0382",
-    "timestamp": 603601759.0,
-    "type": "R_V",
+    "sequence_number": "0399",
+    "timestamp": 603603437.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20576,9 +21383,9 @@
     }
   },
   {
-    "sequence_number": "0383",
-    "timestamp": 603601759.0,
-    "type": "R_VI",
+    "sequence_number": "0400",
+    "timestamp": 603603437.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20619,9 +21426,9 @@
     ]
   },
   {
-    "sequence_number": "0384",
-    "timestamp": 603601938.0,
-    "type": "R_V",
+    "sequence_number": "0401",
+    "timestamp": 603603846.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20664,9 +21471,9 @@
     }
   },
   {
-    "sequence_number": "0385",
-    "timestamp": 603601938.0,
-    "type": "R_VI",
+    "sequence_number": "0402",
+    "timestamp": 603603846.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20707,9 +21514,9 @@
     ]
   },
   {
-    "sequence_number": "0386",
-    "timestamp": 603602257.0,
-    "type": "R_V",
+    "sequence_number": "0403",
+    "timestamp": 603604247.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -20764,9 +21571,9 @@
     }
   },
   {
-    "sequence_number": "0387",
-    "timestamp": 603602257.0,
-    "type": "R_VI",
+    "sequence_number": "0404",
+    "timestamp": 603604247.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -20819,9 +21626,9 @@
     ]
   },
   {
-    "sequence_number": "0388",
-    "timestamp": 603602705.0,
-    "type": "R_V",
+    "sequence_number": "0405",
+    "timestamp": 603604761.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20864,9 +21671,9 @@
     }
   },
   {
-    "sequence_number": "0389",
-    "timestamp": 603602705.0,
-    "type": "R_VI",
+    "sequence_number": "0406",
+    "timestamp": 603604761.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20907,9 +21714,9 @@
     ]
   },
   {
-    "sequence_number": "0390",
-    "timestamp": 603603072.0,
-    "type": "R_V",
+    "sequence_number": "0407",
+    "timestamp": 603605109.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20952,9 +21759,9 @@
     }
   },
   {
-    "sequence_number": "0391",
-    "timestamp": 603603072.0,
-    "type": "R_VI",
+    "sequence_number": "0408",
+    "timestamp": 603605109.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -20995,9 +21802,9 @@
     ]
   },
   {
-    "sequence_number": "0392",
-    "timestamp": 603603670.0,
-    "type": "R_V",
+    "sequence_number": "0409",
+    "timestamp": 603605188.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21040,9 +21847,9 @@
     }
   },
   {
-    "sequence_number": "0393",
-    "timestamp": 603603670.0,
-    "type": "R_VI",
+    "sequence_number": "0410",
+    "timestamp": 603605188.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21083,9 +21890,9 @@
     ]
   },
   {
-    "sequence_number": "0394",
-    "timestamp": 603603988.0,
-    "type": "R_V",
+    "sequence_number": "0411",
+    "timestamp": 603605765.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21140,9 +21947,9 @@
     }
   },
   {
-    "sequence_number": "0395",
-    "timestamp": 603603988.0,
-    "type": "R_VI",
+    "sequence_number": "0412",
+    "timestamp": 603605765.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21195,9 +22002,9 @@
     ]
   },
   {
-    "sequence_number": "0396",
-    "timestamp": 603604318.0,
-    "type": "R_V",
+    "sequence_number": "0413",
+    "timestamp": 603606117.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21240,9 +22047,9 @@
     }
   },
   {
-    "sequence_number": "0397",
-    "timestamp": 603604318.0,
-    "type": "R_VI",
+    "sequence_number": "0414",
+    "timestamp": 603606117.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21283,9 +22090,9 @@
     ]
   },
   {
-    "sequence_number": "0398",
-    "timestamp": 603604853.0,
-    "type": "R_V",
+    "sequence_number": "0415",
+    "timestamp": 603606530.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21328,9 +22135,9 @@
     }
   },
   {
-    "sequence_number": "0399",
-    "timestamp": 603604853.0,
-    "type": "R_VI",
+    "sequence_number": "0416",
+    "timestamp": 603606530.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21371,9 +22178,9 @@
     ]
   },
   {
-    "sequence_number": "0400",
-    "timestamp": 603605025.0,
-    "type": "R_V",
+    "sequence_number": "0417",
+    "timestamp": 603606829.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21428,9 +22235,9 @@
     }
   },
   {
-    "sequence_number": "0401",
-    "timestamp": 603605025.0,
-    "type": "R_VI",
+    "sequence_number": "0418",
+    "timestamp": 603606829.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21483,9 +22290,9 @@
     ]
   },
   {
-    "sequence_number": "0402",
-    "timestamp": 603605514.0,
-    "type": "R_V",
+    "sequence_number": "0419",
+    "timestamp": 603607078.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21528,9 +22335,9 @@
     }
   },
   {
-    "sequence_number": "0403",
-    "timestamp": 603605514.0,
-    "type": "R_VI",
+    "sequence_number": "0420",
+    "timestamp": 603607078.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21575,9 +22382,9 @@
     ]
   },
   {
-    "sequence_number": "0404",
-    "timestamp": 603605514.0,
-    "type": "R_S",
+    "sequence_number": "0421",
+    "timestamp": 603607078.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21613,9 +22420,47 @@
     ]
   },
   {
-    "sequence_number": "0405",
-    "timestamp": 603605514.0,
-    "type": "R_SI",
+    "sequence_number": "0422",
+    "timestamp": 603607078.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "02",
+    "ed_name": "Gampaha",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 385733,
+        "vote_percentage": "54.14%",
+        "party_name": "United National Party",
+        "seat_count": 10
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 294490,
+        "vote_percentage": "41.34%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 7
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 21665,
+        "vote_percentage": "3.04%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 10549,
+        "vote_percentage": "1.48%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0423",
+    "timestamp": 603607078.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -21719,9 +22564,9 @@
     ]
   },
   {
-    "sequence_number": "0406",
-    "timestamp": 603605514.0,
-    "type": "R_SC",
+    "sequence_number": "0424",
+    "timestamp": 603607078.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "02",
     "ed_name": "Gampaha",
@@ -21831,9 +22676,9 @@
     ]
   },
   {
-    "sequence_number": "0407",
-    "timestamp": 603605684.0,
-    "type": "R_V",
+    "sequence_number": "0425",
+    "timestamp": 603607626.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21888,9 +22733,9 @@
     }
   },
   {
-    "sequence_number": "0408",
-    "timestamp": 603605684.0,
-    "type": "R_VI",
+    "sequence_number": "0426",
+    "timestamp": 603607626.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -21943,9 +22788,9 @@
     ]
   },
   {
-    "sequence_number": "0409",
-    "timestamp": 603606238.0,
-    "type": "R_V",
+    "sequence_number": "0427",
+    "timestamp": 603608046.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -21994,9 +22839,9 @@
     }
   },
   {
-    "sequence_number": "0410",
-    "timestamp": 603606238.0,
-    "type": "R_VI",
+    "sequence_number": "0428",
+    "timestamp": 603608046.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -22043,9 +22888,9 @@
     ]
   },
   {
-    "sequence_number": "0411",
-    "timestamp": 603606474.0,
-    "type": "R_V",
+    "sequence_number": "0429",
+    "timestamp": 603608502.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -22094,9 +22939,9 @@
     }
   },
   {
-    "sequence_number": "0412",
-    "timestamp": 603606474.0,
-    "type": "R_VI",
+    "sequence_number": "0430",
+    "timestamp": 603608502.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -22148,9 +22993,9 @@
     ]
   },
   {
-    "sequence_number": "0413",
-    "timestamp": 603606474.0,
-    "type": "R_S",
+    "sequence_number": "0431",
+    "timestamp": 603608502.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -22193,9 +23038,54 @@
     ]
   },
   {
-    "sequence_number": "0414",
-    "timestamp": 603606474.0,
-    "type": "R_SI",
+    "sequence_number": "0432",
+    "timestamp": 603608502.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "13",
+    "ed_name": "Digamadulla",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 62600,
+        "vote_percentage": "29.29%",
+        "party_name": "United National Party",
+        "seat_count": 3
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 61325,
+        "vote_percentage": "28.69%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 1
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 45400,
+        "vote_percentage": "21.24%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 1
+      },
+      {
+        "party_code": "TULF",
+        "vote_count": 43424,
+        "vote_percentage": "20.32%",
+        "party_name": "Tamil United Liberation Front",
+        "seat_count": 1
+      },
+      {
+        "party_code": "USF",
+        "vote_count": 965,
+        "vote_percentage": "0.45%",
+        "party_name": "United Socialist Front",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0433",
+    "timestamp": 603608502.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -22306,9 +23196,9 @@
     ]
   },
   {
-    "sequence_number": "0415",
-    "timestamp": 603606474.0,
-    "type": "R_SC",
+    "sequence_number": "0434",
+    "timestamp": 603608502.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "13",
     "ed_name": "Digamadulla",
@@ -22352,9 +23242,9 @@
     ]
   },
   {
-    "sequence_number": "0416",
-    "timestamp": 603606735.0,
-    "type": "R_V",
+    "sequence_number": "0435",
+    "timestamp": 603609008.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -22409,9 +23299,9 @@
     }
   },
   {
-    "sequence_number": "0417",
-    "timestamp": 603606735.0,
-    "type": "R_VI",
+    "sequence_number": "0436",
+    "timestamp": 603609008.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -22470,9 +23360,9 @@
     ]
   },
   {
-    "sequence_number": "0418",
-    "timestamp": 603606735.0,
-    "type": "R_S",
+    "sequence_number": "0437",
+    "timestamp": 603609008.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -22522,9 +23412,61 @@
     ]
   },
   {
-    "sequence_number": "0419",
-    "timestamp": 603606735.0,
-    "type": "R_SI",
+    "sequence_number": "0438",
+    "timestamp": 603609008.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "12",
+    "ed_name": "Batticaloa",
+    "by_party": [
+      {
+        "party_code": "TULF",
+        "vote_count": 55131,
+        "vote_percentage": "35.49%",
+        "party_name": "Tamil United Liberation Front",
+        "seat_count": 3
+      },
+      {
+        "party_code": "IND 1",
+        "vote_count": 46419,
+        "vote_percentage": "29.88%",
+        "party_name": "IND 1",
+        "seat_count": 1
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 36867,
+        "vote_percentage": "23.73%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 1
+      },
+      {
+        "party_code": "UNP",
+        "vote_count": 11317,
+        "vote_percentage": "7.28%",
+        "party_name": "United National Party",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 4130,
+        "vote_percentage": "2.66%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 0
+      },
+      {
+        "party_code": "IND 2",
+        "vote_count": 1497,
+        "vote_percentage": "0.96%",
+        "party_name": "IND 2",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0439",
+    "timestamp": 603609008.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -22649,9 +23591,9 @@
     ]
   },
   {
-    "sequence_number": "0420",
-    "timestamp": 603606735.0,
-    "type": "R_SC",
+    "sequence_number": "0440",
+    "timestamp": 603609008.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "12",
     "ed_name": "Batticaloa",
@@ -22689,9 +23631,9 @@
     ]
   },
   {
-    "sequence_number": "0421",
-    "timestamp": 603606809.0,
-    "type": "R_V",
+    "sequence_number": "0441",
+    "timestamp": 603609319.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -22740,9 +23682,9 @@
     }
   },
   {
-    "sequence_number": "0422",
-    "timestamp": 603606809.0,
-    "type": "R_VI",
+    "sequence_number": "0442",
+    "timestamp": 603609319.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -22794,9 +23736,9 @@
     ]
   },
   {
-    "sequence_number": "0423",
-    "timestamp": 603606809.0,
-    "type": "R_S",
+    "sequence_number": "0443",
+    "timestamp": 603609319.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -22839,9 +23781,54 @@
     ]
   },
   {
-    "sequence_number": "0424",
-    "timestamp": 603606809.0,
-    "type": "R_SI",
+    "sequence_number": "0444",
+    "timestamp": 603609319.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "06",
+    "ed_name": "Nuwara-Eliya",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 109853,
+        "vote_percentage": "63.34%",
+        "party_name": "United National Party",
+        "seat_count": 4
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 47128,
+        "vote_percentage": "27.18%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 2
+      },
+      {
+        "party_code": "DPLF",
+        "vote_count": 10509,
+        "vote_percentage": "6.06%",
+        "party_name": "DPLF",
+        "seat_count": 0
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 4214,
+        "vote_percentage": "2.43%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 1720,
+        "vote_percentage": "0.99%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0445",
+    "timestamp": 603609319.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -22966,9 +23953,9 @@
     ]
   },
   {
-    "sequence_number": "0425",
-    "timestamp": 603606809.0,
-    "type": "R_SC",
+    "sequence_number": "0446",
+    "timestamp": 603609319.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "06",
     "ed_name": "Nuwara-Eliya",
@@ -23012,9 +23999,9 @@
     ]
   },
   {
-    "sequence_number": "0426",
-    "timestamp": 603606872.0,
-    "type": "R_V",
+    "sequence_number": "0447",
+    "timestamp": 603609843.0,
+    "type": "RP_V",
     "level": "POLLING-DIVISION",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -23069,9 +24056,9 @@
     }
   },
   {
-    "sequence_number": "0427",
-    "timestamp": 603606872.0,
-    "type": "R_VI",
+    "sequence_number": "0448",
+    "timestamp": 603609843.0,
+    "type": "RE_VI",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -23130,9 +24117,9 @@
     ]
   },
   {
-    "sequence_number": "0428",
-    "timestamp": 603606872.0,
-    "type": "R_S",
+    "sequence_number": "0449",
+    "timestamp": 603609843.0,
+    "type": "RE_V",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -23182,9 +24169,61 @@
     ]
   },
   {
-    "sequence_number": "0429",
-    "timestamp": 603606872.0,
-    "type": "R_SI",
+    "sequence_number": "0450",
+    "timestamp": 603609843.0,
+    "type": "RE_S",
+    "level": "ELECTORAL-DISTRICT",
+    "ed_code": "01",
+    "ed_name": "Colombo",
+    "by_party": [
+      {
+        "party_code": "UNP",
+        "vote_count": 374530,
+        "vote_percentage": "51.67%",
+        "party_name": "United National Party",
+        "seat_count": 12
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 205053,
+        "vote_percentage": "28.29%",
+        "party_name": "Sri Lanka Freedom Party",
+        "seat_count": 6
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 76966,
+        "vote_percentage": "10.62%",
+        "party_name": "Majahana Eksath Peramuna",
+        "seat_count": 2
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 31873,
+        "vote_percentage": "4.40%",
+        "party_name": "USA",
+        "seat_count": 0
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 29308,
+        "vote_percentage": "4.04%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "seat_count": 0
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 7112,
+        "vote_percentage": "0.98%",
+        "party_name": "ELJP",
+        "seat_count": 0
+      }
+    ]
+  },
+  {
+    "sequence_number": "0451",
+    "timestamp": 603609843.0,
+    "type": "RN_SI",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -23309,9 +24348,9 @@
     ]
   },
   {
-    "sequence_number": "0430",
-    "timestamp": 603606872.0,
-    "type": "R_SC",
+    "sequence_number": "0452",
+    "timestamp": 603609843.0,
+    "type": "RE_SC",
     "level": "ELECTORAL-DISTRICT",
     "ed_code": "01",
     "ed_name": "Colombo",
@@ -23439,9 +24478,162 @@
     ]
   },
   {
-    "sequence_number": "0431",
-    "timestamp": 603606872.0,
-    "type": "R_VS",
+    "sequence_number": "0453",
+    "timestamp": 603609843.0,
+    "type": "RN_V",
+    "level": "NATIONAL",
+    "by_party": [
+      {
+        "party_code": "TULF",
+        "vote_count": 188594,
+        "seat_count": 9,
+        "vote_percentage": "3.37%",
+        "party_name": "Tamil United Liberation Front",
+        "national_list_seat_count": 1
+      },
+      {
+        "party_code": "UNP",
+        "vote_count": 2838005,
+        "seat_count": 110,
+        "vote_percentage": "50.71%",
+        "party_name": "United National Party",
+        "national_list_seat_count": 15
+      },
+      {
+        "party_code": "SLMC",
+        "vote_count": 202016,
+        "seat_count": 3,
+        "vote_percentage": "3.61%",
+        "party_name": "Sri Lanka Muslim Congress",
+        "national_list_seat_count": 1
+      },
+      {
+        "party_code": "IND",
+        "vote_count": 12285,
+        "seat_count": 1,
+        "vote_percentage": "0.22%",
+        "party_name": "IND",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "SLFP",
+        "vote_count": 1785369,
+        "seat_count": 58,
+        "vote_percentage": "31.90%",
+        "party_name": "Sri Lanka Freedom Party",
+        "national_list_seat_count": 9
+      },
+      {
+        "party_code": "USA",
+        "vote_count": 141983,
+        "seat_count": 1,
+        "vote_percentage": "2.54%",
+        "party_name": "USA",
+        "national_list_seat_count": 1
+      },
+      {
+        "party_code": "DPLF",
+        "vote_count": 19150,
+        "seat_count": 0,
+        "vote_percentage": "0.34%",
+        "party_name": "DPLF",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "INDI",
+        "vote_count": 175579,
+        "seat_count": 10,
+        "vote_percentage": "3.14%",
+        "party_name": "INDI",
+        "national_list_seat_count": 1
+      },
+      {
+        "party_code": "ACTC",
+        "vote_count": 7610,
+        "seat_count": 0,
+        "vote_percentage": "0.14%",
+        "party_name": "ACTC",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "MEP",
+        "vote_count": 90480,
+        "seat_count": 2,
+        "vote_percentage": "1.62%",
+        "party_name": "Majahana Eksath Peramuna",
+        "national_list_seat_count": 1
+      },
+      {
+        "party_code": "ELJP",
+        "vote_count": 67723,
+        "seat_count": 0,
+        "vote_percentage": "1.21%",
+        "party_name": "ELJP",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "IND2",
+        "vote_count": 584,
+        "seat_count": 0,
+        "vote_percentage": "0.01%",
+        "party_name": "IND2",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "IND1",
+        "vote_count": 886,
+        "seat_count": 0,
+        "vote_percentage": "0.02%",
+        "party_name": "IND1",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "USP",
+        "vote_count": 17323,
+        "seat_count": 1,
+        "vote_percentage": "0.31%",
+        "party_name": "United Socialist Party",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "USF",
+        "vote_count": 965,
+        "seat_count": 0,
+        "vote_percentage": "0.02%",
+        "party_name": "United Socialist Front",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "IND 1",
+        "vote_count": 46419,
+        "seat_count": 1,
+        "vote_percentage": "0.83%",
+        "party_name": "IND 1",
+        "national_list_seat_count": 0
+      },
+      {
+        "party_code": "IND 2",
+        "vote_count": 1497,
+        "seat_count": 0,
+        "vote_percentage": "0.03%",
+        "party_name": "IND 2",
+        "national_list_seat_count": 0
+      }
+    ],
+    "summary": {
+      "valid": 5246542,
+      "rejected": 341961,
+      "polled": 5588503,
+      "electors": 8119975,
+      "percent_polled": "68.82%",
+      "percent_valid": "93.88%",
+      "percent_rejected": "6.12%"
+    }
+  },
+  {
+    "sequence_number": "0454",
+    "timestamp": 603609843.0,
+    "type": "RN_VS",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -23592,9 +24784,9 @@
     }
   },
   {
-    "sequence_number": "0432",
-    "timestamp": 603606872.0,
-    "type": "R_VSN",
+    "sequence_number": "0455",
+    "timestamp": 603609843.0,
+    "type": "RN_VSN",
     "level": "NATIONAL",
     "by_party": [
       {
@@ -23745,9 +24937,9 @@
     }
   },
   {
-    "sequence_number": "0433",
-    "timestamp": 603606872.0,
-    "type": "R_NC",
+    "sequence_number": "0456",
+    "timestamp": 603609843.0,
+    "type": "RN_NC",
     "level": "NATIONAL",
     "by_candidate": [
       {
@@ -23927,9 +25119,9 @@
     ]
   },
   {
-    "sequence_number": "0434",
-    "timestamp": 603606872.0,
-    "type": "R_SCNC",
+    "sequence_number": "0457",
+    "timestamp": 603609843.0,
+    "type": "RN_SCNC",
     "level": "NATIONAL",
     "by_candidate": [
       {

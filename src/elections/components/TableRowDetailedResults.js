@@ -20,8 +20,8 @@ export default class TableRowDetailedResults extends Component {
       x => x['party_code'],
       x => x[0],
     );
-    const isDisplaySeats = (result['type'] === RESULT_TYPE.R_S)
-      || (result['type'] === RESULT_TYPE.R_SI);
+    const isDisplaySeats = (result['type'] === RESULT_TYPE.RE_S)
+      || (result['type'] === RESULT_TYPE.RN_SI);
 
     return (
       <tr
