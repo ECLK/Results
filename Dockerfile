@@ -1,10 +1,10 @@
-FROM node:10-alpine as builder
-WORKDIR /app
-COPY . .
-RUN npm install
-RUN npm run build
+# FROM node:10-alpine as builder
+# WORKDIR /app
+# COPY . .
+# RUN npm install
+# RUN npm run build
 
-# CMD ["node", "server.js"];
+# # CMD ["node", "server.js"];
 
 FROM nginx:1.13.3-alpine
 
@@ -15,7 +15,7 @@ COPY nginx/default.conf /etc/nginx/conf.d/
 RUN rm -rf /usr/share/nginx/html/*
 
 ## From 'builder' stage copy over the artifacts in dist folder to default nginx public folder
-COPY --from=builder /app/build /usr/share/nginx/html
+COPY ./build/* /usr/share/nginx/html/
 
 CMD ["nginx", "-g", "daemon off;"]
 
