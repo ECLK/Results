@@ -1,7 +1,7 @@
 [
     {
         "type": "RE_VI",
-        "timestamp": "2020-08-06T15:06:58.911+0530",
+        "timestamp": 1596726360,
         "level": "ELECTORAL-DISTRICT",
         "ed_code": "07",
         "ed_name": "Galle",
@@ -3316,7 +3316,7 @@
             "percent_rejected": "4.11%",
             "percent_polled": "97.50%"
         },
-        "timestamp": 1439815010.0,
+        "timestamp": 1596726360,
         "sequence_number": "0388"
     }
 ]
