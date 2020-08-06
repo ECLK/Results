@@ -20,9 +20,9 @@ jobs:
         DOCKER_USER: ${{secrets.DOCKER_USER}}
         REPO_NAME: ${{ github.event.repository.name }} 
         TAG: ${{github.sha}}
-      run: docker build . --file Dockerfile --tag ${DOCKER_USER}/${REPO_NAME}:${TAG}
+      run: docker build . --file Dockerfile --tag ${DOCKER_USER}/public-results:${TAG}
     - name: Docker Push
-      run: docker push ${DOCKER_USER}/${REPO_NAME}:${TAG}
+      run: docker push ${DOCKER_USER}/public-results:${TAG}
       env:
         DOCKER_USER: ${{secrets.DOCKER_USER}}
         REPO_NAME: ${{ github.event.repository.name }} 
@@ -34,6 +34,6 @@ jobs:
         org-id: ${{secrets.ORG_ID}}
         project-id: ${{secrets.PROJECT_ID}}
         token: ${{secrets.TOKEN}}
-        image-name: ${{secrets.DOCKER_USER}}/${{ github.event.repository.name }} 
+        image-name: ${{secrets.DOCKER_USER}}/public-results
         tag: ${{github.sha}}
         container-id: a5d76fc2-7078-43a1-9a30-84d1c1bd83e8
