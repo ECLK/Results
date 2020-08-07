@@ -11,7 +11,17 @@ const FORMAT_TIME_OPTIONS = {
     day: 'numeric'
 };
 function formatT(t) {
-  return new Date(t * 1000).toLocaleTimeString('en-LK', FORMAT_TIME_OPTIONS);
+  // Case 1: t is unixtime
+  const ts = new Date(t * 1000).toLocaleTimeString(
+    'en-LK',
+    FORMAT_TIME_OPTIONS,
+  );
+  if (ts !== 'Invalid Date') {
+    return ts;
+  }
+  // Case 2: t is time string
+  const t2 = Date.parse(t) / 1000.0;
+  return formatT(t2);
 }
 
 export default class TableLatestResults extends Component {

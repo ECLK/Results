@@ -7,11 +7,10 @@ import ChartSeats from '../components/ChartSeats.js';
 
 export default class TableFinalSeats extends Component {
   render() {
-    const finalSeats = this.props.finalSeats;
+    let finalSeats = this.props.finalSeats;
     if (!finalSeats) {
       return null;
     }
-
     const partyList = getPartyList(finalSeats);
 
     const bySeatType = finalSeats['by_party'].reduce(

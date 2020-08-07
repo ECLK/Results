@@ -3,9 +3,9 @@ import React, {Component} from 'react';
 import {getRegionListLK, sort} from '../utils/data.js';
 import {getPartyList} from '../utils/party.js';
 import {renderLoading} from '../utils/render.js';
+import {formatPercent} from '../utils/data.js';
 
 import ChartMap from '../components/ChartMap.js';
-import ChartPie from '../components/ChartPie.js';
 import TableRowDetailedResults from '../components/TableRowDetailedResults.js';
 import TableRowHeaderDetailedResults
   from '../components/TableRowHeaderDetailedResults.js';
@@ -26,12 +26,63 @@ export default class TableEDSummary extends Component {
     if (!regionList) {
       return renderLoading();
     }
-    const edSummary = this.props.edSummary;
-    const lkSummaryIncrLast = this.props.lkSummaryIncrLast;
-    if (!lkSummaryIncrLast) {
+    const edVoteSummary = this.props.edVoteSummary;
+    const edSeatSummary = this.props.edSeatSummary;
+
+    let lkSeatSummaryIncrLast = this.props.lkSeatSummaryIncrLast;
+    if (!lkSeatSummaryIncrLast) {
       return null;
     }
-    const partyList = getPartyList(lkSummaryIncrLast);
+
+    const partyToVoteCount = edVoteSummary.reduce(
+      function(partyToVoteCount, resultVote, i) {
+        return resultVote['by_party'].reduce(
+          function(partyToVoteCount, forParty, j) {
+            const party = forParty['party_code'];
+
+            let voteCount = forParty['vote_count'];
+            if (isNaN(voteCount)) {
+              voteCount = 0;
+            }
+
+            if (partyToVoteCount[party] === undefined) {
+              partyToVoteCount[party] = 0;
+            }
+            partyToVoteCount[party] += voteCount;
+            return partyToVoteCount;
+          },
+          partyToVoteCount
+        );
+      },
+      {},
+    );
+    const totalVotes = Object.values(partyToVoteCount).reduce(
+      function(totalVotes, voteCount, i) {
+        return totalVotes + voteCount;
+      },
+      0,
+    );
+
+    lkSeatSummaryIncrLast['by_party'] = lkSeatSummaryIncrLast['by_party'].map(
+      function(forParty, i) {
+        const party = forParty['party_code'];
+        const voteCount = partyToVoteCount[party];
+        forParty['vote_count'] = voteCount;
+        forParty['vote_percentage'] = formatPercent(voteCount, totalVotes);
+        return forParty;
+      },
+    );
+
+    const partyList = getPartyList(lkSeatSummaryIncrLast);
+
+    const edVoteSummaryByEdCode = edVoteSummary.reduce(
+      function(edVoteSummaryByEdCode, resultVote, i) {
+        const edCode = resultVote['ed_code'];
+        edVoteSummaryByEdCode[edCode] = resultVote;
+        return edVoteSummaryByEdCode;
+      },
+      {},
+    );
 
     const headerRow = (
       <TableRowHeaderDetailedResults
@@ -42,8 +93,27 @@ export default class TableEDSummary extends Component {
       />
     );
 
-    const rowList = sort(edSummary, 'ed_code').map(
+    const rowList = sort(edSeatSummary, 'ed_code').map(
       function(result, i) {
+        const resultVote = edVoteSummaryByEdCode[result['ed_code']];
+        const resultVoteByParty = resultVote['by_party'].reduce(
+          function(resultVoteByParty, forParty, j) {
+            const party = forParty['party_code'];
+            resultVoteByParty[party] = forParty;
+            return resultVoteByParty;
+          },
+          {},
+        )
+        result['by_party'] = result['by_party'].map(
+          function(forParty, j) {
+            const party = forParty['party_code'];
+            forParty['vote_count'] = resultVoteByParty[party]['vote_count'];
+            forParty['vote_percentage'] =
+              resultVoteByParty[party]['vote_percentage'];
+            return forParty;
+          }
+        )
+
         return (
           <TableRowDetailedResults
             key={i}
@@ -57,7 +127,7 @@ export default class TableEDSummary extends Component {
 
     const footerRow = (
       <TableRowDetailedResults
-        result={lkSummaryIncrLast}
+        result={lkSeatSummaryIncrLast}
         partyList={partyList}
         regionCodeField={null}
       />
@@ -71,18 +141,15 @@ export default class TableEDSummary extends Component {
       </table>
     )
 
-    const nReleased = edSummary.length;
     return (
       <div>
         <h1>Summary Results by Electoral District</h1>
-        <p>{`${nReleased} of 22 Electoral Districts Complete.`}</p>
         <ChartMap
           parentRegionCode={'LK'}
           childRegionCodeType={'ed_code'}
           regionList={regionList}
-          resultList={edSummary}
+          resultList={edVoteSummary}
         />
-        <ChartPie result={lkSummaryIncrLast}/>
         {table}
         <p>* Complete Electoral Districts Only</p>
       </div>

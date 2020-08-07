@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 import {getPartyColor} from '../utils/party.js';
-import {parsePctStr} from '../utils/data.js';
+import {parsePctStr, formatPercent} from '../utils/data.js';
 
 function degToRad(deg) {
   return deg * Math.PI / 180.0;
@@ -10,12 +10,32 @@ function degToRad(deg) {
 export default class ChartPie extends Component {
   render() {
     const result = this.props.result;
-    const r = 120;
+    let pSum = 0;
+    let byPartyForDisplay = result['by_party'].filter(
+      function(forParty) {
+        const votePercentage = forParty['vote_percentage'];
+        const p = parsePctStr(votePercentage);
+        if (p >= 0.05) {
+          pSum += p;
+          return true;
+        }
+        return false;
+      }
+    ).sort(
+      function(a, b) {
+        return b['vote_count'] - a['vote_count'];
+      },
+    ).concat([{
+      'party_code': 'Other',
+      'vote_percentage': formatPercent(1 - pSum, 1),
+    }]);
+
+    const r = 165;
     const cx = r;
     const cy = r;
 
     let theta = 0;
-    const renderedArcs = result['by_party'].map(
+    const renderedArcs = byPartyForDisplay.map(
       function(forParty, i) {
         const partyCode = forParty['party_code'];
         const votePercentage = forParty['vote_percentage'];
@@ -35,7 +55,10 @@ export default class ChartPie extends Component {
 
         const thetaMid = (prevThetaRad + thetaRad) / 2;
 
-        const D_TEXT = 0.5;
+        let D_TEXT = 0.5;
+        if (p < 0.1) {
+          D_TEXT = 0.75;
+        }
         const x01 = cx + r * Math.sin(thetaMid) * D_TEXT;
         const y01 = cy - r * Math.cos(thetaMid) * D_TEXT;
 
@@ -61,7 +84,7 @@ export default class ChartPie extends Component {
           labelP = votePercentage;
         }
 
-        const fontSize = Math.sqrt(p) * 24;
+        const fontSize = Math.sqrt(p) * 48;
 
         return (
           <svg key={partyCode}>
@@ -78,6 +101,7 @@ export default class ChartPie extends Component {
               x={x01}
               y={y01 + fontSize / 2}
               fontSize={fontSize}
+              fontWeight={'bold'}
               textAnchor={'middle'}
             >
               {labelP}

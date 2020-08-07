@@ -66,10 +66,12 @@ export default class ChartMap extends Component {
             (minLat + maxLat) / 2,
             (minLng + maxLng) / 2,
         ]);
+        // eslint-disable-next-line
         const [x0, y0] = t([
             minLat,
             minLng,
         ]);
+        // eslint-disable-next-line
         const [x1, y1] = t([
             maxLat,
             maxLng,

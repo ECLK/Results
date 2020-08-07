@@ -13,7 +13,7 @@ export default class ChartSeats extends Component {
     let cumSeatCount = 0;
 
     const renderedBoxList = result['by_party'].map(
-      function(forParty) {
+      function(forParty, i) {
         const partyCode = forParty['party_code'];
         const color = getPartyColor(partyCode, true, '100.00%');
         const seatCount = forParty['seat_count']
@@ -27,6 +27,7 @@ export default class ChartSeats extends Component {
           function(i) {
             const renderedBox = (
               <circle
+                key={partyCode + i}
                 cx={x + BOX_DIM * 0.5}
                 cy={y + BOX_DIM * 2}
                 r={0.8 * BOX_DIM * 0.4}
@@ -68,7 +69,7 @@ export default class ChartSeats extends Component {
     const x12 = BOX_DIM * 12.6;
     const x23 = BOX_DIM * 17.3;
     return (
-      <svg width={width} height={height}>
+      <svg width={width} height={height} key={'ChartSeats'}>
         {renderedBoxList}
         <line
           x1={x12}

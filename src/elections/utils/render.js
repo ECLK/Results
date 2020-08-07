@@ -14,6 +14,7 @@ export function renderEmptyCell() {
 
 export function renderParty(partyCode) {
   const imageFileName = `party_logos/logo_${partyCode}.png`;
+  partyCode = partyCode.split('_')[0].replace('IND', 'IG');
   return (
     <div className="div-party" title={getPartyName(partyCode)}>
       <div>{partyCode}</div>
@@ -52,7 +53,10 @@ export function renderLoading() {
 }
 
 export function renderRegion(regionCode) {
-  const regionName = REGION_CODE_TO_NAME[regionCode];
+  let regionCodeCleaned = regionCode;
+  regionCodeCleaned = regionCodeCleaned.replace('DV', '_D');
+  regionCodeCleaned = regionCodeCleaned.replace('PV', 'P');
+  const regionName = REGION_CODE_TO_NAME[regionCodeCleaned];
   const regionType = (regionCode.length > 2)
     ? 'Polling Division'
     : 'Electoral District';

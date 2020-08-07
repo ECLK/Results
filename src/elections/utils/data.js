@@ -18,7 +18,7 @@ async function getJson(jsonFileName, isCached=false) {
 
 export async function getResults(year) {
   const dataFileName = `data/elections/gen_elec_sl.ec.results.${year}.json`;
-  return await getJson(dataFileName)
+  return await getJson(dataFileName, true)
 }
 
 export async function getResultGroups(year) {
@@ -94,5 +94,16 @@ export async function downloadResults(year) {
   fileDownload(
     JSON.stringify(resultList),
     `gen_elec_sl.ec.results.${year}.json`,
+  );
+}
+
+
+export function formatPercent(n, d) {
+  return Number(n / d).toLocaleString(
+      undefined,
+      {
+        style: 'percent',
+        minimumFractionDigits:2,
+      }
   );
 }

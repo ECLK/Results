@@ -9,7 +9,7 @@ export default class App extends Component {
     ReactGA.initialize('UA-152857980-2');
     ReactGA.pageview(window.location.pathname + window.location.search);
   }
-  render() {
+    render() {
     return (
       <div className="App" key="App">
         <HomePage />

@@ -8,7 +8,12 @@ export async function cacheGet(cacheKey, fallback) {
   const data = await fallback();
   if (data) {
     const dataJsonHot = JSON.stringify(data);
-    localStorage.setItem(cacheKey, dataJsonHot);
+    try {
+      localStorage.setItem(cacheKey, dataJsonHot);
+    } catch {
+      localStorage.clear();
+      localStorage.setItem(cacheKey, dataJsonHot);
+    }
 
     const tDelta = Date.now() - tStart;
     const dataSize = dataJsonHot.length / 1000;

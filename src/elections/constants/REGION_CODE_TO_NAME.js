@@ -113,6 +113,7 @@ const REGION_CODE_TO_NAME = {
   "11B": "Vavuniya",
   "11C": "Mullaitivu",
   "11P": "Postal Votes Vanni",
+  "11_D": "Displaced Votes Vanni",
   "12": "Batticaloa",
   "12A": "Kalkudah",
   "12B": "Batticaloa",
