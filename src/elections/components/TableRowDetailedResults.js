@@ -30,7 +30,7 @@ export default class TableRowDetailedResults extends Component {
         className={regionCode ? '' : 'tr-total'}
       >
         <td key={'region-name'} className="td-region">
-          {regionCode ? (renderRegion(regionCode)) : 'Districtwide'}
+          {isDisplaySeats ? regionCode ? (renderRegion(regionCode)) : 'Islandwide' : regionCode ? (renderRegion(regionCode)) : 'Districtwide' }
         </td>
         {partyList.map(
           function(partyCode, j) {
