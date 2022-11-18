@@ -9,7 +9,7 @@
     "react-dom": "^16.10.2",
     "react-download-link": "^2.2.0",
     "react-ga": "^2.7.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   },
